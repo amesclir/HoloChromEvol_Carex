@@ -37,6 +37,12 @@ phy <- multi2di(phy)
 is.ultrametric(phy)
 is.rooted(phy)
 
+
+#Loading the data
+mydata <- read.csv("tiplabels.txt", sep= ";")
+mydata
+
+
 #Pruning the tree
 
 drop<-read.csv("droptips.csv", header=F,sep=";")
@@ -44,26 +50,32 @@ drop<-as.character(drop[,1]) #Convierto en caracter, porque es obligatorio para 
 
 phy<-drop.tip(phy=phy, tip=drop, subtree=F)
 
-#setdiff(phy1$tip.label, mydata[,1]) 
+setdiff(phy$tip.label, mydata[,1]) 
 
 #The tree is ready for the analyses!!!!!!
 
-mydata <- read.csv("tiplabels.txt", sep= ";")
-mydata
+#OK but this is an easier way because you don't have to create a list
+#Look
+tips.to.remove <- setdiff(phy$tip.label, mydata[,1])
+phy <- drop.tip(phy, tips.to.remove)
+setdiff(phy$tip.label, mydata[,1]) 
+#This way you don't need to create an file like droptips.csv
 
+
+#Setting the character
 char <- mydata[,3] 
 names(char) = mydata[,1]
 char
 
-sd <- as.numeric(sdlatitude[-203,1])
-
-names(sd) = pcapruebavignea$x[-203,"NAMES"]
-
+#Setting the character variation
+sd <- mydata[,6]
+names(sd) = mydata[,1]
+sd
 
 ```
 
 
-This is an old script that we have to update. Once we have uploaded the the phy and the chromosome data, we can use it to model chromosome evolution.
+OK. Now the Quasse analyses
 
 ```{r}
 library(diversitree)
@@ -79,50 +91,36 @@ make <- function(lambda, mu) make.quasse(phy, char, sd, lambda, mu, sampling.f=0
 nodrift <- function(f) constrain(f, drift ~ 0)
 f.c.c <- make(constant.x, constant.x)
 f.l.c <- make(linear.x, constant.x)
-f.c.l <- make(constant.x, linear.x)
 f.s.c <- make(sigmoid.x, constant.x) 
-f.c.s <- make(constant.x, sigmoid.x)
 f.h.c <- make(noroptimal.x, constant.x) 
-f.c.h <- make(constant.x, noroptimal.x)
  
 
 control <- list(parscale = 0.1, reltol = 0.001)
-LATC.mle.c.c <- find.mle(nodrift(f.c.c), p, lower = 0, control = control, verbose = 0)
+chrom.mle.c.c <- find.mle(nodrift(f.c.c), p, lower = 0, control = control, verbose = 0)
 
 
 
-p.c <- LATC.mle.c.c$par
+p.c <- chrom.mle.c.c$par
 p.c
 p.l.c <- c(p.c[1], l.m = 0, p.c[2:3])
 p.l.c
-p.c.l <- c(p.c[1:2], m.m = 0, p.c[3]) 
-p.c.l
 p.s.c <- c(p.c[1], p.c[1], mean(char), 1, p.c[2:3])
 p.s.c
-p.c.s <- c(p.c[1:2], p.c[2], mean(char), 1, p.c[3])
-p.c.s
 p.h.c <- c(p.c[1], p.c[1], mean(char), 1, p.c[2:3])
 p.h.c
-p.c.h <- c(p.c[1:2], p.c[2], mean(char), 1, p.c[3])
-p.c.h
 
-LATC.mle.d.c.c <- find.mle(f.c.c, coef(LATC.mle.c.c, TRUE), control = control, verbose = 0)
-LATC.mle.l.c <- find.mle(nodrift(f.l.c), p.l.c, control = control, verbose = 0)
-LATC.mle.c.l <- find.mle(nodrift(f.c.l), p.c.l, control = control, verbose = 0)
-LATC.mle.d.l.c <- find.mle(f.l.c, coef(LATC.mle.l.c, TRUE), control = control, verbose = 0)
-LATC.mle.d.c.l <- find.mle(f.c.l, coef(LATC.mle.c.l, TRUE), control = control, verbose = 0)
-LATC.mle.s.c <- find.mle(nodrift(f.s.c), p.s.c, control = control, verbose = 0)
-LATC.mle.d.s.c <- find.mle(f.s.c, coef(LATC.mle.s.c, TRUE), control = control, verbose = 0)
-LATC.mle.c.s <- find.mle(nodrift(f.c.s), p.c.s, control = control, verbose = 0)
-LATC.mle.d.c.s <- find.mle(f.c.s, coef(LATC.mle.c.s, TRUE), control = control, verbose = 0)
-LATC.mle.h.c <- find.mle(nodrift(f.h.c), p.h.c, control = control, verbose = 0)
-LATC.mle.d.h.c <- find.mle(f.h.c, coef(LATC.mle.h.c, TRUE), control = control, verbose = 0)
-LATC.mle.c.h <- find.mle(nodrift(f.c.h), p.c.h, control = control, verbose = 0)
-LATC.mle.d.c.h <- find.mle(f.c.h, coef(LATC.mle.c.h, TRUE), control = control, verbose = 0)
+chrom.mle.d.c.c <- find.mle(f.c.c, coef(chrom.mle.c.c, TRUE), control = control, verbose = 0)
+chrom.mle.l.c <- find.mle(nodrift(f.l.c), p.l.c, control = control, verbose = 0)
+chrom.mle.d.l.c <- find.mle(f.l.c, coef(chrom.mle.l.c, TRUE), control = control, verbose = 0)
+chrom.mle.s.c <- find.mle(nodrift(f.s.c), p.s.c, control = control, verbose = 0)
+chrom.mle.d.s.c <- find.mle(f.s.c, coef(chrom.mle.s.c, TRUE), control = control, verbose = 0)
+chrom.mle.h.c <- find.mle(nodrift(f.h.c), p.h.c, control = control, verbose = 0)
+chrom.mle.d.h.c <- find.mle(f.h.c, coef(chrom.mle.h.c, TRUE), control = control, verbose = 0)
 
 
-LATCVIGNEAanova <- anova(LATC.mle.c.c, OU.constant.constant = LATC.mle.d.c.c, BM.linear.constant = LATC.mle.l.c, BM.constant.linear = LATC.mle.c.l, OU.linear.constant = LATC.mle.d.l.c, OU.constant.linear = LATC.mle.d.c.l, BM.sigmoid.constant = LATC.mle.s.c, OU.sigmoid.constant = LATC.mle.d.s.c, BM.constant.sigmoid = LATC.mle.c.s, OU.constant.sigmoid = LATC.mle.d.c.s, BM.hump.constant = LATC.mle.h.c, OU.hump.constant = LATC.mle.d.h.c, BM.constant.hump = LATC.mle.c.h, OU.constant.hump = LATC.mle.d.c.h)
+chrom.anova <- anova(chrom.mle.c.c, OU.constant.constant = chrom.mle.d.c.c, BM.linear.constant = chrom.mle.l.c, OU.linear.constant = chrom.mle.d.l.c, BM.sigmoid.constant = chrom.mle.s.c, OU.sigmoid.constant = chrom.mle.d.s.c, BM.hump.constant = chrom.mle.h.c, OU.hump.constant = chrom.mle.d.h.c)
 
+chrom.anova
 
 ```
 
