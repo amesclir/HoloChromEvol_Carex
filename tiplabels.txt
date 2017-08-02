@@ -1,569 +1,565 @@
-original name;species;mean;sd;standard error (se);Ncyt;mean sd / Ncyt;mean se / Ncyt
-Carex_ramenskii|B836|ARK|spm00001439|Phacocystis;Carex ramenskii;80;;;1;3.56286611984883;1.42217331272306
-Carex_emoryi|B267|DEL|spm00000885|Phacocystis;Carex emoryi;72;;;1;3.56286611984883;1.42217331272306
-Carex_orbicularis_subsp._orbicularis||EHM|spm00003063|Phacocystis;Carex orbicularis subsp. orbicularis;86;;;1;3.56286611984883;1.42217331272306
-Carex_gynandra|B346|DEL|spm00000964|Phacocystis;Carex gynandra;68;;;1;3.56286611984883;1.42217331272306
-Carex_torta|B715|PEN|spm00001320|Phacocystis;Carex torta;66;;;1;3.56286611984883;1.42217331272306
-Carex_mitchelliana|B495|ALA|spm00001101|Phacocystis;Carex mitchelliana;66;;;1;3.56286611984883;1.42217331272306
-Carex_microchaeta_subsp._microchaeta|B1339|YUK|spm00001946|Scitae;Carex microchaeta subsp. microchaeta;62;;;1;3.56286611984883;1.42217331272306
-Carex_typhina||SCA|spm00005238|Squarrosae;Carex typhina;54;;;1;3.56286611984883;1.42217331272306
-Carex_squarrosa|B675|ARK|spm00001281|Squarrosae;Carex squarrosa;56;;;1;3.56286611984883;1.42217331272306
-Carex_haydenii|B1185|IOW|spm00001792|Phacocystis;Carex haydenii;54;;;1;3.56286611984883;1.42217331272306
-Carex_aperta|B1235|BRC|spm00001842|Phacocystis;Carex aperta;54;;;1;3.56286611984883;1.42217331272306
-Carex_stylosa|B889|NFL|spm00001490|Stylosae;Carex stylosa;52;;;1;3.56286611984883;1.42217331272306
-Carex_hirsutella|B317|DEL|spm00000935|Porocystis;Carex hirsutella;52;;;1;3.56286611984883;1.42217331272306
-Carex_caroliniana|B197|ALA|spm00000815|Porocystis;Carex caroliniana;48;;;1;3.56286611984883;1.42217331272306
-Carex_swanii||ILL|spm00005235|Porocystis;Carex swanii;54;;;1;3.56286611984883;1.42217331272306
-Carex_aestivalis|B062|PEN|spm00000681|Hymenochlaenae;Carex aestivalis;56;;;1;3.56286611984883;1.42217331272306
-Carex_formosa|B1125|ILL|spm00001732|Hymenochlaenae;Carex formosa;52;;;1;3.56286611984883;1.42217331272306
-Carex_hirtifolia|B872|QUE|spm00001475|Hirtifoliae;Carex hirtifolia;50;;;1;3.56286611984883;1.42217331272306
-Carex_scabrata|B636|GEO|spm00001243|Anomalae;Carex scabrata;54;;;1;3.56286611984883;1.42217331272306
-Carex_curatorum|B1409||spm00002016|Scirpinae;Carex curatorum;62;;;1;3.56286611984883;1.42217331272306
-Carex_scabriuscula|B639|CAL|spm00001246|Scirpinae;Carex scabriuscula;58;;;1;3.56286611984883;1.42217331272306
-Carex_laeviconica|B1280|TEN|spm00001887|Carex;Carex laeviconica;110;;;1;3.56286611984883;1.42217331272306
-Carex_songorica||TZK|spm00003384|Paludosae;Carex songorica;82;;;1;3.56286611984883;1.42217331272306
-Carex_houghtoniana|B843|MAN|spm00001446|Paludosae;Carex houghtoniana;56;;;1;3.56286611984883;1.42217331272306
-Carex_comosa|B208|CAL|spm00000826|Vesicariae;Carex comosa;64;;;1;3.56286611984883;1.42217331272306
-Carex_lupuliformis|B393|FLA|spm00001011|Lupulinae;Carex lupuliformis;60;;;1;3.56286611984883;1.42217331272306
-Carex_retrorsa|B603|MIC|spm00001210|Vesicariae;Carex retrorsa;70;;;1;3.56286611984883;1.42217331272306
-Carex_pedunculata|B541|MAS|spm00001147|Clandestinae;Carex pedunculata;26;;;1;3.56286611984883;1.42217331272306
-Carex_mannii||KEN|spm00000209|Spirostachyae;Carex mannii;70;;;1;3.56286611984883;1.42217331272306
-Carex_mannii_subsp._friesiorum||KEN|spm00004355|Spirostachyae;Carex mannii subsp. friesiorum;70;;;1;3.56286611984883;1.42217331272306
-Carex_boryana||REU|spm00002844|Spirostachyae;Carex boryana;68;;;1;3.56286611984883;1.42217331272306
-Carex_borbonica||REU|spm00002843|Spirostachyae;Carex borbonica;68;;;1;3.56286611984883;1.42217331272306
-Carex_petitiana_subsp._attenuata||MLW|spm00002870|Spirostachyae;Carex petitiana subsp. attenuata;70;;;1;3.56286611984883;1.42217331272306
-Carex_simensis||KEN|spm00000232|Spirostachyae;Carex simensis;70;;;1;3.56286611984883;1.42217331272306
-Carex_perraudieriana||CNY|spm00004346|Spirostachyae;Carex perraudieriana;74;;;1;3.56286611984883;1.42217331272306
-Carex_aethiopica||CPP|spm00002842|Spirostachyae;Carex aethiopica;74;;;1;3.56286611984883;1.42217331272306
-Carex_fissirostris||MOR|spm00002917|Spirostachyae;Carex fissirostris;72;;;1;3.56286611984883;1.42217331272306
-Carex_hochstetteriana||AZO|spm00002857|Spirostachyae;Carex hochstetteriana;76;;;1;3.56286611984883;1.42217331272306
-Carex_idaea||KRI|spm00002933|Spirostachyae;Carex idaea;74;;;1;3.56286611984883;1.42217331272306
-Carex_lainzii||SPA|spm00002942|Spirostachyae;Carex lainzii;68;;;1;3.56286611984883;1.42217331272306
-Carex_vixdentata||AGE|spm00002963|Spirostachyae;Carex vixdentata;62;;;1;3.56286611984883;1.42217331272306
-Carex_ecklonii||CPP|spm00004378|Spirostachyae;Carex ecklonii;64;;;1;3.56286611984883;1.42217331272306
-Carex_forsteri||NZS|spm00002183|Echinochlaenae;Carex forsteri;60;;;1;3.56286611984883;1.42217331272306
-Carex_calcis||NZS|spm00002186|Echinochlaenae;Carex calcis;68;;;1;3.56286611984883;1.42217331272306
-Carex_lepidocarpa_subsp._jemtlandica||NOR|spm00003056|Ceratocystis;Carex lepidocarpa subsp. jemtlandica;68;;;1;3.56286611984883;1.42217331272306
-Carex_cryptolepis|B1123|ILL|spm00001730|Ceratocystis;Carex cryptolepis;64;;;1;3.56286611984883;1.42217331272306
-Carex_castroviejoi|Carex_WSU_55|GRC|FASTA.LABEL.NO.SPECIMEN.MATCH|Ceratocystis;Carex castroviejoi;62;;;1;3.56286611984883;1.42217331272306
-Carex_bequaertii||KEN|spm00000175|Rhynchocystis;Carex bequaertii;58;;;1;3.56286611984883;1.42217331272306
-Carex_microcarpa|18E1MMR11|COR|spm00003759|Rhynchocystis;Carex microcarpa;60;;;1;3.56286611984883;1.42217331272306
-Carex_rainbowii||NAT|spm00003255|Sylvaticae;Carex rainbowii;58;;;1;3.56286611984883;1.42217331272306
-Carex_delicata||TZK|spm00003358|Chlorostachyae;Carex delicata;58;;;1;3.56286611984883;1.42217331272306
-Carex_hallii|B1147|MAN|spm00001754|Racemosae;Carex hallii;54;;;1;3.56286611984883;1.42217331272306
-Carex_parryana|B1027|ARK|spm00001634|Racemosae;Carex parryana;54;;;1;3.56286611984883;1.42217331272306
-Carex_raynoldsii|B578|CAL|spm00001184|Racemosae;Carex raynoldsii;58;;;1;3.56286611984883;1.42217331272306
-Carex_infuscata||AFG|spm00003364|Racemosae;Carex infuscata;54;;;1;3.56286611984883;1.42217331272306
-Carex_bella|B1114|COL|spm00001721|Racemosae;Carex bella;40;;;1;3.56286611984883;1.42217331272306
-Carex_melanocephala||ALT|spm00006156|Racemosae;Carex melanocephala;52;;;1;3.56286611984883;1.42217331272306
-Carex_obscura_var._brachycarpa||CHT|spm00003376|Racemosae;Carex obscura var. brachycarpa;56;;;1;3.56286611984883;1.42217331272306
-Carex_hartmanii||GER|spm00006155|Racemosae;Carex hartmanii;68;;;1;3.56286611984883;1.42217331272306
-Carex_arnellii|3E4MMR13|SWE|spm00003783|Hymenochlaenae;Carex arnellii;40;;;1;3.56286611984883;1.42217331272306
-Carex_radfordii|B835|SCA|spm00001438|Laxiflorae;Carex radfordii;46;;;1;3.56286611984883;1.42217331272306
-Carex_styloflexa|B693|GEO|spm00001299|Laxiflorae;Carex styloflexa;48;;;1;3.56286611984883;1.42217331272306
-Carex_crebriflora|B425||spm00001043|Laxiflorae;Carex crebriflora;42;;;1;3.56286611984883;1.42217331272306
-Carex_garberi|B1017|ARK|spm00001624|Bicolores;Carex garberi;52;;;1;3.56286611984883;1.42217331272306
-Carex_tetanica|B709|MAN|spm00001314|Paniceae;Carex tetanica;56;;;1;3.56286611984883;1.42217331272306
-Carex_manhartii|B1154|GEO|spm00001761|Laxiflorae;Carex manhartii;28;;;1;3.56286611984883;1.42217331272306
-Carex_olbiensis||SPA|spm00000586|Paniceae;Carex olbiensis;46;;;1;3.56286611984883;1.42217331272306
-Carex_papulosa||KOR|spm00000016|Paniceae;Carex papulosa;44;;;1;3.56286611984883;1.42217331272306
-Carex_laxa|B1036|ARK|spm00001643|Paniceae;Carex laxa;58;;;1;3.56286611984883;1.42217331272306
-Carex_quadriflora||KOR|spm00000002|Clandestinae;Carex quadriflora;46;;;1;3.56286611984883;1.42217331272306
-Carex_careyana|STA_179|ONT|spm00005142|Careyanae;Carex careyana;68;;;1;3.56286611984883;1.42217331272306
-Carex_hitchcockiana||TEN|spm00005309|Griseae;Carex hitchcockiana;54;;;1;3.56286611984883;1.42217331272306
-Carex_microdonta|B817|MSI|spm00001420|Granulares;Carex microdonta;64;;;1;3.56286611984883;1.42217331272306
-Carex_abscondita|B057|MRY|spm00000676|Careyanae;Carex abscondita;48;;;1;3.56286611984883;1.42217331272306
-Carex_nodaeana||CHM|spm00003470|Rhomboidales;Carex nodaeana;70;;;1;3.56286611984883;1.42217331272306
-Carex_brevicollis||TCS|spm00003478|Depauperatae;Carex brevicollis;56;;;1;3.56286611984883;1.42217331272306
-Carex_gifuensis|E0180|KOR?|spm00000331|Acrocystis;Carex gifuensis;42;;;1;3.56286611984883;1.42217331272306
-Carex_tsushimensis|E0541|KOR?|spm00000353|Mitratae;Carex tsushimensis;32;;;1;3.56286611984883;1.42217331272306
-Carex_depressa_subsp._basilaris||SPA|spm00000547|Mitratae;Carex depressa subsp. basilaris;66;;;1;3.56286611984883;1.42217331272306
-Carex_depressa_subsp._transsilvanica||YUG|spm00000546|Mitratae;Carex depressa subsp. Transsilvanica;70;;;1;3.56286611984883;1.42217331272306
-Carex_caudata||CAL|spm00000529|Aulocystis;Carex caudata;24;;;1;3.56286611984883;1.42217331272306
-Carex_acaulis||CL?|spm00003107|Abditispicae;Carex acaulis;50;;;1;3.56286611984883;1.42217331272306
-Carex_fimbriata||SWI|spm00000552|Aulocystis;Carex fimbriata;42;;;1;3.56286611984883;1.42217331272306
-Carex_cruenta||EHM|spm00003357|Aulocystis;Carex cruenta;44;;;1;3.56286611984883;1.42217331272306
-Carex_richardsonii|B613|MRY|spm00001220|Clandestinae;Carex richardsonii;52;;;1;3.56286611984883;1.42217331272306
-Carex_tonsa||MAN|spm00005141|Acrocystis;Carex tonsa;32;;;1;3.56286611984883;1.42217331272306
-Carex_umbellata|B771|DEL|spm00001376|Acrocystis;Carex umbellata;30;;;1;3.56286611984883;1.42217331272306
-Carex_novae_angliae|B453|MAI|spm00001061|Acrocystis;Carex novae angliae;31;;;1;3.56286611984883;1.42217331272306
-Carex_lucorum_var._lucorum|B1129|NCA|spm00001736|Acrocystis;Carex lucorum var. lucorum;40;;;1;3.56286611984883;1.42217331272306
-Carex_albicans|STA_187|ARK|spm00005157|Acrocystis;Carex albicans;36;;;1;3.56286611984883;1.42217331272306
-Carex_peckii|B1018|ARK|spm00001625|Acrocystis;Carex peckii;36;;;1;3.56286611984883;1.42217331272306
-Carex_communis_var._amplisquama|B1315|GEO|spm00001922|Acrocystis;Carex communis var. amplisquama;28;;;1;3.56286611984883;1.42217331272306
-Carex_albicans_var._emmonsii|B080|DEL|spm00000699|Acrocystis;Carex albicans var. emmonsii;40;;;1;3.56286611984883;1.42217331272306
-Carex_rossii|B595|CAL|spm00001201|Acrocystis;Carex rossii;36;;;1;3.56286611984883;1.42217331272306
-Carex_nigromarginata|B515|ARK|spm00001121|Acrocystis;Carex nigromarginata;34;;;1;3.56286611984883;1.42217331272306
-Carex_inanis||CHT|spm00003363|Setigerae;Carex inanis;42;;;1;3.56286611984883;1.42217331272306
-Carex_supina||NUN|spm00005536|Lamprochlaenae;Carex supina;38;;;1;3.56286611984883;1.42217331272306
-Carex_rhizina_subsp._rhizina||FIN|spm00003597|Clandestinae;Carex rhizina subsp. rhizina;70;;;1;3.56286611984883;1.42217331272306
-Carex_echinochloe||KEN|spm00000186|Indicae;Carex echinochloe;42;;;1;3.56286611984883;1.42217331272306
-Carex_cruciata|C_cruciata_BHY||spm00003606|Indicae;Carex cruciata;42;;;1;3.56286611984883;1.42217331272306
-Carex_eburnea|B224|MIC|spm00000842|Albae;Carex eburnea;54;;;1;3.56286611984883;1.42217331272306
-Carex_bostrychostigma|4E4MMR13|JAP|spm00003784|Debiles;Carex bostrychostigma;46;;;1;3.56286611984883;1.42217331272306
-Carex_nemurensis|||spm00006074|Glareosae;Carex nemurensis;52;;;1;3.56286611984883;1.42217331272306
-Carex_brunnescens_subsp._sphaerostachya|||spm00005988|Glareosae;Carex brunnescens subsp. sphaerostachya;56;;;1;3.56286611984883;1.42217331272306
-Carex_canescens_subsp._disjuncta|B895|NFL|spm00001496|Glareosae;Carex canescens subsp. disjuncta;54;;;1;3.56286611984883;1.42217331272306
-Carex_arctiformis|B1244|BRC|spm00001851|Glareosae;Carex arctiformis;56;;;1;3.56286611984883;1.42217331272306
-Carex_traiziscana|||spm00004625|Glareosae;Carex traiziscana;62;;;1;3.56286611984883;1.42217331272306
-Carex_planata|STA_850|JAP|spm00005429|Remotae;Carex planata;66;;;1;3.56286611984883;1.42217331272306
-Carex_rochebrunii|rochebrunii_363|CHC|spm00002621|Remotae;Carex rochebrunii;64;;;1;3.56286611984883;1.42217331272306
-Carex_canariensis|canariensis_83917|SPA|spm00002291|Phaestoglochin;Carex canariensis;58;;;1;3.56286611984883;1.42217331272306
-Carex_paniculata_subsp._lusitanica|pani.lusitanica_397785|SPA|spm00002563|Heleoglochin;Carex paniculata subsp. lusitanica;64;;;1;3.56286611984883;1.42217331272306
-Carex_illota|||spm00006114|Glareosae;Carex illota;64;;;1;3.56286611984883;1.42217331272306
-Carex_laeviculmis|||spm00006054|Glareosae;Carex laeviculmis;56;;;1;3.56286611984883;1.42217331272306
-Carex_interior|B354|MIC|spm00000972|Stellulatae;Carex interior;54;;;1;3.56286611984883;1.42217331272306
-Carex_exilis|STA_813|MAI|spm00005255|Stellulatae;Carex exilis;62;;;1;3.56286611984883;1.42217331272306
-Carex_peucophila||COS|spm00000516|Ovales;Carex peucophila;74;;;1;3.56286611984883;1.42217331272306
-Carex_leptopoda||ORE|spm00005276|Deweyanae;Carex leptopoda;54;;;1;3.56286611984883;1.42217331272306
-Carex_infirminervia||CAL|spm00005270|Deweyanae;Carex infirminervia;46;;;1;3.56286611984883;1.42217331272306
-Carex_tribuloides_var._sangamonensis|tri.sangamonensis_2941|MSI|spm00002714|Ovales;Carex tribuloides var. sangamonensis;70;;;1;3.56286611984883;1.42217331272306
-Carex_feta|B275|CAL|spm00000893|Ovales;Carex feta;66;;;1;3.56286611984883;1.42217331272306
-Carex_suberecta|suberecta_4695|INI|spm00002688|Ovales;Carex suberecta;72;;;1;3.56286611984883;1.42217331272306
-Carex_sychnocephala|sychnocephala_236|WIS|spm00002694|Ovales;Carex sychnocephala;64;;;1;3.56286611984883;1.42217331272306
-Carex_harfordii|harfordii_1085|CAL|spm00002429|Ovales;Carex harfordii;80;;;1;3.56286611984883;1.42217331272306
-Carex_davyi|davyi_24622|CAL|spm00002351|Ovales;Carex davyi;74;;;1;3.56286611984883;1.42217331272306
-Carex_ebenea|ebenea_1057|COL|spm00002388|Ovales;Carex ebenea;84;;;1;3.56286611984883;1.42217331272306
-Carex_abrupta|abrupta_3191|CAL|spm00002224|Ovales;Carex abrupta;76;;;1;3.56286611984883;1.42217331272306
-Carex_sparganioides|STA_869|MRY|spm00005417|Phaestoglochin;Carex sparganioides;48;;;1;3.56286611984883;1.42217331272306
-Carex_pansa|B1357|CAL|spm00001964|Divisae;Carex pansa;58;;;1;3.56286611984883;1.42217331272306
-Carex_praegracilis|praegracilis_Reznicek|MIC|spm00002592|Divisae;Carex praegracilis;60;;;1;3.56286611984883;1.42217331272306
-Carex_prairea|B1344|BRC|spm00001951|Heleoglochin;Carex prairea;66;;;1;3.56286611984883;1.42217331272306
-Carex_crus_corvi|STA_797|MSI|spm00005257|Vulpinae;Carex crus corvi;52;;;1;3.56286611984883;1.42217331272306
-Carex_radiata|B592|MIC|spm00001198|Phaestoglochin;Carex radiata;58;;;1;3.56286611984883;1.42217331272306
-Carex_appalachica|appalachica_346||spm00002242|Phaestoglochin;Carex appalachica;52;;;1;3.56286611984883;1.42217331272306
-Carex_socialis|B682|ALA|spm00001288|Phaestoglochin;Carex socialis;58;;;1;3.56286611984883;1.42217331272306
-Carex_retroflexa|B584|DEL|spm00001190|Phaestoglochin;Carex retroflexa;40;;;1;3.56286611984883;1.42217331272306
-Carex_neurocarpa|STA_840|JAP|spm00005426|Phleoideae;Carex neurocarpa;108;;;1;3.56286611984883;1.42217331272306
-Carex_hookeriana|STA_819|MAN|spm00005409|Phaestoglochin;Carex hookeriana;58;;;1;3.56286611984883;1.42217331272306
-Carex_sartwellii|B1375|BRC|spm00001982|Holarrhenae;Carex sartwellii;62;;;1;3.56286611984883;1.42217331272306
-Carex_disticha_subsp._lithophila|G0008|KOR?|spm00000328|Holarrhenae;Carex disticha subsp. lithophila;62;;;1;3.56286611984883;1.42217331272306
-Carex_curaica|curaica_55|KRA?|spm00002337|Holarrhenae;Carex curaica;64;;;1;3.56286611984883;1.42217331272306
-Carex_pseudofoetida_subsp._afghanica||AFG|spm00003381|Foetidae;Carex pseudofoetida subsp. afghanica;62;;;1;3.56286611984883;1.42217331272306
-Carex_siccata|siccata_2314|NWM|spm00002639|Ammoglochin;Carex siccata;70;;;1;3.56286611984883;1.42217331272306
-Carex_potens|||spm00004430|Uncinia;Carex potens;88;;;1;3.56286611984883;1.42217331272306
-Carex_erythrovaginata|STA_55|NZ?|spm00005096|Uncinia;Carex erythrovaginata;88;;;1;3.56286611984883;1.42217331272306
-Carex_cyanea|STA_56|NZ?|spm00005097|Uncinia;Carex cyanea;88;;;1;3.56286611984883;1.42217331272306
-Carex_healyi|STA_137|NZN|spm00005107|Uncinia;Carex healyi;88;;;1;3.56286611984883;1.42217331272306
-Carex_umbricola|STA_3||spm00005220|Uncinia;Carex umbricola;88;;;1;3.56286611984883;1.42217331272306
-Carex_imbecilla|||spm00004419|Uncinia;Carex imbecilla;88;;;1;3.56286611984883;1.42217331272306
-Carex_banksiana|STA_76|NZ?|spm00005086|Uncinia;Carex banksiana;88;;;1;3.56286611984883;1.42217331272306
-Carex_minor|||spm00004412|Uncinia;Carex minor;88;;;1;3.56286611984883;1.42217331272306
-Carex_egmontiana|||spm00004416|Uncinia;Carex egmontiana;88;;;1;3.56286611984883;1.42217331272306
-Carex_subviridis|||spm00004429|Uncinia;Carex subviridis;88;;;1;3.56286611984883;1.42217331272306
-Carex_silvestris|||spm00004421|Uncinia;Carex silvestris;88;;;1;3.56286611984883;1.42217331272306
-Carex_purpurata|||spm00004431|Uncinia;Carex purpurata;88;;;1;3.56286611984883;1.42217331272306
-Carex_punicea|STA_72|NZS|spm00005105|Uncinia;Carex punicea;88;;;1;3.56286611984883;1.42217331272306
-Carex_strictissima||NZS|spm00004413|Uncinia;Carex strictissima;88;;;1;3.56286611984883;1.42217331272306
-Carex_horizontalis|STA_73|NZS|spm00005106|Uncinia;Carex horizontalis;88;;;1;3.56286611984883;1.42217331272306
-Carex_aucklandica|||spm00004410|Uncinia;Carex aucklandica;88;;;1;3.56286611984883;1.42217331272306
-Carex_zotovii|||spm00004411|Uncinia;Carex zotovii;88;;;1;3.56286611984883;1.42217331272306
-Carex_astricta|||spm00004420|Uncinia;Carex astricta;88;;;1;3.56286611984883;1.42217331272306
-Carex_obtusifolia|||spm00004428|Uncinia;Carex obtusifolia;88;;;1;3.56286611984883;1.42217331272306
-Carex_erebus|||spm00004424|Uncinia;Carex erebus;88;;;1;3.56286611984883;1.42217331272306
-Carex_corynoidea|STA_139|NZ?|spm00005087|Uncinia;Carex corynoidea;88;;;1;3.56286611984883;1.42217331272306
-Carex_megalepis|STA_69|NZ?|spm00005089|Uncinia;Carex megalepis;88;;;1;3.56286611984883;1.42217331272306
-Carex_perplexa|||spm00004409|Uncinia;Carex perplexa;132;;;1;3.56286611984883;1.42217331272306
-Carex_uncinata||NZN|spm00005112|Uncinia;Carex uncinata;88;;;1;3.56286611984883;1.42217331272306
-Carex_edura||NZS|spm00002184|Uncinia;Carex edura;88;;;1;3.56286611984883;1.42217331272306
-Carex_crispa|||spm00004422|Uncinia;Carex crispa;88;;;1;3.56286611984883;1.42217331272306
-Carex_drucei|||spm00004418|Uncinia;Carex drucei;88;;;1;3.56286611984883;1.42217331272306
-Carex_longifructus|||spm00004426|Uncinia;Carex longifructus;88;;;1;3.56286611984883;1.42217331272306
-Carex_austrocompacta|STA_4|TAS|spm00005217|Uncinia;Carex austrocompacta;88;;;1;3.56286611984883;1.42217331272306
-Carex_phleoides||CLC|spm00005103|Uncinia;Carex phleoides;96;;;1;3.56286611984883;1.42217331272306
-Carex_subtilis|||spm00004415|Uncinia;Carex subtilis;94;;;1;3.56286611984883;1.42217331272306
-Carex_backii||MAN|spm00005331|Phyllostachyae;Carex backii;66;;;1;3.56286611984883;1.42217331272306
-Carex_saximontana||MAN|spm00005347|Phyllostachyae;Carex saximontana;64;;;1;3.56286611984883;1.42217331272306
-Carex_latebracteata||ARK|spm00005345|Phyllostachyae;Carex latebracteata;98;;;1;3.56286611984883;1.42217331272306
-Carex_nigricans|STA_52|BRC|spm00005166|Dornera;Carex nigricans;72;;;1;3.56286611984883;1.42217331272306
-Carex_filifolia||MAN|spm00005150|Filifoliae;Carex filifolia;50;;;1;3.56286611984883;1.42217331272306
-Carex_runssoroensis||KEN|spm00000225|Capituligerae;Carex runssoroensis;50;;;1;3.56286611984883;1.42217331272306
-Carex_bonatiana|K_fragilis_LJQ||spm00003643|Kobresia;Carex bonatiana;50;;;1;3.56286611984883;1.42217331272306
-Carex_alatauensis|K_royleara_LJQ||spm00003642|Kobresia;Carex alatauensis;80;;;1;3.56286611984883;1.42217331272306
-Carex_macroprophylla|K_filifolia_ZSL||spm00003649|Kobresia;Carex macroprophylla;60;;;1;3.56286611984883;1.42217331272306
-Carex_curvula|STA_100|FRA|spm00005184|Curvulae;Carex curvula;86;;;1;3.56286611984883;1.42217331272306
-Carex_parvula|K_pygmaea_ZSR_K||spm00003646|Kobresia;Carex parvula;64;;;1;3.56286611984883;1.42217331272306
-Carex_deasyi|K_schoenoides_LJQ||spm00003634|Kobresia;Carex deasyi;32;;;1;3.56286611984883;1.42217331272306
-Carex_cercostachys|K_cercostachys_ZSR_K||spm00003624|Kobresia;Carex cercostachys;64;;;1;3.56286611984883;1.42217331272306
-Carex_esenbeckii|STA_5|EHM|spm00005193|Kobresia;Carex esenbeckii;66;;;1;3.56286611984883;1.42217331272306
-Carex_uhligii|||spm00003185|Schoenoxiphium;Carex uhligii;26;;;1;3.56286611984883;1.42217331272306
-Carex_capensis|||spm00003262|Schoenoxiphium;Carex capensis;36;;;1;3.56286611984883;1.42217331272306
-Carex_lancea|||spm00003258|Schoenoxiphium;Carex lancea;88;;;1;3.56286611984883;1.42217331272306
-Carex_schweickerdtii||NAT|spm00000160|Schoenoxiphium;Carex schweickerdtii;60;;;1;3.56286611984883;1.42217331272306
-Carex_pseudorufa|||spm00003250|Schoenoxiphium;Carex pseudorufa;64;;;1;3.56286611984883;1.42217331272306
-Carex_ludwigii||NAT|spm00000158|Schoenoxiphium;Carex ludwigii;34;;;1;3.56286611984883;1.42217331272306
-Carex_lingii|C_lingii_BHY||spm00003612|Hemiscaposae;Carex lingii;12;;;1;3.56286611984883;1.42217331272306
-Carex_scaposa|C_scaposa_BHY||spm00003611|Hemiscaposae;Carex scaposa;24;;;1;3.56286611984883;1.42217331272306
-Carex_nudata|B837|CAL|spm00001440|Phacocystis;Carex nudata;71;;;2;1.78143305992442;0.71108665636153
-Carex_interrupta|B1059|ORE|spm00001666|Phacocystis;Carex interrupta;66;;;2;1.78143305992442;0.71108665636153
-Carex_stricta|B690|TEX|spm00001296|Phacocystis;Carex stricta;69;;;2;1.78143305992442;0.71108665636153
-Carex_trinervis||France|spm00003132|Phacocystis;Carex trinervis;84.5;;;2;1.78143305992442;0.71108665636153
-Carex_buekii||GER|spm00003101|Phacocystis;Carex buekii;52;;;2;1.78143305992442;0.71108665636153
-Carex_spectabilis|B1372|BRC|spm00001979|Scitae;Carex spectabilis;74;;;2;1.78143305992442;0.71108665636153
-Carex_macrochaeta|B1064|ORE|spm00001671|Scitae;Carex macrochaeta;60;;;2;1.78143305992442;0.71108665636153
-Carex_nebraskensis|B510|CAL|spm00001116|Phacocystis;Carex nebraskensis;67;;;2;1.78143305992442;0.71108665636153
-Carex_misera||NCA|spm00005226|Hymenochlaenae;Carex misera;79;;;2;1.78143305992442;0.71108665636153
-Carex_castanea|B876|NFL|spm00001479|Hymenochlaenae;Carex castanea;54;;;2;1.78143305992442;0.71108665636153
-Carex_gynodynama|B1081|CAL|spm00001688|Hymenochlaenae;Carex gynodynama;51;;;2;1.78143305992442;0.71108665636153
-Carex_hirtissima|B1087|CAL|spm00001694|Hymenochlaenae;Carex hirtissima;71;;;2;1.78143305992442;0.71108665636153
-Carex_torreyi|B1101|COL|spm00001708|Porocystis;Carex torreyi;64;;;2;1.78143305992442;0.71108665636153
-Carex_melanostachya||TUR|spm00000572|Paludosae;Carex melanostachya;65;;;2;1.78143305992442;0.71108665636153
-Carex_lacustris|B373|MAN|spm00000991|Paludosae;Carex lacustris;74;;;2;1.78143305992442;0.71108665636153
-Carex_oligosperma|B506|NWH|spm00001112|Vesicariae;Carex oligosperma;76;;;2;1.78143305992442;0.71108665636153
-Carex_lurida|B476|FLA|spm00001082|Vesicariae;Carex lurida;65;;;2;1.78143305992442;0.71108665636153
-Carex_lupulina|Carex_STARR_11||FASTA.LABEL.NO.SPECIMEN.MATCH|Lupulinae;Carex lupulina;58;;;2;1.78143305992442;0.71108665636153
-Carex_phacota_var._gracilispica|E0449|KOR?|spm00000344|Phacocystis;Carex phacota var. gracilispica;75;;;2;1.78143305992442;0.71108665636153
-Carex_lowei||MDR|spm00002858|Spirostachyae;Carex lowei;76;;;2;1.78143305992442;0.71108665636153
-Carex_diluta||IRN|spm00002897|Spirostachyae;Carex diluta;63;;;2;1.78143305992442;0.71108665636153
-Carex_strigosa|||spm00003302|Sylvaticae;Carex strigosa;66;;;2;1.78143305992442;0.71108665636153
-Carex_cretica||KRI|spm00004382|Sylvaticae;Carex cretica;58;;;2;1.78143305992442;0.71108665636153
-Carex_folliculata||NWJ|spm00005237|Rostrales;Carex folliculata;56;;;2;1.78143305992442;0.71108665636153
-Carex_caucasica||IRN|spm00003593|Racemosae;Carex caucasica;53;;;2;1.78143305992442;0.71108665636153
-Carex_melanantha||KAZ|spm00003368|Racemosae;Carex melanantha;50;;;2;1.78143305992442;0.71108665636153
-Carex_aterrima_subsp._medwedewii||TCS|spm00003468|Racemosae;Carex aterrima subsp. medwedewii;39;;;2;1.78143305992442;0.71108665636153
-Carex_albonigra|B1014|ARK|spm00001621|Racemosae;Carex albonigra;53;;;2;1.78143305992442;0.71108665636153
-Carex_sprengelii|B1159|NBR|spm00001766|Hymenochlaenae;Carex sprengelii;42;;;2;1.78143305992442;0.71108665636153
-Carex_laxiflora|B405|MIC|spm00001023|Laxiflorae;Carex laxiflora;46;;;2;1.78143305992442;0.71108665636153
-Carex_striatula|B658|DEL|spm00001264|Laxiflorae;Carex striatula;38;;;2;1.78143305992442;0.71108665636153
-Carex_leptonervia|B790|MAN|spm00001394|Laxiflorae;Carex leptonervia;37;;;2;1.78143305992442;0.71108665636153
-Carex_albursina|B780|KTY|spm00001384|Laxiflorae;Carex albursina;44;;;2;1.78143305992442;0.71108665636153
-Carex_meadii|B1135|MAN|spm00001742|Paniceae;Carex meadii;56;;;2;1.78143305992442;0.71108665636153
-Carex_assiniboinensis|B104|MAN|spm00000722|Hymenochlaenae;Carex assiniboinensis;32;;;2;1.78143305992442;0.71108665636153
-Carex_pallidula||FIN|spm00003595|Clandestinae;Carex pallidula;52.5;;;2;1.78143305992442;0.71108665636153
-Carex_platyphylla|B546|MRY|spm00001152|Careyanae;Carex platyphylla;70;;;2;1.78143305992442;0.71108665636153
-Carex_plantaginea|STA_178|MAN|spm00005143|Careyanae;Carex plantaginea;51;;;2;1.78143305992442;0.71108665636153
-Carex_gholsonii|B335|ALA|spm00000953|Granulares;Carex gholsonii;36;;;2;1.78143305992442;0.71108665636153
-Carex_cumberlandensis|B199|ARK|spm00000817|Careyanae;Carex cumberlandensis;46;;;2;1.78143305992442;0.71108665636153
-Carex_depressa_subsp._depressa||SPA|spm00000550|Mitratae;Carex depressa subsp. depressa;65;;;2;1.78143305992442;0.71108665636153
-Carex_umbrosa_subsp._huetiana||TCS|spm00003480|Mitratae;Carex umbrosa subsp. huetiana;66.5;;;2;1.78143305992442;0.71108665636153
-Carex_grioletii||SPA|spm00000585|Acrocystis;Carex grioletii;48;;;2;1.78143305992442;0.71108665636153
-Carex_macrolepis||ITA|spm00000536|Aulocystis;Carex macrolepis;36.5;;;2;1.78143305992442;0.71108665636153
-Carex_tristis||IRN|spm00000599|Aulocystis;Carex tristis;56;;;2;1.78143305992442;0.71108665636153
-Carex_petricosa_var._misandroides|B1388|QUE|spm00001995|Aulocystis;Carex petricosa var. misandroides;40;;;2;1.78143305992442;0.71108665636153
-Carex_riloensis||BUL|spm00003599|Acrocystis;Carex riloensis;26;;;2;1.78143305992442;0.71108665636153
-Carex_pediformis_subsp._macroura||CHM|spm00003483|Clandestinae;Carex pediformis subsp. macroura;60;;;2;1.78143305992442;0.71108665636153
-Carex_bonanzensis|||spm00005964|Glareosae;Carex bonanzensis;55;;;2;1.78143305992442;0.71108665636153
-Carex_atlantica||PEN|spm00005432|Stellulatae;Carex atlantica;49;;;2;1.78143305992442;0.71108665636153
-Carex_appropinquata|appropinquata_3358|GER|spm00002248|Heleoglochin;Carex appropinquata;64;;;2;1.78143305992442;0.71108665636153
-Carex_tincta|B737|MAI|spm00001342|Ovales;Carex tincta;75;;;2;1.78143305992442;0.71108665636153
-Carex_oronensis|oronensis_10931|MAI|spm00002548|Ovales;Carex oronensis;74;;;2;1.78143305992442;0.71108665636153
-Carex_silicea|B625|DEL|spm00001232|Ovales;Carex silicea;75;;;2;1.78143305992442;0.71108665636153
-Carex_muskingumensis|muskingumensis_3153|ILL|spm00002528|Ovales;Carex muskingumensis;80;;;2;1.78143305992442;0.71108665636153
-Carex_hyalina|hyalina_2947|MSI|spm00002442|Ovales;Carex hyalina;74;;;2;1.78143305992442;0.71108665636153
-Carex_cristatella|STA_796|MIC|spm00005251|Ovales;Carex cristatella;70;;;2;1.78143305992442;0.71108665636153
-Carex_athrostachya|B109|CAL|spm00000727|Ovales;Carex athrostachya;72;;;2;1.78143305992442;0.71108665636153
-Carex_xerantica|xerantica_99019|ONT|spm00002748|Ovales;Carex xerantica;68;;;2;1.78143305992442;0.71108665636153
-Carex_adusta|adusta_2009|MAI|spm00002226|Ovales;Carex adusta;71;;;2;1.78143305992442;0.71108665636153
-Carex_phaeocephala|B587|NEV|spm00001193|Ovales;Carex phaeocephala;84;;;2;1.78143305992442;0.71108665636153
-Carex_haydeniana|haydeniana_140.2|UTA|spm00002432|Ovales;Carex haydeniana;82;;;2;1.78143305992442;0.71108665636153
-Carex_multicostata|B487|CAL|spm00001093|Ovales;Carex multicostata;70;;;2;1.78143305992442;0.71108665636153
-Carex_subfusca|subfusca_3192|CAL|spm00002691|Ovales;Carex subfusca;84;;;2;1.78143305992442;0.71108665636153
-Carex_maackii|maackii_8031|JAP|spm00002491|Ovales;Carex maackii;67;;;2;1.78143305992442;0.71108665636153
-Carex_annectens|STA_776|DEL|spm00005398|Multiflorae;Carex annectens;51;;;2;1.78143305992442;0.71108665636153
-Carex_alopecoidea|STA_775|MAN|spm00005438|Vulpinae;Carex alopecoidea;59;;;2;1.78143305992442;0.71108665636153
-Carex_conjuncta|B166|DEL|spm00000784|Vulpinae;Carex conjuncta;47.5;;;2;1.78143305992442;0.71108665636153
-Carex_cephaloidea|cephaloidea_3116|ILL|spm00002303|Phaestoglochin;Carex cephaloidea;51;;;2;1.78143305992442;0.71108665636153
-Carex_leavenworthii|B407|ALA|spm00001025|Phaestoglochin;Carex leavenworthii;48;;;2;1.78143305992442;0.71108665636153
-Carex_cephalophora|B210|MRY|spm00000828|Phaestoglochin;Carex cephalophora;49;;;2;1.78143305992442;0.71108665636153
-Carex_muehlenbergii|STA_838|KTY|spm00005412|Phaestoglochin;Carex muehlenbergii;46;;;2;1.78143305992442;0.71108665636153
-Carex_conferta|STA_794|ZIM|spm00005256|Stenorhynchae;Carex conferta;52;;;2;1.78143305992442;0.71108665636153
-Carex_macrocephala|STA_834|BRC|spm00005249|Macrocephalae;Carex macrocephala;76;;;2;1.78143305992442;0.71108665636153
-Carex_kobomugi|STA_826||spm00005248|Macrocephalae;Carex kobomugi;86;;;2;1.78143305992442;0.71108665636153
-Carex_albata|STA_773|JAP|spm00005254|Phleoideae;Carex albata;110;;;2;1.78143305992442;0.71108665636153
-Carex_parvispica|||spm00004427|Uncinia;Carex parvispica;95;;;2;1.78143305992442;0.71108665636153
-Carex_jamesii||MRY|spm00005340|Phyllostachyae;Carex jamesii;68;;;2;1.78143305992442;0.71108665636153
-Carex_pyrenaica|STA_86|NZS|spm00005209|Dornera;Carex pyrenaica;70;;;2;1.78143305992442;0.71108665636153
-Carex_micropoda|B991|WAS|spm00001598|Dornera;Carex micropoda;66;;;2;1.78143305992442;0.71108665636153
-Carex_anthoxanthea|B961|WAS|spm00001568|Circinatae;Carex anthoxanthea;55;;;2;1.78143305992442;0.71108665636153
-Carex_peregrina||MDR|spm00003283|Psyllophora;Carex peregrina;62;;;2;1.78143305992442;0.71108665636153
-Carex_oedipostyla||SPA|spm00003161|Gynobasidae;Carex oedipostyla;66;;;2;1.78143305992442;0.71108665636153
-Carex_schimperiana|||spm00003249|Schoenoxiphium;Carex schimperiana;30;;;2;1.78143305992442;0.71108665636153
-Carex_grandiligulata||CHS|spm00000056|Siderostictae;Carex grandiligulata;18;;;2;1.78143305992442;0.71108665636153
-Carex_lenticularis_lenticularis|Carex_STARR_10||FASTALABEL.NO.SPECIMEN.MATCH|Phacocystis;Carex lenticularis lenticularis;74.6666666666667;11.5470053837925;6.66666666666668;3;1.18762203994961;0.474057770907687
-Carex_bigelowii_subsp._lugens|B124|ASK|spm00000742|Phacocystis;Carex bigelowii subsp. lugens;73.3333333333333;11.5470053837925;6.66666666666666;3;1.18762203994961;0.474057770907687
-Carex_appendiculata||ALT|spm00003267|Phacocystis;Carex appendiculata;78;2;1.15470053837925;3;1.18762203994961;0.474057770907687
-Carex_reuteriana_subsp._reuteriana||SPA|spm00003202|Phacocystis;Carex reuteriana subsp. reuteriana;74;1;0.577350269189626;3;1.18762203994961;0.474057770907687
-Carex_crinita||QUE|spm00005233|Phacocystis;Carex crinita;66.3333333333333;0.577350269189626;0.333333333333333;3;1.18762203994961;0.474057770907687
-Carex_mertensii|B448|ASK|spm00001056|Racemosae;Carex mertensii;62;0;0;3;1.18762203994961;0.474057770907687
-Carex_pluriflora|B1349|ARK|spm00001956|Limosae;Carex pluriflora;50.6666666666667;1.15470053837925;0.666666666666667;3;1.18762203994961;0.474057770907687
-Carex_pichinchensis||ECU|spm00000538|Fecundae;Carex pichinchensis;83;1;0.577350269189626;3;1.18762203994961;0.474057770907687
-Carex_bushii|B159|DEL|spm00000777|Porocystis;Carex bushii;54.6666666666667;8.32666399786451;4.80740170061864;3;1.18762203994961;0.474057770907687
-Carex_ischnostachya||CHS|spm00000062|Ischnostachyae;Carex ischnostachya;62;0;0;3;1.18762203994961;0.474057770907687
-Carex_nemostachys||CHS|spm00000088|Confertiflorae;Carex nemostachys;83;1;0.577350269189626;3;1.18762203994961;0.474057770907687
-Carex_meyeriana||MON|spm00006158|Stylosae;Carex meyeriana;47;1;0.577350269189626;3;1.18762203994961;0.474057770907687
-Carex_atherodes|B1242|BRC|spm00001849|Carex;Carex atherodes;66;20.7846096908265;12;3;1.18762203994961;0.474057770907687
-Carex_frankii|B321|ALA|spm00000939|Squarrosae;Carex frankii;79.3333333333333;7.02376916856849;4.05517502019881;3;1.18762203994961;0.474057770907687
-Carex_pellita|B542|CAL|spm00001148|Paludosae;Carex pellita;80.3333333333333;2.08166599946613;1.20185042515466;3;1.18762203994961;0.474057770907687
-Carex_hystericina|B475|ARK|spm00001081|Vesicariae;Carex hystericina;58;0;0;3;1.18762203994961;0.474057770907687
-Carex_rorulenta||BAL|spm00003474|Hallerianae;Carex rorulenta;49;1;0.577350269189626;3;1.18762203994961;0.474057770907687
-Carex_fischeri_subsp._fischeri||ETH|spm00002854|Spirostachyae;Carex fischeri subsp. fischeri;70;2;1.15470053837925;3;1.18762203994961;0.474057770907687
-Carex_petitiana||MLW|spm00000219|Spirostachyae;Carex petitiana;70.6666666666667;1.15470053837925;0.666666666666667;3;1.18762203994961;0.474057770907687
-Carex_fuscula||CLS|spm00002924|Spirostachyae;Carex fuscula;66;2;1.15470053837925;3;1.18762203994961;0.474057770907687
-Carex_michauxiana|B1141|MAN|spm00001748|Rostrales;Carex michauxiana;59.3333333333333;8.08290376865474;4.66666666666666;3;1.18762203994961;0.474057770907687
-Carex_ledebouriana||MAG|spm00003592|Chlorostachyae;Carex ledebouriana;54;3.46410161513775;2;3;1.18762203994961;0.474057770907687
-Carex_media|B1165|NBR|spm00001772|Racemosae;Carex media;56;0;0;3;1.18762203994961;0.474057770907687
-Carex_aurea|B149||spm00000767|Bicolores;Carex aurea;52;0;0;3;1.18762203994961;0.474057770907687
-Carex_woodii|woodii_3203|ILL|spm00002744|Paniceae;Carex woodii;46.6666666666667;4.61880215351701;2.66666666666667;3;1.18762203994961;0.474057770907687
-Carex_purpurifera|B867|KTY|spm00001470|Laxiflorae;Carex purpurifera;36;2;1.15470053837925;3;1.18762203994961;0.474057770907687
-Carex_ornithopoda||YUG|spm00000560|Clandestinae;Carex ornithopoda;53.3333333333333;1.15470053837925;0.666666666666667;3;1.18762203994961;0.474057770907687
-Carex_austrocaroliniana|B1122|NCA|spm00001729|Careyanae;Carex austrocaroliniana;58;2;1.15470053837925;3;1.18762203994961;0.474057770907687
-Carex_crawei|B868|NFL|spm00001471|Granulares;Carex crawei;52.3333333333333;12.4230967690561;7.17247826378333;3;1.18762203994961;0.474057770907687
-Carex_laxiculmis_var._laxiculmis|B800|PEN|spm00001403|Careyanae;Carex laxiculmis var. laxiculmis;46.6666666666667;3.05505046330389;1.76383420737639;3;1.18762203994961;0.474057770907687
-Carex_hispida||KRI|spm00000549|Thuringiaca;Carex hispida;39.3333333333333;2.3094010767585;1.33333333333333;3;1.18762203994961;0.474057770907687
-Carex_asturica||SPA|spm00004385|Paniceae;Carex asturica;46;0;0;3;1.18762203994961;0.474057770907687
-Carex_sempervirens_subsp._sempervirens||SWI|spm00000540|Aulocystis;Carex sempervirens subsp. sempervirens;32;2;1.15470053837925;3;1.18762203994961;0.474057770907687
-Carex_mucronata||ITA|spm00000534|Aulocystis;Carex mucronata;35.3333333333333;1.15470053837925;0.666666666666667;3;1.18762203994961;0.474057770907687
-Carex_pensylvanica|B565|MAN|spm00001171|Acrocystis;Carex pensylvanica;36;0;0;3;1.18762203994961;0.474057770907687
-Carex_tricolor||BUL|spm00003600|Acrocystis;Carex tricolor;61.6666666666667;0.577350269189626;0.333333333333333;3;1.18762203994961;0.474057770907687
-Carex_humilis_var._nana|D0261|KOR?|spm00000335|Clandestinae;Carex humilis var. nana;48.6666666666667;20.2319878739914;11.6809436452902;3;1.18762203994961;0.474057770907687
-Carex_tristachya_var._pocilliformis|D0006|KOR?|spm00000352|Mitratae;Carex tristachya var. pocilliformis;39;1;0.577350269189626;3;1.18762203994961;0.474057770907687
-Carex_loliacea|||spm00006060|Glareosae;Carex loliacea;54;0;0;3;1.18762203994961;0.474057770907687
-Carex_furva|||spm00006015|Glareosae;Carex furva;60.3333333333333;0.577350269189626;0.333333333333333;3;1.18762203994961;0.474057770907687
-Carex_pseudobrizoides||POL|spm00002177|Ammoglochin;Carex pseudobrizoides;57.3333333333333;1.15470053837925;0.666666666666667;3;1.18762203994961;0.474057770907687
-Carex_colchica||UKR|spm00002173|Ammoglochin;Carex colchica;58;0;0;3;1.18762203994961;0.474057770907687
-Carex_duriuscula||ABT|spm00005155|Divisae;Carex duriuscula;57.3333333333333;4.61880215351701;2.66666666666667;3;1.18762203994961;0.474057770907687
-Carex_pseudocuraica|pseudocuraica_668|CH?|spm00002605|Chordorrhizae;Carex pseudocuraica;33;1;0.577350269189626;3;1.18762203994961;0.474057770907687
-Carex_seorsa|seorsa_4700|INI|spm00002636|Stellulatae;Carex seorsa;48;0;0;3;1.18762203994961;0.474057770907687
-Carex_appressa|appressa_1618||spm00002244|Heleoglochin;Carex appressa;61;1;0.577350269189626;3;1.18762203994961;0.474057770907687
-Carex_festucacea|B274|TEX|spm00000892|Ovales;Carex festucacea;69.6666666666667;1.52752523165195;0.881917103688197;3;1.18762203994961;0.474057770907687
-Carex_merritt_fernaldii|merrittfernaldii_3172|WIS|spm00002503|Ovales;Carex merritt fernaldii;72;2.82842712474619;2;3;1.18762203994961;0.474057770907687
-Carex_reniformis|reniformis_Bryson|MSI|spm00002616|Ovales;Carex reniformis;80;0;0;3;1.18762203994961;0.474057770907687
-Carex_shinnersii|shinnersii_4882D|TEX|spm00002638|Ovales;Carex shinnersii;60.3333333333333;0.577350269189626;0.333333333333333;3;1.18762203994961;0.474057770907687
-Carex_hormathodes|hormathodes_10929|MAI|spm00002439|Ovales;Carex hormathodes;74;0;0;3;1.18762203994961;0.474057770907687
-Carex_ozarkana|B517|ARK|spm00001123|Ovales;Carex ozarkana;59;3;1.73205080756888;3;1.18762203994961;0.474057770907687
-Carex_argyrantha|argyrantha_Reznicek|MAI|spm00002257|Ovales;Carex argyrantha;74.6666666666667;9.23760430703405;5.33333333333335;3;1.18762203994961;0.474057770907687
-Carex_trachycarpa|trachycarpa_3523||spm00002713|Inversae;Carex trachycarpa;67;1;0.577350269189626;3;1.18762203994961;0.474057770907687
-Carex_kirkii|||spm00004417|Inversae;Carex kirkii;69;1;0.577350269189626;3;1.18762203994961;0.474057770907687
-Carex_resectans|resectans_1644|NZN|spm00002618|Inversae;Carex resectans;59;1;0.577350269189626;3;1.18762203994961;0.474057770907687
-Carex_vulpinoidea|STA_883|KTY|spm00005250|Multiflorae;Carex vulpinoidea;52;0;0;3;1.18762203994961;0.474057770907687
-Carex_gravida|gravida_3139|WIS|spm00002425|Phaestoglochin;Carex gravida;51.3333333333333;5.77350269189626;3.33333333333333;3;1.18762203994961;0.474057770907687
-Carex_decomposita|STA_799|DEL|spm00005246|Heleoglochin;Carex decomposita;64;4;2.3094010767585;3;1.18762203994961;0.474057770907687
-Carex_nubigena|nubigena_155|CHC|spm00002539|Phleoideae;Carex nubigena;103.333333333333;1.15470053837925;0.666666666666667;3;1.18762203994961;0.474057770907687
-Carex_physodes||AFG|spm00004434|Physodeae;Carex physodes;36.6666666666667;19.2180470738661;11.0955446513955;3;1.18762203994961;0.474057770907687
-Carex_gibba|STA_816|CHH|spm00005244|Gibbae;Carex gibba;34.6666666666667;1.15470053837925;0.666666666666667;3;1.18762203994961;0.474057770907687
-Carex_willdenowii||PEN|spm00005130|Phyllostachyae;Carex willdenowii;72.6666666666667;9.237604307034;5.33333333333332;3;1.18762203994961;0.474057770907687
-Carex_obtusata|B501|MAN|spm00001107|Obtusatae;Carex obtusata;52;0;0;3;1.18762203994961;0.474057770907687
-Carex_baldensis||ITA|spm00003191|Baldenses;Carex baldensis;89.3333333333333;1.15470053837925;0.666666666666667;3;1.18762203994961;0.474057770907687
-Carex_neesii|STA_6|EHM|spm00005194|Kobresia;Carex neesii;116;5.29150262212918;3.05505046330389;3;1.18762203994961;0.474057770907687
-Carex_pulicaris||GRB|spm00005180|Psyllophora;Carex pulicaris;59.3333333333333;1.15470053837925;0.666666666666667;3;1.18762203994961;0.474057770907687
-Carex_killickii||OFS|spm00000153|Schoenoxiphium;Carex killickii;71.6666666666667;1.52752523165195;0.881917103688197;3;1.18762203994961;0.474057770907687
-Carex_pachygyna|pachygyna_1828|JAP|spm00002558|Siderostictae;Carex pachygyna;12;0;0;3;1.18762203994961;0.474057770907687
-Carex_augustinowiczii|D0521|KOR?|spm00000322|Racemosae;Carex augustinowiczii;61;7.02376916856849;3.51188458428425;4;0.890716529962209;0.355543328180765
-Carex_arctata|STA_181|ARK|spm00005144|Hymenochlaenae;Carex arctata;54;1.63299316185545;0.816496580927726;4;0.890716529962209;0.355543328180765
-Carex_doniana||CHS|spm00000047|Molliculae;Carex doniana;56.5;11;5.5;4;0.890716529962209;0.355543328180765
-Carex_alopecuroides|D0055|KOR?|spm00000321|Molliculae;Carex alopecuroides;56.5;11;5.5;4;0.890716529962209;0.355543328180765
-Carex_fedia||PAK|spm00003461|Carex;Carex fedia;96.5;5;2.5;4;0.890716529962209;0.355543328180765
-Carex_pumila|B1461|NCA|spm00002067|Paludosae;Carex pumila;81.5;1;0.5;4;0.890716529962209;0.355543328180765
-Carex_utriculata|B774|ARK|spm00001379|Vesicariae;Carex utriculata;79.5;3.78593889720018;1.89296944860009;4;0.890716529962209;0.355543328180765
-Carex_grayi||ILL|spm00005228|Lupulinae;Carex grayi;53;1.15470053837925;0.577350269189626;4;0.890716529962209;0.355543328180765
-Carex_intumescens|B357|MAI|spm00000975|Lupulinae;Carex intumescens;48;0;0;4;0.890716529962209;0.355543328180765
-Carex_helodes||MOR|spm00004359|Spirostachyae;Carex helodes;73;1.82574185835055;0.912870929175277;4;0.890716529962209;0.355543328180765
-Carex_atratiformis|B1144|ABT|spm00001751|Racemosae;Carex atratiformis;54;0;0;4;0.890716529962209;0.355543328180765
-Carex_buxbaumii|B147|ASK|spm00000765|Racemosae;Carex buxbaumii;96.25;15.0637534056644;7.53187670283221;4;0.890716529962209;0.355543328180765
-Carex_laxiflora_var._gracillima|grascilescens_3207|ILL|spm00002424|Laxiflorae;Carex laxiflora var. gracillima;37.75;3.30403793359983;1.65201896679992;4;0.890716529962209;0.355543328180765
-Carex_filipes||CHM|spm00003462|Paniceae;Carex filipes;42.5;10.6301458127346;5.31507290636732;4;0.890716529962209;0.355543328180765
-Carex_pisiformis_var._sikokiana|E0491|KOR?|spm00000349|Mitratae;Carex pisiformis var. sikokiana;69.5;1.29099444873581;0.645497224367903;4;0.890716529962209;0.355543328180765
-Carex_breviculmis_var._fibrillosa|D0003|KOR?|spm00000326|Mitratae;Carex breviculmis var. fibrillosa;68;3.2659863237109;1.63299316185545;4;0.890716529962209;0.355543328180765
-Carex_nervata||KOR|spm00000010|Mitratae;Carex nervata;73.75;1.70782512765993;0.853912563829966;4;0.890716529962209;0.355543328180765
-Carex_mitrata||CHS|spm00000085|Mitratae;Carex mitrata;68.5;3.41565025531987;1.70782512765993;4;0.890716529962209;0.355543328180765
-Carex_flacca_subsp._erythrostachys||BAL|spm00000524|Thuringiaca;Carex flacca subsp. erythrostachys;90;17.0489491367259;8.52447456836295;4;0.890716529962209;0.355543328180765
-Carex_austroalpina||SPA|spm00000535|Aulocystis;Carex austroalpina;39.5;1;0.5;4;0.890716529962209;0.355543328180765
-Carex_stenocarpa||CHC|spm00003385|Aulocystis;Carex stenocarpa;39.75;2.62995563967658;1.31497781983829;4;0.890716529962209;0.355543328180765
-Carex_inops_subsp._inops|B1394|BRC|spm00002001|Acrocystis;Carex inops subsp. inops;37;2;1;4;0.890716529962209;0.355543328180765
-Carex_baccans|C_baccans_BHY||spm00003608|Polystachyae;Carex baccans;55;19.356308187944;;4;0.890716529962209;0.355543328180765
-Carex_fritschii||HUN|spm00002174|Acrocystis;Carex fritschii;30;0;0;4;0.890716529962209;0.355543328180765
-Carex_liparocarpos||SPA|spm00000556|Lamprochlaenae;Carex liparocarpos;38.5;1;0.5;4;0.890716529962209;0.355543328180765
-Carex_pediformis||CHC|spm00003390|Clandestinae;Carex pediformis;70;0;0;4;0.890716529962209;0.355543328180765
-Carex_durieui||SPA|spm00004386|Unplaced_coreCarex;Carex durieui;52.25;0.5;0.25;4;0.890716529962209;0.355543328180765
-Carex_alba||SPA|spm00000584|Albae;Carex alba;54;0;0;4;0.890716529962209;0.355543328180765
-Carex_brunnea||REU|spm00000577|Graciles;Carex brunnea;61;2;1;4;0.890716529962209;0.355543328180765
-Carex_trisperma|STA_878|PEN|spm00005388|Glareosae;Carex trisperma;60;0;0;4;0.890716529962209;0.355543328180765
-Carex_praecox||HUN|spm00002176|Ammoglochin;Carex praecox;58;0;0;4;0.890716529962209;0.355543328180765
-Carex_brizoides|brizoides_Ariello|ITA|spm00002282|Ammoglochin;Carex brizoides;58;0;0;4;0.890716529962209;0.355543328180765
-Carex_stipata|stipata_3122|ILL|spm00002679|Vulpinae;Carex stipata;51;2;1;4;0.890716529962209;0.355543328180765
-Carex_cumulata|cumulata_4737|INI|spm00002336|Ovales;Carex cumulata;57.5;1;0.5;4;0.890716529962209;0.355543328180765
-Carex_vexans|vexans_2376|FLA|spm00002732|Ovales;Carex vexans;69.25;0.957427107756338;0.478713553878169;4;0.890716529962209;0.355543328180765
-Carex_alata|B068|ALA|spm00000687|Ovales;Carex alata;74;0;0;4;0.890716529962209;0.355543328180765
-Carex_albolutescens|B075|OKL|spm00000694|Ovales;Carex albolutescens;65;1.15470053837925;0.577350269189626;4;0.890716529962209;0.355543328180765
-Carex_scoparia_var._tessellata|sco.tessellata_D|MAI|spm00002632|Ovales;Carex scoparia var. tessellata;68;0;0;4;0.890716529962209;0.355543328180765
-Carex_straminea|B645|DEL|spm00001252|Ovales;Carex straminea;74;0;0;4;0.890716529962209;0.355543328180765
-Carex_preslii|preslii_7874|MNT|spm00002598|Ovales;Carex preslii;79.5;1;0.5;4;0.890716529962209;0.355543328180765
-Carex_foenea|B1393|BRC|spm00002000|Ovales;Carex foenea;82.5;1;0.5;4;0.890716529962209;0.355543328180765
-Carex_integra|integra_20743|CAL|spm00002449|Ovales;Carex integra;82;0;0;4;0.890716529962209;0.355543328180765
-Carex_aggregata|B066|KTY|spm00000685|Phaestoglochin;Carex aggregata;52;0;0;4;0.890716529962209;0.355543328180765
-Carex_hoodii|hoodii_3194|CAL|spm00002436|Phaestoglochin;Carex hoodii;59.5;1;0.5;4;0.890716529962209;0.355543328180765
-Carex_pachystylis||UZB|spm00003472|Physodeae;Carex pachystylis;45.5;23.629078131263;11.8145390656315;4;0.890716529962209;0.355543328180765
-Carex_angustata|B095|CAL|spm00000713|Phacocystis;Carex angustata;68;1.58113883008419;0.707106781186548;5;0.712573223969767;0.284434662544612
-Carex_obnupta|B499|CAL|spm00001105|Phacocystis;Carex obnupta;71.6;3.84707681233427;1.72046505340853;5;0.712573223969767;0.284434662544612
-Carex_rariflora|B1392|YUK|spm00001999|Limosae;Carex rariflora;52.4;0.894427190999916;0.4;5;0.712573223969767;0.284434662544612
-Carex_mendocinensis|B1066|ORE|spm00001673|Hymenochlaenae;Carex mendocinensis;58;1.58113883008419;0.707106781186548;5;0.712573223969767;0.284434662544612
-Carex_camposii||SPA|spm00004363|Spirostachyae;Carex camposii;71.2;1.78885438199983;0.8;5;0.712573223969767;0.284434662544612
-Carex_derelicta||CZE|spm00003351|Ceratocystis;Carex derelicta;70;0;0;5;0.712573223969767;0.284434662544612
-Carex_krausei|B1032|ARK|spm00001639|Chlorostachyae;Carex krausei;46.4;14.2407864951343;6.36867333123627;5;0.712573223969767;0.284434662544612
-Carex_parviflora||SWI|spm00000544|Racemosae;Carex parviflora;54;0;0;5;0.712573223969767;0.284434662544612
-Carex_gmelinii|B1022|ARK|spm00001629|Racemosae;Carex gmelinii;58.4;4.97995983919549;2.22710574513201;5;0.712573223969767;0.284434662544612
-Carex_depauperata||YUG|spm00000574|Depauperatae;Carex depauperata;50;13.4164078649987;6;5;0.712573223969767;0.284434662544612
-Carex_kitaibeliana||YUG|spm00000539|Aulocystis;Carex kitaibeliana;36.8;1.78885438199983;0.8;5;0.712573223969767;0.284434662544612
-Carex_mackenziei|||spm00006064|Glareosae;Carex mackenziei;66.4;3.57770876399966;1.6;5;0.712573223969767;0.284434662544612
-Carex_heleonastes|||spm00006033|Glareosae;Carex heleonastes;57.6;3.57770876399966;1.6;5;0.712573223969767;0.284434662544612
-Carex_stenophylla||TCS|spm00003603|Divisae;Carex stenophylla;60.4;0.894427190999916;0.4;5;0.712573223969767;0.284434662544612
-Carex_divulsa|divulsa_IS797B||spm00002383|Phaestoglochin;Carex divulsa;57.2;1.09544511501033;0.489897948556636;5;0.712573223969767;0.284434662544612
-Carex_deweyana|STA_800|ORE|spm00005369|Deweyanae;Carex deweyana;54.4;0.894427190999916;0.4;5;0.712573223969767;0.284434662544612
-Carex_echinodes|ten.echinodes_3158|WIS|spm00002699|Ovales;Carex echinodes;76.4;1.67332005306815;0.748331477354788;5;0.712573223969767;0.284434662544612
-Carex_opaca|opaca_10856|ILL|spm00002544|Ovales;Carex opaca;66.8;0.836660026534076;0.374165738677394;5;0.712573223969767;0.284434662544612
-Carex_tribuloides_var._tribuloides|B718|SCA|spm00001323|Ovales;Carex tribuloides var. tribuloides;70;1.4142135623731;0.632455532033676;5;0.712573223969767;0.284434662544612
-Carex_rosea|STA_860|KTY|spm00005415|Phaestoglochin;Carex rosea;53.6;2.19089023002066;0.979795897113271;5;0.712573223969767;0.284434662544612
-Carex_leiorhyncha|leiorhyncha_2001|KOR|spm00002471|Phleoideae;Carex leiorhyncha;78;1.58113883008419;0.707106781186548;5;0.712573223969767;0.284434662544612
-Carex_leptalea|B414|MIC|spm00001032|Leptocephalae;Carex leptalea;52;0;0;5;0.712573223969767;0.284434662544612
-Carex_borealipolaris|K_smirnovii_ZSL||spm00003659|Kobresia;Carex borealipolaris;58;2.82842712474619;1.26491106406735;5;0.712573223969767;0.284434662544612
-Carex_magellanica||Denmark|spm00003199|Limosae;Carex magellanica;58.3333333333333;0.816496580927726;0.333333333333333;6;0.593811019974806;0.237028885453843
-Carex_gracillima|B304|ALA|spm00000922|Hymenochlaenae;Carex gracillima;52.3333333333333;1.50554530541816;0.614636297152859;6;0.593811019974806;0.237028885453843
-Carex_acutiformis|Carex_MOR_316||spm00004694|Paludosae;Carex acutiformis;64.6666666666667;20.6559111797729;8.43274042711568;6;0.593811019974806;0.237028885453843
-Carex_pseudocyperus|B573|MIC|spm00001179|Vesicariae;Carex pseudocyperus;66;0;0;6;0.593811019974806;0.237028885453843
-Carex_adelostoma|B1012|ARK|spm00001619|Racemosae;Carex adelostoma;106;0;0;6;0.593811019974806;0.237028885453843
-Carex_livida|B807|NWJ|spm00001410|Paniceae;Carex livida;38.3333333333333;9.83192080250176;4.01386485959743;6;0.593811019974806;0.237028885453843
-Carex_pilosa||YUG|spm00000563|Paniceae;Carex pilosa;43.3333333333333;1.03279555898864;0.421637021355784;6;0.593811019974806;0.237028885453843
-Carex_tomentosa||SPA|spm00000568|Acrocystis;Carex tomentosa;47.6666666666667;0.816496580927726;0.333333333333333;6;0.593811019974806;0.237028885453843
-Carex_ferruginea_subsp._ferruginea||SWI|spm00000531|Aulocystis;Carex ferruginea subsp. ferruginea;48.8333333333333;10.04821708895;4.10216744877361;6;0.593811019974806;0.237028885453843
-Carex_supina_var._spaniocarpa|B1187|ARK|spm00001794|Lamprochlaenae;Carex supina var. spaniocarpa;43.6666666666667;8.89194391945129;3.63012090401653;6;0.593811019974806;0.237028885453843
-Carex_ursina|||spm00006105|Glareosae;Carex ursina;64;0;0;6;0.593811019974806;0.237028885453843
-Carex_lapponica|||spm00006056|Glareosae;Carex lapponica;56;0;0;6;0.593811019974806;0.237028885453843
-Carex_leersii||SPA|spm00004393|Phaestoglochin;Carex leersii;57;1.67332005306815;0.683130051063973;6;0.593811019974806;0.237028885453843
-Carex_laevivaginata|laevivaginata_3154|ILL|spm00002466|Vulpinae;Carex laevivaginata;49.3333333333333;1.63299316185545;0.666666666666667;6;0.593811019974806;0.237028885453843
-Carex_arcta|||spm00005958|Glareosae;Carex arcta;57.6666666666667;3.66969571853944;1.49814700361628;6;0.593811019974806;0.237028885453843
-Carex_disperma|STA_804|MRY|spm00005373|Dispermae;Carex disperma;70;0;0;6;0.593811019974806;0.237028885453843
-Carex_bicknellii|bicknellii_549|WIS|spm00002271|Ovales;Carex bicknellii;76;1.26491106406735;0.516397779494322;6;0.593811019974806;0.237028885453843
-Carex_tetrastachya|B663|TEX|spm00001269|Ovales;Carex tetrastachya;64.8333333333333;1.32916013582513;0.542627353203324;6;0.593811019974806;0.237028885453843
-Carex_projecta|B570|MAN|spm00001176|Ovales;Carex projecta;64;1.26491106406735;0.516397779494322;6;0.593811019974806;0.237028885453843
-Carex_gracilior|B1085|CAL|spm00001692|Ovales;Carex gracilior;82.3333333333333;4.08248290463863;1.66666666666667;6;0.593811019974806;0.237028885453843
-Carex_nardina||NUN|spm00005514|Nardinae;Carex nardina;68.6666666666667;1.03279555898864;0.421637021355784;6;0.593811019974806;0.237028885453843
-Carex_microglochin|||spm00005211|Leucoglochin;Carex microglochin;53.3333333333333;5.16397779494322;2.10818510677892;6;0.593811019974806;0.237028885453843
-Carex_spartea||ETH|spm00000162|Schoenoxiphium;Carex spartea;30.8333333333333;3.92003401345787;1.60034718455437;6;0.593811019974806;0.237028885453843
-Carex_nigra_subsp._juncella|27E8NPJM|NOR|spm00003773|Phacocystis;Carex nigra subsp. juncella;77.1428571428571;13.3594981371379;5.04941567307108;7;0.508980874264119;0.203167616103294
-Carex_magellanica_subsp._irrigua|B1030|ARK|spm00001637|Limosae;Carex magellanica subsp. irrigua;58.2857142857143;0.755928946018454;0.285714285714286;7;0.508980874264119;0.203167616103294
-Carex_pendula|B591|AUT|spm00001197|Rhynchocystis;Carex pendula;59.1428571428571;1.57359158493889;0.594761714133181;7;0.508980874264119;0.203167616103294
-Carex_williamsii|B1362|YUK|spm00001969|Chlorostachyae;Carex williamsii;34;14.9666295470958;5.65685424949238;7;0.508980874264119;0.203167616103294
-Carex_firma||ITA|spm00000520|Aulocystis;Carex firma;38.8571428571429;12.8507920823137;4.85714285714286;7;0.508980874264119;0.203167616103294
-Carex_tristachya||CHS|spm00000132|Mitratae;Carex tristachya;47.1428571428571;10.9609697172676;4.14285714285714;7;0.508980874264119;0.203167616103294
-Carex_ussuriensis||CHS|spm00000533|Albae;Carex ussuriensis;21;2.16024689946929;0.816496580927726;7;0.508980874264119;0.203167616103294
-Carex_marina||NUN|spm00005494|Glareosae;Carex marina;61.7142857142857;2.6903708365382;1.01686459543155;7;0.508980874264119;0.203167616103294
-Carex_paniculata|||spm00006108|Heleoglochin;Carex paniculata;60.8571428571429;1.57359158493889;0.594761714133181;7;0.508980874264119;0.203167616103294
-Carex_divisa||MAN|spm00005374|Divisae;Carex divisa;59.7142857142857;1.38013111868471;0.521640530957301;7;0.508980874264119;0.203167616103294
-Carex_chordorrhiza|STA_792|MIC|spm00005364|Chordorrhizae;Carex chordorrhiza;64;4.61880215351701;1.74574312188794;7;0.508980874264119;0.203167616103294
-Carex_foetida||SWI|spm00000565|Foetidae;Carex foetida;46.5714285714286;7.9132198010069;2.99091595189376;7;0.508980874264119;0.203167616103294
-Carex_bromoides||MRY|spm00005263|Deweyanae;Carex bromoides;64.5714285714286;2.76026223736942;1.0432810619146;7;0.508980874264119;0.203167616103294
-Carex_normalis|normalis_3111|ILL|spm00002537|Ovales;Carex normalis;69;1.29099444873581;0.487950036474267;7;0.508980874264119;0.203167616103294
-Carex_molestiformis|B466|ARK|spm00001073|Ovales;Carex molestiformis;71.7142857142857;2.1380899352994;0.808122035641769;7;0.508980874264119;0.203167616103294
-Carex_bebbii|bebbii_3132|WIS|spm00002266|Ovales;Carex bebbii;68.5714285714286;0.975900072948533;0.368855556781659;7;0.508980874264119;0.203167616103294
-Carex_longii|longii_11237|MSX|spm00002485|Ovales;Carex longii;60.5714285714286;1.51185789203691;0.571428571428571;7;0.508980874264119;0.203167616103294
-Carex_debilis|B245|OKL|spm00000863|Hymenochlaenae;Carex debilis;56.5;4.1057451037714;1.45160010235011;8;0.445358264981104;0.177771664090383
-Carex_pallescens||SPA|spm00000562|Porocystis;Carex pallescens;63.375;2.44584195260913;0.864735715200232;8;0.445358264981104;0.177771664090383
-Carex_rotundata||FIN|spm00000578|Vesicariae;Carex rotundata;65.125;12.6427562546419;4.46988934027295;8;0.445358264981104;0.177771664090383
-Carex_troodi||CYP|spm00002962|Spirostachyae;Carex troodi;68.125;0.353553390593274;0.125;8;0.445358264981104;0.177771664090383
-Carex_lepidocarpa_subsp._lepidocarpa||Belgium|spm00003275|Ceratocystis;Carex lepidocarpa subsp. lepidocarpa;67.125;3.90741054188796;1.38147824552439;8;0.445358264981104;0.177771664090383
-Carex_blanda|B1212|TEN|spm00001819|Laxiflorae;Carex blanda;35.25;3.37003603202441;1.19148766554373;8;0.445358264981104;0.177771664090383
-Carex_melanocarpa||KHA|spm00003594|Acrocystis;Carex melanocarpa;23.25;2.18762754730194;0.773443136703847;8;0.445358264981104;0.177771664090383
-Carex_deflexa_var._deflexa|B1519|BRC|spm00002125|Acrocystis;Carex deflexa var. deflexa;25.75;6.4752275194445;2.28933864436248;8;0.445358264981104;0.177771664090383
-Carex_filicina|STA_632|TAI|spm00005187|Indicae;Carex filicina;41.25;11.259916264596;3.98098157314428;8;0.445358264981104;0.177771664090383
-Carex_gynocrates|gynocrates_3169|WIS|spm00002428|Physoglochin;Carex gynocrates;51.25;7.62982868184376;2.69755180011167;8;0.445358264981104;0.177771664090383
-Carex_parallela||FIN|spm00003596|Physoglochin;Carex parallela;40.875;7.43423547803385;2.62839915972767;8;0.445358264981104;0.177771664090383
-Carex_davalliana|davaliana_2416|AUT|spm00002350|Physoglochin;Carex davalliana;46;0;0;8;0.445358264981104;0.177771664090383
-Carex_elongata|||spm00005951|Elongatae;Carex elongata;63.625;9.53096457418061;3.36970484082593;8;0.445358264981104;0.177771664090383
-Carex_siderosticta|siderosticta_1837|JAP|spm00002643|Siderostictae;Carex siderosticta;19.5;6.21059003408119;2.1957751641342;8;0.445358264981104;0.177771664090383
-Carex_paleacea|B521|MAI|spm00001127|Phacocystis;Carex paleacea;72.3333333333333;0.707106781186548;0.235702260395516;9;0.395874013316537;0.158019256969229
-Carex_salina|B1346|QUE|spm00001953|Phacocystis;Carex salina;78.6666666666667;2.17944947177034;0.726483157256779;9;0.395874013316537;0.158019256969229
-Carex_scopulorum_var._scopulorum|B630|CAL|spm00001237|Phacocystis;Carex scopulorum var. scopulorum;76;2.73861278752583;0.912870929175277;9;0.395874013316537;0.158019256969229
-Carex_eleusinoides|B1016|ARK|spm00001623|Phacocystis;Carex eleusinoides;78.8888888888889;10.7289846262874;3.57632820876247;9;0.395874013316537;0.158019256969229
-Carex_podocarpa|B1325|BRC|spm00001932|Scitae;Carex podocarpa;62.8888888888889;2.02758751009941;0.675862503366469;9;0.395874013316537;0.158019256969229
-Carex_halleriana||SPA|spm00000557|Hallerianae;Carex halleriana;52.2222222222222;2.10818510677892;0.702728368926307;9;0.395874013316537;0.158019256969229
-Carex_frigida||SPA|spm00000521|Aulocystis;Carex frigida;56.7777777777778;0.97182531580755;0.32394177193585;9;0.395874013316537;0.158019256969229
-Carex_granularis|B804|MAN|spm00001407|Granulares;Carex granularis;39.5555555555556;1.9436506316151;0.6478835438717;9;0.395874013316537;0.158019256969229
-Carex_tenuiflora|||spm00006090|Glareosae;Carex tenuiflora;59.6666666666667;1.87082869338697;0.623609564462324;9;0.395874013316537;0.158019256969229
-Carex_otrubae|otrubae_IS147A|ILL|spm00002550|Vulpinae;Carex otrubae;58.8888888888889;1.05409255338946;0.351364184463153;9;0.395874013316537;0.158019256969229
-Carex_missouriensis|B460|ILL|spm00001067|Ovales;Carex missouriensis;51.7777777777778;1.71593835683117;0.571979452277056;9;0.395874013316537;0.158019256969229
-Carex_brevior|brevior_10345b|TEX|spm00002279|Ovales;Carex brevior;59.5555555555556;6.46357314322178;2.15452438107393;9;0.395874013316537;0.158019256969229
-Carex_molesta|molesta_3136|WIS|spm00002515|Ovales;Carex molesta;68.4444444444444;0.881917103688197;0.293972367896066;9;0.395874013316537;0.158019256969229
-Carex_diandra|diandra_31||spm00002364|Heleoglochin;Carex diandra;58;3.60555127546399;1.20185042515466;9;0.395874013316537;0.158019256969229
-Carex_lyngbyei|B479|ORE|spm00001085|Phacocystis;Carex lyngbyei;72.2;2.93636207273937;0.928559218478941;10;0.356286611984883;0.142217331272306
-Carex_membranacea|B442|ASK|spm00001050|Vesicariae;Carex membranacea;76.2;2.25092573548455;0.711805216802087;10;0.356286611984883;0.142217331272306
-Carex_paulo_vargasii||MOR|spm00002949|Spirostachyae;Carex paulo vargasii;74;0;0;10;0.356286611984883;0.142217331272306
-Carex_punctata||FRA|spm00002954|Spirostachyae;Carex punctata;68;0;0;10;0.356286611984883;0.142217331272306
-Carex_panicea|B1299|MAI|spm00001906|Paniceae;Carex panicea;32;0;0;10;0.356286611984883;0.142217331272306
-Carex_michelii||HUN|spm00002175|Depauperatae;Carex michelii;56.6;8.07189912942151;2.55255862921022;10;0.356286611984883;0.142217331272306
-Carex_glacialis||NUN|spm00005485|Lamprochlaenae;Carex glacialis;34;0;0;10;0.356286611984883;0.142217331272306
-Carex_glareosa|||spm00006025|Glareosae;Carex glareosa;65.4;1.34989711542111;0.42687494916219;10;0.356286611984883;0.142217331272306
-Carex_dioica|STA_107|GRB|spm00005178|Physoglochin;Carex dioica;51.8;0.632455532033676;0.2;10;0.356286611984883;0.142217331272306
-Carex_maritima||Denmark|spm00003187|Foetidae;Carex maritima;60;0;0;10;0.356286611984883;0.142217331272306
-Carex_capitata|B1429|KRA|spm00002036|Capituligerae;Carex capitata;50;0;0;10;0.356286611984883;0.142217331272306
-Carex_reuteriana_subsp._mauritanica||SPA|spm00003162|Phacocystis;Carex reuteriana subsp. mauritanica;73.7272727272727;0.904534033733291;0.272727272727273;11;0.323896919986258;0.129288482974824
-Carex_hordeistichos||SPA|spm00000579|Secalinae;Carex hordeistichos;56.6363636363636;1.74772579501061;0.526959154406889;11;0.323896919986258;0.129288482974824
-Carex_lasiocarpa|B379|ARK|spm00000997|Paludosae;Carex lasiocarpa;74.6363636363636;12.1101009679749;3.65133282582658;11;0.323896919986258;0.129288482974824
-Carex_lepidocarpa_subsp._nevadensis|2E7PJM07|SPA|spm00003780|Ceratocystis;Carex lepidocarpa subsp. nevadensis;65.0909090909091;3.2696955654784;0.985850306307342;11;0.323896919986258;0.129288482974824
-Carex_hostiana||GER|spm00003273|Ceratocystis;Carex hostiana;56;0;0;11;0.323896919986258;0.129288482974824
-Carex_sylvatica||SWI|spm00005227|Sylvaticae;Carex sylvatica;57.2727272727273;3.92659926885617;1.18391422517089;11;0.323896919986258;0.129288482974824
-Carex_pairae||SPA|spm00004402|Phaestoglochin;Carex pairae;54.7272727272727;2.76010539983201;0.832203090279695;11;0.323896919986258;0.129288482974824
-Carex_tenera|tenera_3124|WIS|spm00002701|Ovales;Carex tenera;54.5454545454545;1.57249078621379;0.474123811287465;11;0.323896919986258;0.129288482974824
-Carex_leporina|B1173|WIS|spm00001780|Ovales;Carex leporina;65.0909090909091;2.07145096270925;0.62456596499337;11;0.323896919986258;0.129288482974824
-Carex_extensa||GRC|spm00002916|Spirostachyae;Carex extensa;60;0;0;12;0.296905509987403;0.118514442726922
-Carex_demissa||UK|spm00003096|Ceratocystis;Carex demissa;69.6666666666667;0.778498944161523;0.224733287487747;12;0.296905509987403;0.118514442726922
-Carex_norvegica||NUN|spm00005517|Racemosae;Carex norvegica;57.3333333333333;4.1194292043555;1.18917678002113;12;0.296905509987403;0.118514442726922
-Carex_holostoma|B1024|ARK|spm00001631|Racemosae;Carex holostoma;54.75;9.95558317546674;2.87392931314772;12;0.296905509987403;0.118514442726922
-Carex_bicolor|B1015|ARK|spm00001622|Bicolores;Carex bicolor;49.3333333333333;5.61383572213791;1.62057478268133;12;0.296905509987403;0.118514442726922
-Carex_ericetorum||ITA|spm00000551|Acrocystis;Carex ericetorum;30.1666666666667;0.577350269189626;0.166666666666667;12;0.296905509987403;0.118514442726922
-Carex_arenaria|||spm00005934|Ammoglochin;Carex arenaria;58.1666666666667;9.82421251374131;2.83600586969232;12;0.296905509987403;0.118514442726922
-Carex_spicata|||spm00006116|Phaestoglochin;Carex spicata;57.8333333333333;1.99240983979124;0.575159178669767;12;0.296905509987403;0.118514442726922
-Carex_bohemica|bohemica_8650|FIN|spm00002276|Ovales;Carex bohemica;74.0833333333333;8.7848871605868;2.53597848348264;12;0.296905509987403;0.118514442726922
-Carex_disticha|STA_805|ONT|spm00005395|Holarrhenae;Carex disticha;62.4166666666667;1.37895436890245;0.39806983804302;12;0.296905509987403;0.118514442726922
-Carex_pauciflora|B536|ARK|spm00001142|Leucoglochin;Carex pauciflora;64.25;16.755596080116;4.83692395364382;12;0.296905509987403;0.118514442726922
-Carex_dacica||NOR|spm00003160|Phacocystis;Carex dacica;80.9230769230769;2.01913919206257;0.560008453021578;13;0.274066624603757;0.109397947132543
-Carex_hirta||YUG|spm00000567|Carex;Carex hirta;112.230769230769;0.599144689515278;0.166172838420714;13;0.274066624603757;0.109397947132543
-Carex_viridula||GRC|spm00003102|Ceratocystis;Carex viridula;66.4615384615385;4.31306898884821;1.19623010722353;13;0.274066624603757;0.109397947132543
-Carex_lachenalii||NUN|spm00005492|Glareosae;Carex lachenalii;61.5384615384615;4.17563138170714;1.15811177339859;13;0.274066624603757;0.109397947132543
-Carex_crawfordii|crawfordii_10918|MAI|spm00002327|Ovales;Carex crawfordii;66.7692307692308;4.51209201579205;1.25142916327307;13;0.274066624603757;0.109397947132543
-Carex_microptera||WAS|spm00004436|Ovales;Carex microptera;81.3846153846154;3.09673111356856;0.858878678176627;13;0.274066624603757;0.109397947132543
-Carex_limosa|B417|ARK|spm00001035|Limosae;Carex limosa;60.7142857142857;3.75045784750796;1.00235202206518;14;0.25449043713206;0.101583808051647
-Carex_montana||YUG|spm00000543|Acrocystis;Carex montana;38;0;0;14;0.25449043713206;0.101583808051647
-Carex_praticola|B557|COL|spm00001163|Ovales;Carex praticola;75.5714285714286;3.43543269504699;0.918158008584805;14;0.25449043713206;0.101583808051647
-Carex_vesicaria|B755|DEL|spm00001360|Vesicariae;Carex vesicaria;79.2;5.33452367668781;1.37736809065074;15;0.237524407989922;0.0948115541815374
-Carex_pilulifera||POR|spm00000583|Acrocystis;Carex pilulifera;19;4.45613541728063;1.15056921730486;15;0.237524407989922;0.0948115541815374
-Carex_subspathacea|B1040|ARK|spm00001647|Phacocystis;Carex subspathacea;79.9375;2.11246301742776;0.52811575435694;16;0.222679132490552;0.0888858320451913
-Carex_fuliginosa||NUN|spm00005479|Aulocystis;Carex fuliginosa;40;0;0;16;0.222679132490552;0.0888858320451913
-Carex_atrofusca|B1047|ARK|spm00001654|Aulocystis;Carex atrofusca;38.25;1.61245154965971;0.403112887414928;16;0.222679132490552;0.0888858320451913
-Carex_remota|||spm00006117|Remotae;Carex remota;62.25;1;0.25;16;0.222679132490552;0.0888858320451913
-Carex_rupestris|B1515|SPA|spm00002121|Petraeae;Carex rupestris;50.75;1.18321595661992;0.295803989154981;16;0.222679132490552;0.0888858320451913
-Carex_cespitosa||FIN|spm00003167|Phacocystis;Carex cespitosa;75.4117647058823;4.43084110989962;1.07463681802618;17;0.209580359991108;0.0836572536895918
-Carex_saxatilis||NWT|spm00005528|Vesicariae;Carex saxatilis;74.7058823529412;9.71959815194505;2.35734881288398;17;0.209580359991108;0.0836572536895918
-Carex_vaginata|B1367|YUK|spm00001974|Paniceae;Carex vaginata;31.7058823529412;4.64710536089878;1.12708860331528;17;0.209580359991108;0.0836572536895918
-Carex_echinata|echinata_13551|WIS|spm00002390|Stellulatae;Carex echinata;56.5882352941176;4.40253937417673;1.06777263886302;17;0.209580359991108;0.0836572536895918
-Carex_rostrata|B993|WAS|spm00001600|Vesicariae;Carex rostrata;69.8333333333333;9.73924746458732;2.29556264195453;18;0.197937006658269;0.0790096284846145
-Carex_scirpoidea||NWT|spm00005531|Scirpinae;Carex scirpoidea;62.1052631578947;0.458831467741124;0.105263157894737;19;0.187519269465728;0.0748512269854242
-Carex_mairei||SPA|spm00002945|Spirostachyae;Carex mairei;68.6842105263158;0.945905302926917;0.217005559243035;19;0.187519269465728;0.0748512269854242
-Carex_brunnescens|||spm00005979|Glareosae;Carex brunnescens;54.5789473684211;3.18530984841497;0.730760196479247;19;0.187519269465728;0.0748512269854242
-Carex_simpliciuscula|STA_30|BRC|spm00005200|Kobresia;Carex simpliciuscula;71.9473684210526;5.44134056409842;1.2483291387523;19;0.187519269465728;0.0748512269854242
-Carex_blepharicarpa||KOR|spm00000012|Aulocystis;Carex blepharicarpa;30.8;4.11160104556543;0.919381943424352;20;0.178143305992442;0.071108665636153
-Carex_muricata_subsp._muricata||POL|spm00004400|Phaestoglochin;Carex muricata subsp. muricata;56.05;2.32775021267996;0.520500771019197;20;0.178143305992442;0.071108665636153
-Carex_macloviana||CL?|spm00003122|Ovales;Carex macloviana;85.3;1.38031270293899;0.308647303397805;20;0.178143305992442;0.071108665636153
-Carex_bigelowii||NWT|spm00005468|Phacocystis;Carex bigelowii;70.8095238095238;2.08851735973268;0.45575185196211;21;0.169660291421373;0.0677225387010981
-Carex_acuta||ITA|spm00003084|Phacocystis;Carex acuta;82.3333333333333;9.61422557116967;2.09799602039358;21;0.169660291421373;0.0677225387010981
-Carex_myosuroides|K_myosuroides_B_ZSL||spm00003654|Kobresia;Carex myosuroides;57.5714285714286;6.23354977979183;1.36027208162721;21;0.169660291421373;0.0677225387010981
-Carex_elata_subsp._elata||SPA|spm00003134|Phacocystis;Carex elata subsp. elata;75.1363636363636;3.04404890996084;0.648993408225166;22;0.161948459993129;0.0646442414874119
-Carex_binervis||SPA|spm00002885|Spirostachyae;Carex binervis;73.9090909090909;0.426401432711221;0.0909090909090909;22;0.161948459993129;0.0646442414874119
-Carex_capillaris|B1488|NWT|spm00002094|Chlorostachyae;Carex capillaris;51.8181818181818;7.70674635588453;1.64308384384557;22;0.161948459993129;0.0646442414874119
-Carex_distachya|||spm00003208|Schiedeanae;Carex distachya;73.0454545454545;1.7587136188344;0.374959003399862;22;0.161948459993129;0.0646442414874119
-Carex_flacca_subsp._flacca||ITA|spm00000525|Thuringiaca;Carex flacca subsp. flacca;70;15.2911144727316;3.18841777456129;23;0.154907222602123;0.061833622292307
-Carex_atrata||AUT|spm00002172|Racemosae;Carex atrata;50.5;9.06977781234013;1.85136064338747;24;0.148452754993701;0.0592572213634609
-Carex_pisiformis||CHS|spm00000095|Mitratae;Carex pisiformis;72.28;7.91370119897551;1.5827402397951;25;0.142514644793953;0.0568869325089224
-Carex_pachystachya|pachystachya_3190|CAL|spm00002560|Ovales;Carex pachystachya;78.56;2.8;0.56;25;0.142514644793953;0.0568869325089224
-Carex_caryophyllea|B1457|SPA|spm00002063|Mitratae;Carex caryophyllea;66.1923076923077;2.07883103246475;0.407692307692308;26;0.137033312301878;0.0546989735662716
-Carex_distans||MOR|spm00002904|Spirostachyae;Carex distans;72.4814814814815;1.98785486179624;0.382562846522655;27;0.131958004438846;0.0526730856564097
-Carex_aquatilis||NUN|spm00005451|Phacocystis;Carex aquatilis;76.5714285714286;3.20218179589608;0.605155477482802;28;0.12724521856603;0.0507919040258236
-Carex_flava|6E3PJM05|NOR|spm00003772|Ceratocystis;Carex flava;61;3.35281662342945;0.61213776527687;30;0.118762203994961;0.0474057770907687
-Carex_digitata||ITA|spm00000569|Clandestinae;Carex digitata;51.5666666666667;2.16051292334807;0.394453887966389;30;0.118762203994961;0.0474057770907687
-Carex_canescens|||spm00005990|Glareosae;Carex canescens;56.8333333333333;3.73319991551422;0.681585935134507;30;0.118762203994961;0.0474057770907687
-Carex_nigra|STA_104|FRA|spm00005159|Phacocystis;Carex nigra;82.4193548387097;7.89419277506525;2.02658073573643;31;0.114931165156414;0.0458765584749374
-Carex_scoparia_var._scoparia|B648|MAI|spm00001255|Ovales;Carex scoparia var. scoparia;64.0652173913043;2.73160677611596;0.468466697269578;46;0.0774536113010616;0.0309168111461535
-<<<<<<< HEAD
-Carex_laevigata||FRA|spm00004373|Spirostachyae;Carex laevigata;75.74;2.80531565396255;0.396731544457139;50;0.0712573223969767;0.0284434662544612
-=======
-Carex_laevigata||FRA|spm00004373|Spirostachyae;Carex laevigata;75.74;2.80531565396255;0.396731544457139;50;0.0712573223969767;0.0284434662544612
->>>>>>> 77ec59e2131c91d1b753b0443cd463a3a499fa54
+original name;species;mean 2n;Ncyt;mean se / Ncyt;mean variance / Ncyt
+Carex_ramenskii|B836|ARK|spm00001439|Phacocystis;Carex ramenskii;80;1;1.63580175951257;45.312864541334
+Carex_emoryi|B267|DEL|spm00000885|Phacocystis;Carex emoryi;72;1;1.63580175951257;45.312864541334
+Carex_orbicularis_subsp._orbicularis||EHM|spm00003063|Phacocystis;Carex orbicularis subsp. orbicularis;86;1;1.63580175951257;45.312864541334
+Carex_gynandra|B346|DEL|spm00000964|Phacocystis;Carex gynandra;68;1;1.63580175951257;45.312864541334
+Carex_torta|B715|PEN|spm00001320|Phacocystis;Carex torta;66;1;1.63580175951257;45.312864541334
+Carex_mitchelliana|B495|ALA|spm00001101|Phacocystis;Carex mitchelliana;66;1;1.63580175951257;45.312864541334
+Carex_microchaeta_subsp._microchaeta|B1339|YUK|spm00001946|Scitae;Carex microchaeta subsp. microchaeta;62;1;1.63580175951257;45.312864541334
+Carex_typhina||SCA|spm00005238|Squarrosae;Carex typhina;54;1;1.63580175951257;45.312864541334
+Carex_squarrosa|B675|ARK|spm00001281|Squarrosae;Carex squarrosa;56;1;1.63580175951257;45.312864541334
+Carex_haydenii|B1185|IOW|spm00001792|Phacocystis;Carex haydenii;54;1;1.63580175951257;45.312864541334
+Carex_aperta|B1235|BRC|spm00001842|Phacocystis;Carex aperta;54;1;1.63580175951257;45.312864541334
+Carex_stylosa|B889|NFL|spm00001490|Stylosae;Carex stylosa;52;1;1.63580175951257;45.312864541334
+Carex_hirsutella|B317|DEL|spm00000935|Porocystis;Carex hirsutella;52;1;1.63580175951257;45.312864541334
+Carex_caroliniana|B197|ALA|spm00000815|Porocystis;Carex caroliniana;48;1;1.63580175951257;45.312864541334
+Carex_swanii||ILL|spm00005235|Porocystis;Carex swanii;54;1;1.63580175951257;45.312864541334
+Carex_aestivalis|B062|PEN|spm00000681|Hymenochlaenae;Carex aestivalis;56;1;1.63580175951257;45.312864541334
+Carex_formosa|B1125|ILL|spm00001732|Hymenochlaenae;Carex formosa;52;1;1.63580175951257;45.312864541334
+Carex_hirtifolia|B872|QUE|spm00001475|Hirtifoliae;Carex hirtifolia;50;1;1.63580175951257;45.312864541334
+Carex_scabrata|B636|GEO|spm00001243|Anomalae;Carex scabrata;54;1;1.63580175951257;45.312864541334
+Carex_curatorum|B1409||spm00002016|Scirpinae;Carex curatorum;62;1;1.63580175951257;45.312864541334
+Carex_scabriuscula|B639|CAL|spm00001246|Scirpinae;Carex scabriuscula;58;1;1.63580175951257;45.312864541334
+Carex_laeviconica|B1280|TEN|spm00001887|Carex;Carex laeviconica;110;1;1.63580175951257;45.312864541334
+Carex_songorica||TZK|spm00003384|Paludosae;Carex songorica;82;1;1.63580175951257;45.312864541334
+Carex_houghtoniana|B843|MAN|spm00001446|Paludosae;Carex houghtoniana;56;1;1.63580175951257;45.312864541334
+Carex_comosa|B208|CAL|spm00000826|Vesicariae;Carex comosa;64;1;1.63580175951257;45.312864541334
+Carex_lupuliformis|B393|FLA|spm00001011|Lupulinae;Carex lupuliformis;60;1;1.63580175951257;45.312864541334
+Carex_retrorsa|B603|MIC|spm00001210|Vesicariae;Carex retrorsa;70;1;1.63580175951257;45.312864541334
+Carex_pedunculata|B541|MAS|spm00001147|Clandestinae;Carex pedunculata;26;1;1.63580175951257;45.312864541334
+Carex_mannii||KEN|spm00000209|Spirostachyae;Carex mannii;70;1;1.63580175951257;45.312864541334
+Carex_mannii_subsp._friesiorum||KEN|spm00004355|Spirostachyae;Carex mannii subsp. friesiorum;70;1;1.63580175951257;45.312864541334
+Carex_boryana||REU|spm00002844|Spirostachyae;Carex boryana;68;1;1.63580175951257;45.312864541334
+Carex_borbonica||REU|spm00002843|Spirostachyae;Carex borbonica;68;1;1.63580175951257;45.312864541334
+Carex_petitiana_subsp._attenuata||MLW|spm00002870|Spirostachyae;Carex petitiana subsp. attenuata;70;1;1.63580175951257;45.312864541334
+Carex_simensis||KEN|spm00000232|Spirostachyae;Carex simensis;70;1;1.63580175951257;45.312864541334
+Carex_perraudieriana||CNY|spm00004346|Spirostachyae;Carex perraudieriana;74;1;1.63580175951257;45.312864541334
+Carex_aethiopica||CPP|spm00002842|Spirostachyae;Carex aethiopica;74;1;1.63580175951257;45.312864541334
+Carex_fissirostris||MOR|spm00002917|Spirostachyae;Carex fissirostris;72;1;1.63580175951257;45.312864541334
+Carex_hochstetteriana||AZO|spm00002857|Spirostachyae;Carex hochstetteriana;76;1;1.63580175951257;45.312864541334
+Carex_idaea||KRI|spm00002933|Spirostachyae;Carex idaea;74;1;1.63580175951257;45.312864541334
+Carex_lainzii||SPA|spm00002942|Spirostachyae;Carex lainzii;68;1;1.63580175951257;45.312864541334
+Carex_vixdentata||AGE|spm00002963|Spirostachyae;Carex vixdentata;62;1;1.63580175951257;45.312864541334
+Carex_ecklonii||CPP|spm00004378|Spirostachyae;Carex ecklonii;64;1;1.63580175951257;45.312864541334
+Carex_forsteri||NZS|spm00002183|Echinochlaenae;Carex forsteri;60;1;1.63580175951257;45.312864541334
+Carex_calcis||NZS|spm00002186|Echinochlaenae;Carex calcis;68;1;1.63580175951257;45.312864541334
+Carex_lepidocarpa_subsp._jemtlandica||NOR|spm00003056|Ceratocystis;Carex lepidocarpa subsp. jemtlandica;68;1;1.63580175951257;45.312864541334
+Carex_cryptolepis|B1123|ILL|spm00001730|Ceratocystis;Carex cryptolepis;64;1;1.63580175951257;45.312864541334
+Carex_castroviejoi|Carex_WSU_55|GRC|FASTA.LABEL.NO.SPECIMEN.MATCH|Ceratocystis;Carex castroviejoi;62;1;1.63580175951257;45.312864541334
+Carex_bequaertii||KEN|spm00000175|Rhynchocystis;Carex bequaertii;58;1;1.63580175951257;45.312864541334
+Carex_microcarpa|18E1MMR11|COR|spm00003759|Rhynchocystis;Carex microcarpa;60;1;1.63580175951257;45.312864541334
+Carex_rainbowii||NAT|spm00003255|Sylvaticae;Carex rainbowii;58;1;1.63580175951257;45.312864541334
+Carex_nudata|B837|CAL|spm00001440|Phacocystis;Carex nudata;71;2;0.817900879756286;22.656432270667
+Carex_interrupta|B1059|ORE|spm00001666|Phacocystis;Carex interrupta;66;2;0.817900879756286;22.656432270667
+Carex_stricta|B690|TEX|spm00001296|Phacocystis;Carex stricta;69;2;0.817900879756286;22.656432270667
+Carex_trinervis||France|spm00003132|Phacocystis;Carex trinervis;84.5;2;0.817900879756286;22.656432270667
+Carex_buekii||GER|spm00003101|Phacocystis;Carex buekii;52;2;0.817900879756286;22.656432270667
+Carex_spectabilis|B1372|BRC|spm00001979|Scitae;Carex spectabilis;74;2;0.817900879756286;22.656432270667
+Carex_macrochaeta|B1064|ORE|spm00001671|Scitae;Carex macrochaeta;60;2;0.817900879756286;22.656432270667
+Carex_nebraskensis|B510|CAL|spm00001116|Phacocystis;Carex nebraskensis;67;2;0.817900879756286;22.656432270667
+Carex_misera||NCA|spm00005226|Hymenochlaenae;Carex misera;79;2;0.817900879756286;22.656432270667
+Carex_castanea|B876|NFL|spm00001479|Hymenochlaenae;Carex castanea;54;2;0.817900879756286;22.656432270667
+Carex_gynodynama|B1081|CAL|spm00001688|Hymenochlaenae;Carex gynodynama;51;2;0.817900879756286;22.656432270667
+Carex_hirtissima|B1087|CAL|spm00001694|Hymenochlaenae;Carex hirtissima;71;2;0.817900879756286;22.656432270667
+Carex_torreyi|B1101|COL|spm00001708|Porocystis;Carex torreyi;64;2;0.817900879756286;22.656432270667
+Carex_melanostachya||TUR|spm00000572|Paludosae;Carex melanostachya;65;2;0.817900879756286;22.656432270667
+Carex_lacustris|B373|MAN|spm00000991|Paludosae;Carex lacustris;74;2;0.817900879756286;22.656432270667
+Carex_oligosperma|B506|NWH|spm00001112|Vesicariae;Carex oligosperma;76;2;0.817900879756286;22.656432270667
+Carex_lurida|B476|FLA|spm00001082|Vesicariae;Carex lurida;65;2;0.817900879756286;22.656432270667
+Carex_lupulina|Carex_STARR_11||FASTA.LABEL.NO.SPECIMEN.MATCH|Lupulinae;Carex lupulina;58;2;0.817900879756286;22.656432270667
+Carex_phacota_var._gracilispica|E0449|KOR?|spm00000344|Phacocystis;Carex phacota var. gracilispica;75;2;0.817900879756286;22.656432270667
+Carex_lowei||MDR|spm00002858|Spirostachyae;Carex lowei;76;2;0.817900879756286;22.656432270667
+Carex_diluta||IRN|spm00002897|Spirostachyae;Carex diluta;63;2;0.817900879756286;22.656432270667
+Carex_strigosa|||spm00003302|Sylvaticae;Carex strigosa;66;2;0.817900879756286;22.656432270667
+Carex_cretica||KRI|spm00004382|Sylvaticae;Carex cretica;58;2;0.817900879756286;22.656432270667
+Carex_folliculata||NWJ|spm00005237|Rostrales;Carex folliculata;56;2;0.817900879756286;22.656432270667
+Carex_lenticularis_lenticularis|Carex_STARR_10||FASTALABEL.NO.SPECIMEN.MATCH|Phacocystis;Carex lenticularis lenticularis;74.6666666666667;3;0.545267253170857;15.1042881804447
+Carex_bigelowii_subsp._lugens|B124|ASK|spm00000742|Phacocystis;Carex bigelowii subsp. lugens;73.3333333333333;3;0.545267253170857;15.1042881804447
+Carex_appendiculata||ALT|spm00003267|Phacocystis;Carex appendiculata;78;3;0.545267253170857;15.1042881804447
+Carex_reuteriana_subsp._reuteriana||SPA|spm00003202|Phacocystis;Carex reuteriana subsp. reuteriana;74;3;0.545267253170857;15.1042881804447
+Carex_crinita||QUE|spm00005233|Phacocystis;Carex crinita;66.3333333333333;3;0.545267253170857;15.1042881804447
+Carex_mertensii|B448|ASK|spm00001056|Racemosae;Carex mertensii;62;3;0.545267253170857;15.1042881804447
+Carex_pluriflora|B1349|ARK|spm00001956|Limosae;Carex pluriflora;50.6666666666667;3;0.545267253170857;15.1042881804447
+Carex_pichinchensis||ECU|spm00000538|Fecundae;Carex pichinchensis;83;3;0.545267253170857;15.1042881804447
+Carex_bushii|B159|DEL|spm00000777|Porocystis;Carex bushii;54.6666666666667;3;0.545267253170857;15.1042881804447
+Carex_ischnostachya||CHS|spm00000062|Ischnostachyae;Carex ischnostachya;62;3;0.545267253170857;15.1042881804447
+Carex_nemostachys||CHS|spm00000088|Confertiflorae;Carex nemostachys;83;3;0.545267253170857;15.1042881804447
+Carex_meyeriana||MON|spm00006158|Stylosae;Carex meyeriana;47;3;0.545267253170857;15.1042881804447
+Carex_atherodes|B1242|BRC|spm00001849|Carex;Carex atherodes;66;3;0.545267253170857;15.1042881804447
+Carex_frankii|B321|ALA|spm00000939|Squarrosae;Carex frankii;79.3333333333333;3;0.545267253170857;15.1042881804447
+Carex_pellita|B542|CAL|spm00001148|Paludosae;Carex pellita;80.3333333333333;3;0.545267253170857;15.1042881804447
+Carex_hystericina|B475|ARK|spm00001081|Vesicariae;Carex hystericina;58;3;0.545267253170857;15.1042881804447
+Carex_rorulenta||BAL|spm00003474|Hallerianae;Carex rorulenta;49;3;0.545267253170857;15.1042881804447
+Carex_fischeri_subsp._fischeri||ETH|spm00002854|Spirostachyae;Carex fischeri subsp. fischeri;70;3;0.545267253170857;15.1042881804447
+Carex_petitiana||MLW|spm00000219|Spirostachyae;Carex petitiana;70.6666666666667;3;0.545267253170857;15.1042881804447
+Carex_fuscula||CLS|spm00002924|Spirostachyae;Carex fuscula;66;3;0.545267253170857;15.1042881804447
+Carex_michauxiana|B1141|MAN|spm00001748|Rostrales;Carex michauxiana;59.3333333333333;3;0.545267253170857;15.1042881804447
+Carex_ledebouriana||MAG|spm00003592|Chlorostachyae;Carex ledebouriana;54;3;0.545267253170857;15.1042881804447
+Carex_augustinowiczii|D0521|KOR?|spm00000322|Racemosae;Carex augustinowiczii;61;4;0.408950439878143;11.3282161353335
+Carex_arctata|STA_181|ARK|spm00005144|Hymenochlaenae;Carex arctata;54;4;0.408950439878143;11.3282161353335
+Carex_doniana||CHS|spm00000047|Molliculae;Carex doniana;56.5;4;0.408950439878143;11.3282161353335
+Carex_alopecuroides|D0055|KOR?|spm00000321|Molliculae;Carex alopecuroides;56.5;4;0.408950439878143;11.3282161353335
+Carex_fedia||PAK|spm00003461|Carex;Carex fedia;96.5;4;0.408950439878143;11.3282161353335
+Carex_pumila|B1461|NCA|spm00002067|Paludosae;Carex pumila;81.5;4;0.408950439878143;11.3282161353335
+Carex_utriculata|B774|ARK|spm00001379|Vesicariae;Carex utriculata;79.5;4;0.408950439878143;11.3282161353335
+Carex_grayi||ILL|spm00005228|Lupulinae;Carex grayi;53;4;0.408950439878143;11.3282161353335
+Carex_intumescens|B357|MAI|spm00000975|Lupulinae;Carex intumescens;48;4;0.408950439878143;11.3282161353335
+Carex_helodes||MOR|spm00004359|Spirostachyae;Carex helodes;73;4;0.408950439878143;11.3282161353335
+Carex_angustata|B095|CAL|spm00000713|Phacocystis;Carex angustata;68;5;0.327160351902514;9.0625729082668
+Carex_obnupta|B499|CAL|spm00001105|Phacocystis;Carex obnupta;71.6;5;0.327160351902514;9.0625729082668
+Carex_rariflora|B1392|YUK|spm00001999|Limosae;Carex rariflora;52.4;5;0.327160351902514;9.0625729082668
+Carex_mendocinensis|B1066|ORE|spm00001673|Hymenochlaenae;Carex mendocinensis;58;5;0.327160351902514;9.0625729082668
+Carex_camposii||SPA|spm00004363|Spirostachyae;Carex camposii;71.2;5;0.327160351902514;9.0625729082668
+Carex_derelicta||CZE|spm00003351|Ceratocystis;Carex derelicta;70;5;0.327160351902514;9.0625729082668
+Carex_krausei|B1032|ARK|spm00001639|Chlorostachyae;Carex krausei;46.4;5;0.327160351902514;9.0625729082668
+Carex_magellanica||Denmark|spm00003199|Limosae;Carex magellanica;58.3333333333333;6;0.272633626585429;7.55214409022233
+Carex_gracillima|B304|ALA|spm00000922|Hymenochlaenae;Carex gracillima;52.3333333333333;6;0.272633626585429;7.55214409022233
+Carex_acutiformis|Carex_MOR_316||spm00004694|Paludosae;Carex acutiformis;64.6666666666667;6;0.272633626585429;7.55214409022233
+Carex_pseudocyperus|B573|MIC|spm00001179|Vesicariae;Carex pseudocyperus;66;6;0.272633626585429;7.55214409022233
+Carex_nigra_subsp._juncella|27E8NPJM|NOR|spm00003773|Phacocystis;Carex nigra subsp. juncella;77.1428571428571;7;0.233685965644653;6.47326636304772
+Carex_magellanica_subsp._irrigua|B1030|ARK|spm00001637|Limosae;Carex magellanica subsp. irrigua;58.2857142857143;7;0.233685965644653;6.47326636304772
+Carex_pendula|B591|AUT|spm00001197|Rhynchocystis;Carex pendula;59.1428571428571;7;0.233685965644653;6.47326636304772
+Carex_debilis|B245|OKL|spm00000863|Hymenochlaenae;Carex debilis;56.5;8;0.204475219939071;5.66410806766675
+Carex_pallescens||SPA|spm00000562|Porocystis;Carex pallescens;63.375;8;0.204475219939071;5.66410806766675
+Carex_rotundata||FIN|spm00000578|Vesicariae;Carex rotundata;65.125;8;0.204475219939071;5.66410806766675
+Carex_troodi||CYP|spm00002962|Spirostachyae;Carex troodi;68.125;8;0.204475219939071;5.66410806766675
+Carex_lepidocarpa_subsp._lepidocarpa||Belgium|spm00003275|Ceratocystis;Carex lepidocarpa subsp. lepidocarpa;67.125;8;0.204475219939071;5.66410806766675
+Carex_paleacea|B521|MAI|spm00001127|Phacocystis;Carex paleacea;72.3333333333333;9;0.181755751056952;5.03476272681489
+Carex_salina|B1346|QUE|spm00001953|Phacocystis;Carex salina;78.6666666666667;9;0.181755751056952;5.03476272681489
+Carex_scopulorum_var._scopulorum|B630|CAL|spm00001237|Phacocystis;Carex scopulorum var. scopulorum;76;9;0.181755751056952;5.03476272681489
+Carex_eleusinoides|B1016|ARK|spm00001623|Phacocystis;Carex eleusinoides;78.8888888888889;9;0.181755751056952;5.03476272681489
+Carex_podocarpa|B1325|BRC|spm00001932|Scitae;Carex podocarpa;62.8888888888889;9;0.181755751056952;5.03476272681489
+Carex_halleriana||SPA|spm00000557|Hallerianae;Carex halleriana;52.2222222222222;9;0.181755751056952;5.03476272681489
+Carex_frigida||SPA|spm00000521|Aulocystis;Carex frigida;56.7777777777778;9;0.181755751056952;5.03476272681489
+Carex_lyngbyei|B479|ORE|spm00001085|Phacocystis;Carex lyngbyei;72.2;10;0.163580175951257;4.5312864541334
+Carex_membranacea|B442|ASK|spm00001050|Vesicariae;Carex membranacea;76.2;10;0.163580175951257;4.5312864541334
+Carex_paulo_vargasii||MOR|spm00002949|Spirostachyae;Carex paulo vargasii;74;10;0.163580175951257;4.5312864541334
+Carex_punctata||FRA|spm00002954|Spirostachyae;Carex punctata;68;10;0.163580175951257;4.5312864541334
+Carex_reuteriana_subsp._mauritanica||SPA|spm00003162|Phacocystis;Carex reuteriana subsp. mauritanica;73.7272727272727;11;0.148709250864779;4.11935132193946
+Carex_hordeistichos||SPA|spm00000579|Secalinae;Carex hordeistichos;56.6363636363636;11;0.148709250864779;4.11935132193946
+Carex_lasiocarpa|B379|ARK|spm00000997|Paludosae;Carex lasiocarpa;74.6363636363636;11;0.148709250864779;4.11935132193946
+Carex_lepidocarpa_subsp._nevadensis|2E7PJM07|SPA|spm00003780|Ceratocystis;Carex lepidocarpa subsp. nevadensis;65.0909090909091;11;0.148709250864779;4.11935132193946
+Carex_hostiana||GER|spm00003273|Ceratocystis;Carex hostiana;56;11;0.148709250864779;4.11935132193946
+Carex_sylvatica||SWI|spm00005227|Sylvaticae;Carex sylvatica;57.2727272727273;11;0.148709250864779;4.11935132193946
+Carex_extensa||GRC|spm00002916|Spirostachyae;Carex extensa;60;12;0.136316813292714;3.77607204511117
+Carex_demissa||UK|spm00003096|Ceratocystis;Carex demissa;69.6666666666667;12;0.136316813292714;3.77607204511117
+Carex_dacica||NOR|spm00003160|Phacocystis;Carex dacica;80.9230769230769;13;0.12583090457789;3.485604964718
+Carex_hirta||YUG|spm00000567|Carex;Carex hirta;112.230769230769;13;0.12583090457789;3.485604964718
+Carex_viridula||GRC|spm00003102|Ceratocystis;Carex viridula;66.4615384615385;13;0.12583090457789;3.485604964718
+Carex_limosa|B417|ARK|spm00001035|Limosae;Carex limosa;60.7142857142857;14;0.116842982822327;3.23663318152386
+Carex_vesicaria|B755|DEL|spm00001360|Vesicariae;Carex vesicaria;79.2;15;0.109053450634171;3.02085763608893
+Carex_subspathacea|B1040|ARK|spm00001647|Phacocystis;Carex subspathacea;79.9375;16;0.102237609969536;2.83205403383338
+Carex_cespitosa||FIN|spm00003167|Phacocystis;Carex cespitosa;75.4117647058823;17;0.0962236329125042;2.66546262007847
+Carex_saxatilis||NWT|spm00005528|Vesicariae;Carex saxatilis;74.7058823529412;17;0.0962236329125042;2.66546262007847
+Carex_rostrata|B993|WAS|spm00001600|Vesicariae;Carex rostrata;69.8333333333333;18;0.0908778755284762;2.51738136340744
+Carex_scirpoidea||NWT|spm00005531|Scirpinae;Carex scirpoidea;62.1052631578947;19;0.0860948294480301;2.38488760743863
+Carex_mairei||SPA|spm00002945|Spirostachyae;Carex mairei;68.6842105263158;19;0.0860948294480301;2.38488760743863
+Carex_bigelowii||NWT|spm00005468|Phacocystis;Carex bigelowii;70.8095238095238;21;0.077895321881551;2.15775545434924
+Carex_acuta||ITA|spm00003084|Phacocystis;Carex acuta;82.3333333333333;21;0.077895321881551;2.15775545434924
+Carex_elata_subsp._elata||SPA|spm00003134|Phacocystis;Carex elata subsp. elata;75.1363636363636;22;0.0743546254323896;2.05967566096973
+Carex_binervis||SPA|spm00002885|Spirostachyae;Carex binervis;73.9090909090909;22;0.0743546254323896;2.05967566096973
+Carex_capillaris|B1488|NWT|spm00002094|Chlorostachyae;Carex capillaris;51.8181818181818;22;0.0743546254323896;2.05967566096973
+Carex_distans||MOR|spm00002904|Spirostachyae;Carex distans;72.4814814814815;27;0.0605852503523175;1.67825424227163
+Carex_aquatilis||NUN|spm00005451|Phacocystis;Carex aquatilis;76.5714285714286;28;0.0584214914111633;1.61831659076193
+Carex_flava|6E3PJM05|NOR|spm00003772|Ceratocystis;Carex flava;61;30;0.0545267253170857;1.51042881804447
+Carex_nigra|STA_104|FRA|spm00005159|Phacocystis;Carex nigra;82.4193548387097;31;0.0527677986939539;1.46170530778497
+Carex_laevigata||FRA|spm00004373|Spirostachyae;Carex laevigata;75.74;50;0.0327160351902514;0.90625729082668
+Carex_delicata||TZK|spm00003358|Chlorostachyae;Carex delicata;58;1;1.63580175951257;45.312864541334
+Carex_hallii|B1147|MAN|spm00001754|Racemosae;Carex hallii;54;1;1.63580175951257;45.312864541334
+Carex_parryana|B1027|ARK|spm00001634|Racemosae;Carex parryana;54;1;1.63580175951257;45.312864541334
+Carex_raynoldsii|B578|CAL|spm00001184|Racemosae;Carex raynoldsii;58;1;1.63580175951257;45.312864541334
+Carex_infuscata||AFG|spm00003364|Racemosae;Carex infuscata;54;1;1.63580175951257;45.312864541334
+Carex_bella|B1114|COL|spm00001721|Racemosae;Carex bella;40;1;1.63580175951257;45.312864541334
+Carex_melanocephala||ALT|spm00006156|Racemosae;Carex melanocephala;52;1;1.63580175951257;45.312864541334
+Carex_obscura_var._brachycarpa||CHT|spm00003376|Racemosae;Carex obscura var. brachycarpa;56;1;1.63580175951257;45.312864541334
+Carex_hartmanii||GER|spm00006155|Racemosae;Carex hartmanii;68;1;1.63580175951257;45.312864541334
+Carex_arnellii|3E4MMR13|SWE|spm00003783|Hymenochlaenae;Carex arnellii;40;1;1.63580175951257;45.312864541334
+Carex_radfordii|B835|SCA|spm00001438|Laxiflorae;Carex radfordii;46;1;1.63580175951257;45.312864541334
+Carex_styloflexa|B693|GEO|spm00001299|Laxiflorae;Carex styloflexa;48;1;1.63580175951257;45.312864541334
+Carex_crebriflora|B425||spm00001043|Laxiflorae;Carex crebriflora;42;1;1.63580175951257;45.312864541334
+Carex_garberi|B1017|ARK|spm00001624|Bicolores;Carex garberi;52;1;1.63580175951257;45.312864541334
+Carex_tetanica|B709|MAN|spm00001314|Paniceae;Carex tetanica;56;1;1.63580175951257;45.312864541334
+Carex_manhartii|B1154|GEO|spm00001761|Laxiflorae;Carex manhartii;28;1;1.63580175951257;45.312864541334
+Carex_olbiensis||SPA|spm00000586|Paniceae;Carex olbiensis;46;1;1.63580175951257;45.312864541334
+Carex_papulosa||KOR|spm00000016|Paniceae;Carex papulosa;44;1;1.63580175951257;45.312864541334
+Carex_laxa|B1036|ARK|spm00001643|Paniceae;Carex laxa;58;1;1.63580175951257;45.312864541334
+Carex_quadriflora||KOR|spm00000002|Clandestinae;Carex quadriflora;46;1;1.63580175951257;45.312864541334
+Carex_careyana|STA_179|ONT|spm00005142|Careyanae;Carex careyana;68;1;1.63580175951257;45.312864541334
+Carex_hitchcockiana||TEN|spm00005309|Griseae;Carex hitchcockiana;54;1;1.63580175951257;45.312864541334
+Carex_microdonta|B817|MSI|spm00001420|Granulares;Carex microdonta;64;1;1.63580175951257;45.312864541334
+Carex_abscondita|B057|MRY|spm00000676|Careyanae;Carex abscondita;48;1;1.63580175951257;45.312864541334
+Carex_nodaeana||CHM|spm00003470|Rhomboidales;Carex nodaeana;70;1;1.63580175951257;45.312864541334
+Carex_brevicollis||TCS|spm00003478|Depauperatae;Carex brevicollis;56;1;1.63580175951257;45.312864541334
+Carex_gifuensis|E0180|KOR?|spm00000331|Acrocystis;Carex gifuensis;42;1;1.63580175951257;45.312864541334
+Carex_tsushimensis|E0541|KOR?|spm00000353|Mitratae;Carex tsushimensis;32;1;1.63580175951257;45.312864541334
+Carex_depressa_subsp._basilaris||SPA|spm00000547|Mitratae;Carex depressa subsp. basilaris;66;1;1.63580175951257;45.312864541334
+Carex_depressa_subsp._transsilvanica||YUG|spm00000546|Mitratae;Carex depressa subsp. Transsilvanica;70;1;1.63580175951257;45.312864541334
+Carex_caudata||CAL|spm00000529|Aulocystis;Carex caudata;24;1;1.63580175951257;45.312864541334
+Carex_acaulis||CL?|spm00003107|Abditispicae;Carex acaulis;50;1;1.63580175951257;45.312864541334
+Carex_fimbriata||SWI|spm00000552|Aulocystis;Carex fimbriata;42;1;1.63580175951257;45.312864541334
+Carex_cruenta||EHM|spm00003357|Aulocystis;Carex cruenta;44;1;1.63580175951257;45.312864541334
+Carex_richardsonii|B613|MRY|spm00001220|Clandestinae;Carex richardsonii;52;1;1.63580175951257;45.312864541334
+Carex_tonsa||MAN|spm00005141|Acrocystis;Carex tonsa;32;1;1.63580175951257;45.312864541334
+Carex_umbellata|B771|DEL|spm00001376|Acrocystis;Carex umbellata;30;1;1.63580175951257;45.312864541334
+Carex_novae_angliae|B453|MAI|spm00001061|Acrocystis;Carex novae angliae;31;1;1.63580175951257;45.312864541334
+Carex_lucorum_var._lucorum|B1129|NCA|spm00001736|Acrocystis;Carex lucorum var. lucorum;40;1;1.63580175951257;45.312864541334
+Carex_albicans|STA_187|ARK|spm00005157|Acrocystis;Carex albicans;36;1;1.63580175951257;45.312864541334
+Carex_peckii|B1018|ARK|spm00001625|Acrocystis;Carex peckii;36;1;1.63580175951257;45.312864541334
+Carex_communis_var._amplisquama|B1315|GEO|spm00001922|Acrocystis;Carex communis var. amplisquama;28;1;1.63580175951257;45.312864541334
+Carex_albicans_var._emmonsii|B080|DEL|spm00000699|Acrocystis;Carex albicans var. emmonsii;40;1;1.63580175951257;45.312864541334
+Carex_rossii|B595|CAL|spm00001201|Acrocystis;Carex rossii;36;1;1.63580175951257;45.312864541334
+Carex_nigromarginata|B515|ARK|spm00001121|Acrocystis;Carex nigromarginata;34;1;1.63580175951257;45.312864541334
+Carex_inanis||CHT|spm00003363|Setigerae;Carex inanis;42;1;1.63580175951257;45.312864541334
+Carex_supina||NUN|spm00005536|Lamprochlaenae;Carex supina;38;1;1.63580175951257;45.312864541334
+Carex_rhizina_subsp._rhizina||FIN|spm00003597|Clandestinae;Carex rhizina subsp. rhizina;70;1;1.63580175951257;45.312864541334
+Carex_echinochloe||KEN|spm00000186|Indicae;Carex echinochloe;42;1;1.63580175951257;45.312864541334
+Carex_cruciata|C_cruciata_BHY||spm00003606|Indicae;Carex cruciata;42;1;1.63580175951257;45.312864541334
+Carex_eburnea|B224|MIC|spm00000842|Albae;Carex eburnea;54;1;1.63580175951257;45.312864541334
+Carex_bostrychostigma|4E4MMR13|JAP|spm00003784|Debiles;Carex bostrychostigma;46;1;1.63580175951257;45.312864541334
+Carex_nemurensis|||spm00006074|Glareosae;Carex nemurensis;52;1;1.63580175951257;45.312864541334
+Carex_brunnescens_subsp._sphaerostachya|||spm00005988|Glareosae;Carex brunnescens subsp. sphaerostachya;56;1;1.63580175951257;45.312864541334
+Carex_canescens_subsp._disjuncta|B895|NFL|spm00001496|Glareosae;Carex canescens subsp. disjuncta;54;1;1.63580175951257;45.312864541334
+Carex_arctiformis|B1244|BRC|spm00001851|Glareosae;Carex arctiformis;56;1;1.63580175951257;45.312864541334
+Carex_traiziscana|||spm00004625|Glareosae;Carex traiziscana;62;1;1.63580175951257;45.312864541334
+Carex_planata|STA_850|JAP|spm00005429|Remotae;Carex planata;66;1;1.63580175951257;45.312864541334
+Carex_rochebrunii|rochebrunii_363|CHC|spm00002621|Remotae;Carex rochebrunii;64;1;1.63580175951257;45.312864541334
+Carex_canariensis|canariensis_83917|SPA|spm00002291|Phaestoglochin;Carex canariensis;58;1;1.63580175951257;45.312864541334
+Carex_paniculata_subsp._lusitanica|pani.lusitanica_397785|SPA|spm00002563|Heleoglochin;Carex paniculata subsp. lusitanica;64;1;1.63580175951257;45.312864541334
+Carex_illota|||spm00006114|Glareosae;Carex illota;64;1;1.63580175951257;45.312864541334
+Carex_laeviculmis|||spm00006054|Glareosae;Carex laeviculmis;56;1;1.63580175951257;45.312864541334
+Carex_interior|B354|MIC|spm00000972|Stellulatae;Carex interior;54;1;1.63580175951257;45.312864541334
+Carex_exilis|STA_813|MAI|spm00005255|Stellulatae;Carex exilis;62;1;1.63580175951257;45.312864541334
+Carex_peucophila||COS|spm00000516|Ovales;Carex peucophila;74;1;1.63580175951257;45.312864541334
+Carex_leptopoda||ORE|spm00005276|Deweyanae;Carex leptopoda;54;1;1.63580175951257;45.312864541334
+Carex_infirminervia||CAL|spm00005270|Deweyanae;Carex infirminervia;46;1;1.63580175951257;45.312864541334
+Carex_tribuloides_var._sangamonensis|tri.sangamonensis_2941|MSI|spm00002714|Ovales;Carex tribuloides var. sangamonensis;70;1;1.63580175951257;45.312864541334
+Carex_feta|B275|CAL|spm00000893|Ovales;Carex feta;66;1;1.63580175951257;45.312864541334
+Carex_suberecta|suberecta_4695|INI|spm00002688|Ovales;Carex suberecta;72;1;1.63580175951257;45.312864541334
+Carex_sychnocephala|sychnocephala_236|WIS|spm00002694|Ovales;Carex sychnocephala;64;1;1.63580175951257;45.312864541334
+Carex_harfordii|harfordii_1085|CAL|spm00002429|Ovales;Carex harfordii;80;1;1.63580175951257;45.312864541334
+Carex_davyi|davyi_24622|CAL|spm00002351|Ovales;Carex davyi;74;1;1.63580175951257;45.312864541334
+Carex_ebenea|ebenea_1057|COL|spm00002388|Ovales;Carex ebenea;84;1;1.63580175951257;45.312864541334
+Carex_abrupta|abrupta_3191|CAL|spm00002224|Ovales;Carex abrupta;76;1;1.63580175951257;45.312864541334
+Carex_sparganioides|STA_869|MRY|spm00005417|Phaestoglochin;Carex sparganioides;48;1;1.63580175951257;45.312864541334
+Carex_pansa|B1357|CAL|spm00001964|Divisae;Carex pansa;58;1;1.63580175951257;45.312864541334
+Carex_praegracilis|praegracilis_Reznicek|MIC|spm00002592|Divisae;Carex praegracilis;60;1;1.63580175951257;45.312864541334
+Carex_prairea|B1344|BRC|spm00001951|Heleoglochin;Carex prairea;66;1;1.63580175951257;45.312864541334
+Carex_crus_corvi|STA_797|MSI|spm00005257|Vulpinae;Carex crus corvi;52;1;1.63580175951257;45.312864541334
+Carex_radiata|B592|MIC|spm00001198|Phaestoglochin;Carex radiata;58;1;1.63580175951257;45.312864541334
+Carex_appalachica|appalachica_346||spm00002242|Phaestoglochin;Carex appalachica;52;1;1.63580175951257;45.312864541334
+Carex_socialis|B682|ALA|spm00001288|Phaestoglochin;Carex socialis;58;1;1.63580175951257;45.312864541334
+Carex_retroflexa|B584|DEL|spm00001190|Phaestoglochin;Carex retroflexa;40;1;1.63580175951257;45.312864541334
+Carex_neurocarpa|STA_840|JAP|spm00005426|Phleoideae;Carex neurocarpa;108;1;1.63580175951257;45.312864541334
+Carex_hookeriana|STA_819|MAN|spm00005409|Phaestoglochin;Carex hookeriana;58;1;1.63580175951257;45.312864541334
+Carex_sartwellii|B1375|BRC|spm00001982|Holarrhenae;Carex sartwellii;62;1;1.63580175951257;45.312864541334
+Carex_disticha_subsp._lithophila|G0008|KOR?|spm00000328|Holarrhenae;Carex disticha subsp. lithophila;62;1;1.63580175951257;45.312864541334
+Carex_curaica|curaica_55|KRA?|spm00002337|Holarrhenae;Carex curaica;64;1;1.63580175951257;45.312864541334
+Carex_pseudofoetida_subsp._afghanica||AFG|spm00003381|Foetidae;Carex pseudofoetida subsp. afghanica;62;1;1.63580175951257;45.312864541334
+Carex_siccata|siccata_2314|NWM|spm00002639|Ammoglochin;Carex siccata;70;1;1.63580175951257;45.312864541334
+Carex_potens|||spm00004430|Uncinia;Carex potens;88;1;1.63580175951257;45.312864541334
+Carex_erythrovaginata|STA_55|NZ?|spm00005096|Uncinia;Carex erythrovaginata;88;1;1.63580175951257;45.312864541334
+Carex_cyanea|STA_56|NZ?|spm00005097|Uncinia;Carex cyanea;88;1;1.63580175951257;45.312864541334
+Carex_healyi|STA_137|NZN|spm00005107|Uncinia;Carex healyi;88;1;1.63580175951257;45.312864541334
+Carex_umbricola|STA_3||spm00005220|Uncinia;Carex umbricola;88;1;1.63580175951257;45.312864541334
+Carex_imbecilla|||spm00004419|Uncinia;Carex imbecilla;88;1;1.63580175951257;45.312864541334
+Carex_banksiana|STA_76|NZ?|spm00005086|Uncinia;Carex banksiana;88;1;1.63580175951257;45.312864541334
+Carex_minor|||spm00004412|Uncinia;Carex minor;88;1;1.63580175951257;45.312864541334
+Carex_egmontiana|||spm00004416|Uncinia;Carex egmontiana;88;1;1.63580175951257;45.312864541334
+Carex_subviridis|||spm00004429|Uncinia;Carex subviridis;88;1;1.63580175951257;45.312864541334
+Carex_silvestris|||spm00004421|Uncinia;Carex silvestris;88;1;1.63580175951257;45.312864541334
+Carex_purpurata|||spm00004431|Uncinia;Carex purpurata;88;1;1.63580175951257;45.312864541334
+Carex_punicea|STA_72|NZS|spm00005105|Uncinia;Carex punicea;88;1;1.63580175951257;45.312864541334
+Carex_strictissima||NZS|spm00004413|Uncinia;Carex strictissima;88;1;1.63580175951257;45.312864541334
+Carex_horizontalis|STA_73|NZS|spm00005106|Uncinia;Carex horizontalis;88;1;1.63580175951257;45.312864541334
+Carex_aucklandica|||spm00004410|Uncinia;Carex aucklandica;88;1;1.63580175951257;45.312864541334
+Carex_zotovii|||spm00004411|Uncinia;Carex zotovii;88;1;1.63580175951257;45.312864541334
+Carex_astricta|||spm00004420|Uncinia;Carex astricta;88;1;1.63580175951257;45.312864541334
+Carex_obtusifolia|||spm00004428|Uncinia;Carex obtusifolia;88;1;1.63580175951257;45.312864541334
+Carex_erebus|||spm00004424|Uncinia;Carex erebus;88;1;1.63580175951257;45.312864541334
+Carex_corynoidea|STA_139|NZ?|spm00005087|Uncinia;Carex corynoidea;88;1;1.63580175951257;45.312864541334
+Carex_megalepis|STA_69|NZ?|spm00005089|Uncinia;Carex megalepis;88;1;1.63580175951257;45.312864541334
+Carex_perplexa|||spm00004409|Uncinia;Carex perplexa;132;1;1.63580175951257;45.312864541334
+Carex_uncinata||NZN|spm00005112|Uncinia;Carex uncinata;88;1;1.63580175951257;45.312864541334
+Carex_edura||NZS|spm00002184|Uncinia;Carex edura;88;1;1.63580175951257;45.312864541334
+Carex_crispa|||spm00004422|Uncinia;Carex crispa;88;1;1.63580175951257;45.312864541334
+Carex_drucei|||spm00004418|Uncinia;Carex drucei;88;1;1.63580175951257;45.312864541334
+Carex_longifructus|||spm00004426|Uncinia;Carex longifructus;88;1;1.63580175951257;45.312864541334
+Carex_austrocompacta|STA_4|TAS|spm00005217|Uncinia;Carex austrocompacta;88;1;1.63580175951257;45.312864541334
+Carex_phleoides||CLC|spm00005103|Uncinia;Carex phleoides;96;1;1.63580175951257;45.312864541334
+Carex_subtilis|||spm00004415|Uncinia;Carex subtilis;94;1;1.63580175951257;45.312864541334
+Carex_backii||MAN|spm00005331|Phyllostachyae;Carex backii;66;1;1.63580175951257;45.312864541334
+Carex_saximontana||MAN|spm00005347|Phyllostachyae;Carex saximontana;64;1;1.63580175951257;45.312864541334
+Carex_latebracteata||ARK|spm00005345|Phyllostachyae;Carex latebracteata;98;1;1.63580175951257;45.312864541334
+Carex_nigricans|STA_52|BRC|spm00005166|Dornera;Carex nigricans;72;1;1.63580175951257;45.312864541334
+Carex_filifolia||MAN|spm00005150|Filifoliae;Carex filifolia;50;1;1.63580175951257;45.312864541334
+Carex_runssoroensis||KEN|spm00000225|Capituligerae;Carex runssoroensis;50;1;1.63580175951257;45.312864541334
+Carex_bonatiana|K_fragilis_LJQ||spm00003643|Kobresia;Carex bonatiana;50;1;1.63580175951257;45.312864541334
+Carex_alatauensis|K_royleara_LJQ||spm00003642|Kobresia;Carex alatauensis;80;1;1.63580175951257;45.312864541334
+Carex_macroprophylla|K_filifolia_ZSL||spm00003649|Kobresia;Carex macroprophylla;60;1;1.63580175951257;45.312864541334
+Carex_curvula|STA_100|FRA|spm00005184|Curvulae;Carex curvula;86;1;1.63580175951257;45.312864541334
+Carex_parvula|K_pygmaea_ZSR_K||spm00003646|Kobresia;Carex parvula;64;1;1.63580175951257;45.312864541334
+Carex_deasyi|K_schoenoides_LJQ||spm00003634|Kobresia;Carex deasyi;32;1;1.63580175951257;45.312864541334
+Carex_cercostachys|K_cercostachys_ZSR_K||spm00003624|Kobresia;Carex cercostachys;64;1;1.63580175951257;45.312864541334
+Carex_esenbeckii|STA_5|EHM|spm00005193|Kobresia;Carex esenbeckii;66;1;1.63580175951257;45.312864541334
+Carex_uhligii|||spm00003185|Schoenoxiphium;Carex uhligii;26;1;1.63580175951257;45.312864541334
+Carex_capensis|||spm00003262|Schoenoxiphium;Carex capensis;36;1;1.63580175951257;45.312864541334
+Carex_lancea|||spm00003258|Schoenoxiphium;Carex lancea;88;1;1.63580175951257;45.312864541334
+Carex_schweickerdtii||NAT|spm00000160|Schoenoxiphium;Carex schweickerdtii;60;1;1.63580175951257;45.312864541334
+Carex_pseudorufa|||spm00003250|Schoenoxiphium;Carex pseudorufa;64;1;1.63580175951257;45.312864541334
+Carex_ludwigii||NAT|spm00000158|Schoenoxiphium;Carex ludwigii;34;1;1.63580175951257;45.312864541334
+Carex_lingii|C_lingii_BHY||spm00003612|Hemiscaposae;Carex lingii;12;1;1.63580175951257;45.312864541334
+Carex_scaposa|C_scaposa_BHY||spm00003611|Hemiscaposae;Carex scaposa;24;1;1.63580175951257;45.312864541334
+Carex_caucasica||IRN|spm00003593|Racemosae;Carex caucasica;53;2;0.817900879756286;22.656432270667
+Carex_melanantha||KAZ|spm00003368|Racemosae;Carex melanantha;50;2;0.817900879756286;22.656432270667
+Carex_aterrima_subsp._medwedewii||TCS|spm00003468|Racemosae;Carex aterrima subsp. medwedewii;39;2;0.817900879756286;22.656432270667
+Carex_albonigra|B1014|ARK|spm00001621|Racemosae;Carex albonigra;53;2;0.817900879756286;22.656432270667
+Carex_sprengelii|B1159|NBR|spm00001766|Hymenochlaenae;Carex sprengelii;42;2;0.817900879756286;22.656432270667
+Carex_laxiflora|B405|MIC|spm00001023|Laxiflorae;Carex laxiflora;46;2;0.817900879756286;22.656432270667
+Carex_striatula|B658|DEL|spm00001264|Laxiflorae;Carex striatula;38;2;0.817900879756286;22.656432270667
+Carex_leptonervia|B790|MAN|spm00001394|Laxiflorae;Carex leptonervia;37;2;0.817900879756286;22.656432270667
+Carex_albursina|B780|KTY|spm00001384|Laxiflorae;Carex albursina;44;2;0.817900879756286;22.656432270667
+Carex_meadii|B1135|MAN|spm00001742|Paniceae;Carex meadii;56;2;0.817900879756286;22.656432270667
+Carex_assiniboinensis|B104|MAN|spm00000722|Hymenochlaenae;Carex assiniboinensis;32;2;0.817900879756286;22.656432270667
+Carex_pallidula||FIN|spm00003595|Clandestinae;Carex pallidula;52.5;2;0.817900879756286;22.656432270667
+Carex_platyphylla|B546|MRY|spm00001152|Careyanae;Carex platyphylla;70;2;0.817900879756286;22.656432270667
+Carex_plantaginea|STA_178|MAN|spm00005143|Careyanae;Carex plantaginea;51;2;0.817900879756286;22.656432270667
+Carex_gholsonii|B335|ALA|spm00000953|Granulares;Carex gholsonii;36;2;0.817900879756286;22.656432270667
+Carex_cumberlandensis|B199|ARK|spm00000817|Careyanae;Carex cumberlandensis;46;2;0.817900879756286;22.656432270667
+Carex_depressa_subsp._depressa||SPA|spm00000550|Mitratae;Carex depressa subsp. depressa;65;2;0.817900879756286;22.656432270667
+Carex_umbrosa_subsp._huetiana||TCS|spm00003480|Mitratae;Carex umbrosa subsp. huetiana;66.5;2;0.817900879756286;22.656432270667
+Carex_grioletii||SPA|spm00000585|Acrocystis;Carex grioletii;48;2;0.817900879756286;22.656432270667
+Carex_macrolepis||ITA|spm00000536|Aulocystis;Carex macrolepis;36.5;2;0.817900879756286;22.656432270667
+Carex_tristis||IRN|spm00000599|Aulocystis;Carex tristis;56;2;0.817900879756286;22.656432270667
+Carex_petricosa_var._misandroides|B1388|QUE|spm00001995|Aulocystis;Carex petricosa var. misandroides;40;2;0.817900879756286;22.656432270667
+Carex_riloensis||BUL|spm00003599|Acrocystis;Carex riloensis;26;2;0.817900879756286;22.656432270667
+Carex_pediformis_subsp._macroura||CHM|spm00003483|Clandestinae;Carex pediformis subsp. macroura;60;2;0.817900879756286;22.656432270667
+Carex_bonanzensis|||spm00005964|Glareosae;Carex bonanzensis;55;2;0.817900879756286;22.656432270667
+Carex_atlantica||PEN|spm00005432|Stellulatae;Carex atlantica;49;2;0.817900879756286;22.656432270667
+Carex_appropinquata|appropinquata_3358|GER|spm00002248|Heleoglochin;Carex appropinquata;64;2;0.817900879756286;22.656432270667
+Carex_tincta|B737|MAI|spm00001342|Ovales;Carex tincta;75;2;0.817900879756286;22.656432270667
+Carex_oronensis|oronensis_10931|MAI|spm00002548|Ovales;Carex oronensis;74;2;0.817900879756286;22.656432270667
+Carex_silicea|B625|DEL|spm00001232|Ovales;Carex silicea;75;2;0.817900879756286;22.656432270667
+Carex_muskingumensis|muskingumensis_3153|ILL|spm00002528|Ovales;Carex muskingumensis;80;2;0.817900879756286;22.656432270667
+Carex_hyalina|hyalina_2947|MSI|spm00002442|Ovales;Carex hyalina;74;2;0.817900879756286;22.656432270667
+Carex_cristatella|STA_796|MIC|spm00005251|Ovales;Carex cristatella;70;2;0.817900879756286;22.656432270667
+Carex_athrostachya|B109|CAL|spm00000727|Ovales;Carex athrostachya;72;2;0.817900879756286;22.656432270667
+Carex_xerantica|xerantica_99019|ONT|spm00002748|Ovales;Carex xerantica;68;2;0.817900879756286;22.656432270667
+Carex_adusta|adusta_2009|MAI|spm00002226|Ovales;Carex adusta;71;2;0.817900879756286;22.656432270667
+Carex_phaeocephala|B587|NEV|spm00001193|Ovales;Carex phaeocephala;84;2;0.817900879756286;22.656432270667
+Carex_haydeniana|haydeniana_140.2|UTA|spm00002432|Ovales;Carex haydeniana;82;2;0.817900879756286;22.656432270667
+Carex_multicostata|B487|CAL|spm00001093|Ovales;Carex multicostata;70;2;0.817900879756286;22.656432270667
+Carex_subfusca|subfusca_3192|CAL|spm00002691|Ovales;Carex subfusca;84;2;0.817900879756286;22.656432270667
+Carex_maackii|maackii_8031|JAP|spm00002491|Ovales;Carex maackii;67;2;0.817900879756286;22.656432270667
+Carex_annectens|STA_776|DEL|spm00005398|Multiflorae;Carex annectens;51;2;0.817900879756286;22.656432270667
+Carex_alopecoidea|STA_775|MAN|spm00005438|Vulpinae;Carex alopecoidea;59;2;0.817900879756286;22.656432270667
+Carex_conjuncta|B166|DEL|spm00000784|Vulpinae;Carex conjuncta;47.5;2;0.817900879756286;22.656432270667
+Carex_cephaloidea|cephaloidea_3116|ILL|spm00002303|Phaestoglochin;Carex cephaloidea;51;2;0.817900879756286;22.656432270667
+Carex_leavenworthii|B407|ALA|spm00001025|Phaestoglochin;Carex leavenworthii;48;2;0.817900879756286;22.656432270667
+Carex_cephalophora|B210|MRY|spm00000828|Phaestoglochin;Carex cephalophora;49;2;0.817900879756286;22.656432270667
+Carex_muehlenbergii|STA_838|KTY|spm00005412|Phaestoglochin;Carex muehlenbergii;46;2;0.817900879756286;22.656432270667
+Carex_conferta|STA_794|ZIM|spm00005256|Stenorhynchae;Carex conferta;52;2;0.817900879756286;22.656432270667
+Carex_macrocephala|STA_834|BRC|spm00005249|Macrocephalae;Carex macrocephala;76;2;0.817900879756286;22.656432270667
+Carex_kobomugi|STA_826||spm00005248|Macrocephalae;Carex kobomugi;86;2;0.817900879756286;22.656432270667
+Carex_albata|STA_773|JAP|spm00005254|Phleoideae;Carex albata;110;2;0.817900879756286;22.656432270667
+Carex_parvispica|||spm00004427|Uncinia;Carex parvispica;95;2;0.817900879756286;22.656432270667
+Carex_jamesii||MRY|spm00005340|Phyllostachyae;Carex jamesii;68;2;0.817900879756286;22.656432270667
+Carex_pyrenaica|STA_86|NZS|spm00005209|Dornera;Carex pyrenaica;70;2;0.817900879756286;22.656432270667
+Carex_micropoda|B991|WAS|spm00001598|Dornera;Carex micropoda;66;2;0.817900879756286;22.656432270667
+Carex_anthoxanthea|B961|WAS|spm00001568|Circinatae;Carex anthoxanthea;55;2;0.817900879756286;22.656432270667
+Carex_peregrina||MDR|spm00003283|Psyllophora;Carex peregrina;62;2;0.817900879756286;22.656432270667
+Carex_oedipostyla||SPA|spm00003161|Gynobasidae;Carex oedipostyla;66;2;0.817900879756286;22.656432270667
+Carex_schimperiana|||spm00003249|Schoenoxiphium;Carex schimperiana;30;2;0.817900879756286;22.656432270667
+Carex_grandiligulata||CHS|spm00000056|Siderostictae;Carex grandiligulata;18;2;0.817900879756286;22.656432270667
+Carex_media|B1165|NBR|spm00001772|Racemosae;Carex media;56;3;0.545267253170857;15.1042881804447
+Carex_aurea|B149||spm00000767|Bicolores;Carex aurea;52;3;0.545267253170857;15.1042881804447
+Carex_woodii|woodii_3203|ILL|spm00002744|Paniceae;Carex woodii;46.6666666666667;3;0.545267253170857;15.1042881804447
+Carex_purpurifera|B867|KTY|spm00001470|Laxiflorae;Carex purpurifera;36;3;0.545267253170857;15.1042881804447
+Carex_ornithopoda||YUG|spm00000560|Clandestinae;Carex ornithopoda;53.3333333333333;3;0.545267253170857;15.1042881804447
+Carex_austrocaroliniana|B1122|NCA|spm00001729|Careyanae;Carex austrocaroliniana;58;3;0.545267253170857;15.1042881804447
+Carex_crawei|B868|NFL|spm00001471|Granulares;Carex crawei;52.3333333333333;3;0.545267253170857;15.1042881804447
+Carex_laxiculmis_var._laxiculmis|B800|PEN|spm00001403|Careyanae;Carex laxiculmis var. laxiculmis;46.6666666666667;3;0.545267253170857;15.1042881804447
+Carex_hispida||KRI|spm00000549|Thuringiaca;Carex hispida;39.3333333333333;3;0.545267253170857;15.1042881804447
+Carex_asturica||SPA|spm00004385|Paniceae;Carex asturica;46;3;0.545267253170857;15.1042881804447
+Carex_sempervirens_subsp._sempervirens||SWI|spm00000540|Aulocystis;Carex sempervirens subsp. sempervirens;32;3;0.545267253170857;15.1042881804447
+Carex_mucronata||ITA|spm00000534|Aulocystis;Carex mucronata;35.3333333333333;3;0.545267253170857;15.1042881804447
+Carex_pensylvanica|B565|MAN|spm00001171|Acrocystis;Carex pensylvanica;36;3;0.545267253170857;15.1042881804447
+Carex_tricolor||BUL|spm00003600|Acrocystis;Carex tricolor;61.6666666666667;3;0.545267253170857;15.1042881804447
+Carex_humilis_var._nana|D0261|KOR?|spm00000335|Clandestinae;Carex humilis var. nana;48.6666666666667;3;0.545267253170857;15.1042881804447
+Carex_tristachya_var._pocilliformis|D0006|KOR?|spm00000352|Mitratae;Carex tristachya var. pocilliformis;39;3;0.545267253170857;15.1042881804447
+Carex_loliacea|||spm00006060|Glareosae;Carex loliacea;54;3;0.545267253170857;15.1042881804447
+Carex_furva|||spm00006015|Glareosae;Carex furva;60.3333333333333;3;0.545267253170857;15.1042881804447
+Carex_pseudobrizoides||POL|spm00002177|Ammoglochin;Carex pseudobrizoides;57.3333333333333;3;0.545267253170857;15.1042881804447
+Carex_colchica||UKR|spm00002173|Ammoglochin;Carex colchica;58;3;0.545267253170857;15.1042881804447
+Carex_duriuscula||ABT|spm00005155|Divisae;Carex duriuscula;57.3333333333333;3;0.545267253170857;15.1042881804447
+Carex_pseudocuraica|pseudocuraica_668|CH?|spm00002605|Chordorrhizae;Carex pseudocuraica;33;3;0.545267253170857;15.1042881804447
+Carex_seorsa|seorsa_4700|INI|spm00002636|Stellulatae;Carex seorsa;48;3;0.545267253170857;15.1042881804447
+Carex_appressa|appressa_1618||spm00002244|Heleoglochin;Carex appressa;61;3;0.545267253170857;15.1042881804447
+Carex_festucacea|B274|TEX|spm00000892|Ovales;Carex festucacea;69.6666666666667;3;0.545267253170857;15.1042881804447
+Carex_merritt_fernaldii|merrittfernaldii_3172|WIS|spm00002503|Ovales;Carex merritt fernaldii;72;3;0.545267253170857;15.1042881804447
+Carex_reniformis|reniformis_Bryson|MSI|spm00002616|Ovales;Carex reniformis;80;3;0.545267253170857;15.1042881804447
+Carex_shinnersii|shinnersii_4882D|TEX|spm00002638|Ovales;Carex shinnersii;60.3333333333333;3;0.545267253170857;15.1042881804447
+Carex_hormathodes|hormathodes_10929|MAI|spm00002439|Ovales;Carex hormathodes;74;3;0.545267253170857;15.1042881804447
+Carex_ozarkana|B517|ARK|spm00001123|Ovales;Carex ozarkana;59;3;0.545267253170857;15.1042881804447
+Carex_argyrantha|argyrantha_Reznicek|MAI|spm00002257|Ovales;Carex argyrantha;74.6666666666667;3;0.545267253170857;15.1042881804447
+Carex_trachycarpa|trachycarpa_3523||spm00002713|Inversae;Carex trachycarpa;67;3;0.545267253170857;15.1042881804447
+Carex_kirkii|||spm00004417|Inversae;Carex kirkii;69;3;0.545267253170857;15.1042881804447
+Carex_resectans|resectans_1644|NZN|spm00002618|Inversae;Carex resectans;59;3;0.545267253170857;15.1042881804447
+Carex_vulpinoidea|STA_883|KTY|spm00005250|Multiflorae;Carex vulpinoidea;52;3;0.545267253170857;15.1042881804447
+Carex_gravida|gravida_3139|WIS|spm00002425|Phaestoglochin;Carex gravida;51.3333333333333;3;0.545267253170857;15.1042881804447
+Carex_decomposita|STA_799|DEL|spm00005246|Heleoglochin;Carex decomposita;64;3;0.545267253170857;15.1042881804447
+Carex_nubigena|nubigena_155|CHC|spm00002539|Phleoideae;Carex nubigena;103.333333333333;3;0.545267253170857;15.1042881804447
+Carex_physodes||AFG|spm00004434|Physodeae;Carex physodes;36.6666666666667;3;0.545267253170857;15.1042881804447
+Carex_gibba|STA_816|CHH|spm00005244|Gibbae;Carex gibba;34.6666666666667;3;0.545267253170857;15.1042881804447
+Carex_willdenowii||PEN|spm00005130|Phyllostachyae;Carex willdenowii;72.6666666666667;3;0.545267253170857;15.1042881804447
+Carex_obtusata|B501|MAN|spm00001107|Obtusatae;Carex obtusata;52;3;0.545267253170857;15.1042881804447
+Carex_baldensis||ITA|spm00003191|Baldenses;Carex baldensis;89.3333333333333;3;0.545267253170857;15.1042881804447
+Carex_neesii|STA_6|EHM|spm00005194|Kobresia;Carex neesii;116;3;0.545267253170857;15.1042881804447
+Carex_pulicaris||GRB|spm00005180|Psyllophora;Carex pulicaris;59.3333333333333;3;0.545267253170857;15.1042881804447
+Carex_killickii||OFS|spm00000153|Schoenoxiphium;Carex killickii;71.6666666666667;3;0.545267253170857;15.1042881804447
+Carex_pachygyna|pachygyna_1828|JAP|spm00002558|Siderostictae;Carex pachygyna;12;3;0.545267253170857;15.1042881804447
+Carex_atratiformis|B1144|ABT|spm00001751|Racemosae;Carex atratiformis;54;4;0.408950439878143;11.3282161353335
+Carex_buxbaumii|B147|ASK|spm00000765|Racemosae;Carex buxbaumii;96.25;4;0.408950439878143;11.3282161353335
+Carex_laxiflora_var._gracillima|grascilescens_3207|ILL|spm00002424|Laxiflorae;Carex laxiflora var. gracillima;37.75;4;0.408950439878143;11.3282161353335
+Carex_filipes||CHM|spm00003462|Paniceae;Carex filipes;42.5;4;0.408950439878143;11.3282161353335
+Carex_pisiformis_var._sikokiana|E0491|KOR?|spm00000349|Mitratae;Carex pisiformis var. sikokiana;69.5;4;0.408950439878143;11.3282161353335
+Carex_breviculmis_var._fibrillosa|D0003|KOR?|spm00000326|Mitratae;Carex breviculmis var. fibrillosa;68;4;0.408950439878143;11.3282161353335
+Carex_nervata||KOR|spm00000010|Mitratae;Carex nervata;73.75;4;0.408950439878143;11.3282161353335
+Carex_mitrata||CHS|spm00000085|Mitratae;Carex mitrata;68.5;4;0.408950439878143;11.3282161353335
+Carex_flacca_subsp._erythrostachys||BAL|spm00000524|Thuringiaca;Carex flacca subsp. erythrostachys;90;4;0.408950439878143;11.3282161353335
+Carex_austroalpina||SPA|spm00000535|Aulocystis;Carex austroalpina;39.5;4;0.408950439878143;11.3282161353335
+Carex_stenocarpa||CHC|spm00003385|Aulocystis;Carex stenocarpa;39.75;4;0.408950439878143;11.3282161353335
+Carex_inops_subsp._inops|B1394|BRC|spm00002001|Acrocystis;Carex inops subsp. inops;37;4;0.408950439878143;11.3282161353335
+Carex_baccans|C_baccans_BHY||spm00003608|Polystachyae;Carex baccans;55;4;0.408950439878143;11.3282161353335
+Carex_fritschii||HUN|spm00002174|Acrocystis;Carex fritschii;30;4;0.408950439878143;11.3282161353335
+Carex_liparocarpos||SPA|spm00000556|Lamprochlaenae;Carex liparocarpos;38.5;4;0.408950439878143;11.3282161353335
+Carex_pediformis||CHC|spm00003390|Clandestinae;Carex pediformis;70;4;0.408950439878143;11.3282161353335
+Carex_durieui||SPA|spm00004386|Unplaced_coreCarex;Carex durieui;52.25;4;0.408950439878143;11.3282161353335
+Carex_alba||SPA|spm00000584|Albae;Carex alba;54;4;0.408950439878143;11.3282161353335
+Carex_brunnea||REU|spm00000577|Graciles;Carex brunnea;61;4;0.408950439878143;11.3282161353335
+Carex_trisperma|STA_878|PEN|spm00005388|Glareosae;Carex trisperma;60;4;0.408950439878143;11.3282161353335
+Carex_praecox||HUN|spm00002176|Ammoglochin;Carex praecox;58;4;0.408950439878143;11.3282161353335
+Carex_brizoides|brizoides_Ariello|ITA|spm00002282|Ammoglochin;Carex brizoides;58;4;0.408950439878143;11.3282161353335
+Carex_stipata|stipata_3122|ILL|spm00002679|Vulpinae;Carex stipata;51;4;0.408950439878143;11.3282161353335
+Carex_cumulata|cumulata_4737|INI|spm00002336|Ovales;Carex cumulata;57.5;4;0.408950439878143;11.3282161353335
+Carex_vexans|vexans_2376|FLA|spm00002732|Ovales;Carex vexans;69.25;4;0.408950439878143;11.3282161353335
+Carex_alata|B068|ALA|spm00000687|Ovales;Carex alata;74;4;0.408950439878143;11.3282161353335
+Carex_albolutescens|B075|OKL|spm00000694|Ovales;Carex albolutescens;65;4;0.408950439878143;11.3282161353335
+Carex_scoparia_var._tessellata|sco.tessellata_D|MAI|spm00002632|Ovales;Carex scoparia var. tessellata;68;4;0.408950439878143;11.3282161353335
+Carex_straminea|B645|DEL|spm00001252|Ovales;Carex straminea;74;4;0.408950439878143;11.3282161353335
+Carex_preslii|preslii_7874|MNT|spm00002598|Ovales;Carex preslii;79.5;4;0.408950439878143;11.3282161353335
+Carex_foenea|B1393|BRC|spm00002000|Ovales;Carex foenea;82.5;4;0.408950439878143;11.3282161353335
+Carex_integra|integra_20743|CAL|spm00002449|Ovales;Carex integra;82;4;0.408950439878143;11.3282161353335
+Carex_aggregata|B066|KTY|spm00000685|Phaestoglochin;Carex aggregata;52;4;0.408950439878143;11.3282161353335
+Carex_hoodii|hoodii_3194|CAL|spm00002436|Phaestoglochin;Carex hoodii;59.5;4;0.408950439878143;11.3282161353335
+Carex_pachystylis||UZB|spm00003472|Physodeae;Carex pachystylis;45.5;4;0.408950439878143;11.3282161353335
+Carex_parviflora||SWI|spm00000544|Racemosae;Carex parviflora;54;5;0.327160351902514;9.0625729082668
+Carex_gmelinii|B1022|ARK|spm00001629|Racemosae;Carex gmelinii;58.4;5;0.327160351902514;9.0625729082668
+Carex_depauperata||YUG|spm00000574|Depauperatae;Carex depauperata;50;5;0.327160351902514;9.0625729082668
+Carex_kitaibeliana||YUG|spm00000539|Aulocystis;Carex kitaibeliana;36.8;5;0.327160351902514;9.0625729082668
+Carex_mackenziei|||spm00006064|Glareosae;Carex mackenziei;66.4;5;0.327160351902514;9.0625729082668
+Carex_heleonastes|||spm00006033|Glareosae;Carex heleonastes;57.6;5;0.327160351902514;9.0625729082668
+Carex_stenophylla||TCS|spm00003603|Divisae;Carex stenophylla;60.4;5;0.327160351902514;9.0625729082668
+Carex_divulsa|divulsa_IS797B||spm00002383|Phaestoglochin;Carex divulsa;57.2;5;0.327160351902514;9.0625729082668
+Carex_deweyana|STA_800|ORE|spm00005369|Deweyanae;Carex deweyana;54.4;5;0.327160351902514;9.0625729082668
+Carex_echinodes|ten.echinodes_3158|WIS|spm00002699|Ovales;Carex echinodes;76.4;5;0.327160351902514;9.0625729082668
+Carex_opaca|opaca_10856|ILL|spm00002544|Ovales;Carex opaca;66.8;5;0.327160351902514;9.0625729082668
+Carex_tribuloides_var._tribuloides|B718|SCA|spm00001323|Ovales;Carex tribuloides var. tribuloides;70;5;0.327160351902514;9.0625729082668
+Carex_rosea|STA_860|KTY|spm00005415|Phaestoglochin;Carex rosea;53.6;5;0.327160351902514;9.0625729082668
+Carex_leiorhyncha|leiorhyncha_2001|KOR|spm00002471|Phleoideae;Carex leiorhyncha;78;5;0.327160351902514;9.0625729082668
+Carex_leptalea|B414|MIC|spm00001032|Leptocephalae;Carex leptalea;52;5;0.327160351902514;9.0625729082668
+Carex_borealipolaris|K_smirnovii_ZSL||spm00003659|Kobresia;Carex borealipolaris;58;5;0.327160351902514;9.0625729082668
+Carex_adelostoma|B1012|ARK|spm00001619|Racemosae;Carex adelostoma;106;6;0.272633626585429;7.55214409022233
+Carex_livida|B807|NWJ|spm00001410|Paniceae;Carex livida;38.3333333333333;6;0.272633626585429;7.55214409022233
+Carex_pilosa||YUG|spm00000563|Paniceae;Carex pilosa;43.3333333333333;6;0.272633626585429;7.55214409022233
+Carex_tomentosa||SPA|spm00000568|Acrocystis;Carex tomentosa;47.6666666666667;6;0.272633626585429;7.55214409022233
+Carex_ferruginea_subsp._ferruginea||SWI|spm00000531|Aulocystis;Carex ferruginea subsp. ferruginea;48.8333333333333;6;0.272633626585429;7.55214409022233
+Carex_supina_var._spaniocarpa|B1187|ARK|spm00001794|Lamprochlaenae;Carex supina var. spaniocarpa;43.6666666666667;6;0.272633626585429;7.55214409022233
+Carex_ursina|||spm00006105|Glareosae;Carex ursina;64;6;0.272633626585429;7.55214409022233
+Carex_lapponica|||spm00006056|Glareosae;Carex lapponica;56;6;0.272633626585429;7.55214409022233
+Carex_leersii||SPA|spm00004393|Phaestoglochin;Carex leersii;57;6;0.272633626585429;7.55214409022233
+Carex_laevivaginata|laevivaginata_3154|ILL|spm00002466|Vulpinae;Carex laevivaginata;49.3333333333333;6;0.272633626585429;7.55214409022233
+Carex_arcta|||spm00005958|Glareosae;Carex arcta;57.6666666666667;6;0.272633626585429;7.55214409022233
+Carex_disperma|STA_804|MRY|spm00005373|Dispermae;Carex disperma;70;6;0.272633626585429;7.55214409022233
+Carex_bicknellii|bicknellii_549|WIS|spm00002271|Ovales;Carex bicknellii;76;6;0.272633626585429;7.55214409022233
+Carex_tetrastachya|B663|TEX|spm00001269|Ovales;Carex tetrastachya;64.8333333333333;6;0.272633626585429;7.55214409022233
+Carex_projecta|B570|MAN|spm00001176|Ovales;Carex projecta;64;6;0.272633626585429;7.55214409022233
+Carex_gracilior|B1085|CAL|spm00001692|Ovales;Carex gracilior;82.3333333333333;6;0.272633626585429;7.55214409022233
+Carex_nardina||NUN|spm00005514|Nardinae;Carex nardina;68.6666666666667;6;0.272633626585429;7.55214409022233
+Carex_microglochin|||spm00005211|Leucoglochin;Carex microglochin;53.3333333333333;6;0.272633626585429;7.55214409022233
+Carex_spartea||ETH|spm00000162|Schoenoxiphium;Carex spartea;30.8333333333333;6;0.272633626585429;7.55214409022233
+Carex_williamsii|B1362|YUK|spm00001969|Chlorostachyae;Carex williamsii;34;7;0.233685965644653;6.47326636304772
+Carex_firma||ITA|spm00000520|Aulocystis;Carex firma;38.8571428571429;7;0.233685965644653;6.47326636304772
+Carex_tristachya||CHS|spm00000132|Mitratae;Carex tristachya;47.1428571428571;7;0.233685965644653;6.47326636304772
+Carex_ussuriensis||CHS|spm00000533|Albae;Carex ussuriensis;21;7;0.233685965644653;6.47326636304772
+Carex_marina||NUN|spm00005494|Glareosae;Carex marina;61.7142857142857;7;0.233685965644653;6.47326636304772
+Carex_paniculata|||spm00006108|Heleoglochin;Carex paniculata;60.8571428571429;7;0.233685965644653;6.47326636304772
+Carex_divisa||MAN|spm00005374|Divisae;Carex divisa;59.7142857142857;7;0.233685965644653;6.47326636304772
+Carex_chordorrhiza|STA_792|MIC|spm00005364|Chordorrhizae;Carex chordorrhiza;64;7;0.233685965644653;6.47326636304772
+Carex_foetida||SWI|spm00000565|Foetidae;Carex foetida;46.5714285714286;7;0.233685965644653;6.47326636304772
+Carex_bromoides||MRY|spm00005263|Deweyanae;Carex bromoides;64.5714285714286;7;0.233685965644653;6.47326636304772
+Carex_normalis|normalis_3111|ILL|spm00002537|Ovales;Carex normalis;69;7;0.233685965644653;6.47326636304772
+Carex_molestiformis|B466|ARK|spm00001073|Ovales;Carex molestiformis;71.7142857142857;7;0.233685965644653;6.47326636304772
+Carex_bebbii|bebbii_3132|WIS|spm00002266|Ovales;Carex bebbii;68.5714285714286;7;0.233685965644653;6.47326636304772
+Carex_longii|longii_11237|MSX|spm00002485|Ovales;Carex longii;60.5714285714286;7;0.233685965644653;6.47326636304772
+Carex_blanda|B1212|TEN|spm00001819|Laxiflorae;Carex blanda;35.25;8;0.204475219939071;5.66410806766675
+Carex_melanocarpa||KHA|spm00003594|Acrocystis;Carex melanocarpa;23.25;8;0.204475219939071;5.66410806766675
+Carex_deflexa_var._deflexa|B1519|BRC|spm00002125|Acrocystis;Carex deflexa var. deflexa;25.75;8;0.204475219939071;5.66410806766675
+Carex_filicina|STA_632|TAI|spm00005187|Indicae;Carex filicina;41.25;8;0.204475219939071;5.66410806766675
+Carex_gynocrates|gynocrates_3169|WIS|spm00002428|Physoglochin;Carex gynocrates;51.25;8;0.204475219939071;5.66410806766675
+Carex_parallela||FIN|spm00003596|Physoglochin;Carex parallela;40.875;8;0.204475219939071;5.66410806766675
+Carex_davalliana|davaliana_2416|AUT|spm00002350|Physoglochin;Carex davalliana;46;8;0.204475219939071;5.66410806766675
+Carex_elongata|||spm00005951|Elongatae;Carex elongata;63.625;8;0.204475219939071;5.66410806766675
+Carex_siderosticta|siderosticta_1837|JAP|spm00002643|Siderostictae;Carex siderosticta;19.5;8;0.204475219939071;5.66410806766675
+Carex_granularis|B804|MAN|spm00001407|Granulares;Carex granularis;39.5555555555556;9;0.181755751056952;5.03476272681489
+Carex_tenuiflora|||spm00006090|Glareosae;Carex tenuiflora;59.6666666666667;9;0.181755751056952;5.03476272681489
+Carex_otrubae|otrubae_IS147A|ILL|spm00002550|Vulpinae;Carex otrubae;58.8888888888889;9;0.181755751056952;5.03476272681489
+Carex_missouriensis|B460|ILL|spm00001067|Ovales;Carex missouriensis;51.7777777777778;9;0.181755751056952;5.03476272681489
+Carex_brevior|brevior_10345b|TEX|spm00002279|Ovales;Carex brevior;59.5555555555556;9;0.181755751056952;5.03476272681489
+Carex_molesta|molesta_3136|WIS|spm00002515|Ovales;Carex molesta;68.4444444444444;9;0.181755751056952;5.03476272681489
+Carex_diandra|diandra_31||spm00002364|Heleoglochin;Carex diandra;58;9;0.181755751056952;5.03476272681489
+Carex_panicea|B1299|MAI|spm00001906|Paniceae;Carex panicea;32;10;0.163580175951257;4.5312864541334
+Carex_michelii||HUN|spm00002175|Depauperatae;Carex michelii;56.6;10;0.163580175951257;4.5312864541334
+Carex_glacialis||NUN|spm00005485|Lamprochlaenae;Carex glacialis;34;10;0.163580175951257;4.5312864541334
+Carex_glareosa|||spm00006025|Glareosae;Carex glareosa;65.4;10;0.163580175951257;4.5312864541334
+Carex_dioica|STA_107|GRB|spm00005178|Physoglochin;Carex dioica;51.8;10;0.163580175951257;4.5312864541334
+Carex_maritima||Denmark|spm00003187|Foetidae;Carex maritima;60;10;0.163580175951257;4.5312864541334
+Carex_capitata|B1429|KRA|spm00002036|Capituligerae;Carex capitata;50;10;0.163580175951257;4.5312864541334
+Carex_pairae||SPA|spm00004402|Phaestoglochin;Carex pairae;54.7272727272727;11;0.148709250864779;4.11935132193946
+Carex_tenera|tenera_3124|WIS|spm00002701|Ovales;Carex tenera;54.5454545454545;11;0.148709250864779;4.11935132193946
+Carex_leporina|B1173|WIS|spm00001780|Ovales;Carex leporina;65.0909090909091;11;0.148709250864779;4.11935132193946
+Carex_norvegica||NUN|spm00005517|Racemosae;Carex norvegica;57.3333333333333;12;0.136316813292714;3.77607204511117
+Carex_holostoma|B1024|ARK|spm00001631|Racemosae;Carex holostoma;54.75;12;0.136316813292714;3.77607204511117
+Carex_bicolor|B1015|ARK|spm00001622|Bicolores;Carex bicolor;49.3333333333333;12;0.136316813292714;3.77607204511117
+Carex_ericetorum||ITA|spm00000551|Acrocystis;Carex ericetorum;30.1666666666667;12;0.136316813292714;3.77607204511117
+Carex_arenaria|||spm00005934|Ammoglochin;Carex arenaria;58.1666666666667;12;0.136316813292714;3.77607204511117
+Carex_spicata|||spm00006116|Phaestoglochin;Carex spicata;57.8333333333333;12;0.136316813292714;3.77607204511117
+Carex_bohemica|bohemica_8650|FIN|spm00002276|Ovales;Carex bohemica;74.0833333333333;12;0.136316813292714;3.77607204511117
+Carex_disticha|STA_805|ONT|spm00005395|Holarrhenae;Carex disticha;62.4166666666667;12;0.136316813292714;3.77607204511117
+Carex_pauciflora|B536|ARK|spm00001142|Leucoglochin;Carex pauciflora;64.25;12;0.136316813292714;3.77607204511117
+Carex_lachenalii||NUN|spm00005492|Glareosae;Carex lachenalii;61.5384615384615;13;0.12583090457789;3.485604964718
+Carex_crawfordii|crawfordii_10918|MAI|spm00002327|Ovales;Carex crawfordii;66.7692307692308;13;0.12583090457789;3.485604964718
+Carex_microptera||WAS|spm00004436|Ovales;Carex microptera;81.3846153846154;13;0.12583090457789;3.485604964718
+Carex_montana||YUG|spm00000543|Acrocystis;Carex montana;38;14;0.116842982822327;3.23663318152386
+Carex_praticola|B557|COL|spm00001163|Ovales;Carex praticola;75.5714285714286;14;0.116842982822327;3.23663318152386
+Carex_pilulifera||POR|spm00000583|Acrocystis;Carex pilulifera;19;15;0.109053450634171;3.02085763608893
+Carex_fuliginosa||NUN|spm00005479|Aulocystis;Carex fuliginosa;40;16;0.102237609969536;2.83205403383338
+Carex_atrofusca|B1047|ARK|spm00001654|Aulocystis;Carex atrofusca;38.25;16;0.102237609969536;2.83205403383338
+Carex_remota|||spm00006117|Remotae;Carex remota;62.25;16;0.102237609969536;2.83205403383338
+Carex_rupestris|B1515|SPA|spm00002121|Petraeae;Carex rupestris;50.75;16;0.102237609969536;2.83205403383338
+Carex_vaginata|B1367|YUK|spm00001974|Paniceae;Carex vaginata;31.7058823529412;17;0.0962236329125042;2.66546262007847
+Carex_echinata|echinata_13551|WIS|spm00002390|Stellulatae;Carex echinata;56.5882352941176;17;0.0962236329125042;2.66546262007847
+Carex_brunnescens|||spm00005979|Glareosae;Carex brunnescens;54.5789473684211;19;0.0860948294480301;2.38488760743863
+Carex_simpliciuscula|STA_30|BRC|spm00005200|Kobresia;Carex simpliciuscula;71.9473684210526;19;0.0860948294480301;2.38488760743863
+Carex_blepharicarpa||KOR|spm00000012|Aulocystis;Carex blepharicarpa;30.8;20;0.0817900879756286;2.2656432270667
+Carex_muricata_subsp._muricata||POL|spm00004400|Phaestoglochin;Carex muricata subsp. muricata;56.05;20;0.0817900879756286;2.2656432270667
+Carex_macloviana||CL?|spm00003122|Ovales;Carex macloviana;85.3;20;0.0817900879756286;2.2656432270667
+Carex_myosuroides|K_myosuroides_B_ZSL||spm00003654|Kobresia;Carex myosuroides;57.5714285714286;21;0.077895321881551;2.15775545434924
+Carex_distachya|||spm00003208|Schiedeanae;Carex distachya;73.0454545454545;22;0.0743546254323896;2.05967566096973
+Carex_flacca_subsp._flacca||ITA|spm00000525|Thuringiaca;Carex flacca subsp. flacca;70;23;0.0711218156309814;1.97012454527539
+Carex_atrata||AUT|spm00002172|Racemosae;Carex atrata;50.5;24;0.0681584066463572;1.88803602255558
+Carex_pisiformis||CHS|spm00000095|Mitratae;Carex pisiformis;72.28;25;0.0654320703805029;1.81251458165336
+Carex_pachystachya|pachystachya_3190|CAL|spm00002560|Ovales;Carex pachystachya;78.56;25;0.0654320703805029;1.81251458165336
+Carex_caryophyllea|B1457|SPA|spm00002063|Mitratae;Carex caryophyllea;66.1923076923077;26;0.0629154522889451;1.742802482359
+Carex_digitata||ITA|spm00000569|Clandestinae;Carex digitata;51.5666666666667;30;0.0545267253170857;1.51042881804447
+Carex_canescens|||spm00005990|Glareosae;Carex canescens;56.8333333333333;30;0.0545267253170857;1.51042881804447
+Carex_scoparia_var._scoparia|B648|MAI|spm00001255|Ovales;Carex scoparia var. scoparia;64.0652173913043;46;0.0355609078154907;0.985062272637696
