@@ -37,6 +37,15 @@ phy <- multi2di(phy)
 is.ultrametric(phy)
 is.rooted(phy)
 
+#Pruning the tree
+
+drop<-read.csv("droptips.csv", header=F,sep=";")
+drop<-as.character(drop[,1]) #Convierto en caracter, porque es obligatorio para hacer el pruning
+
+phy<-drop.tip(phy=phy, tip=drop, subtree=F)
+
+#setdiff(phy1$tip.label, mydata[,1]) 
+
 #The tree is ready for the analyses!!!!!!
 
 mydata <- read.csv("tiplabels.txt", sep= ";")
@@ -66,7 +75,7 @@ xr <- range(char) + c(-1, 1) * 20 * p["diffusion"]
 xr
 
 linear.x <- make.linear.x(xr[1], xr[2])
-make <- function(lambda, mu) make.quasse(phy, char, sd, lambda, mu, sampling.f=0.70)
+make <- function(lambda, mu) make.quasse(phy, char, sd, lambda, mu, sampling.f=0.30)
 nodrift <- function(f) constrain(f, drift ~ 0)
 f.c.c <- make(constant.x, constant.x)
 f.l.c <- make(linear.x, constant.x)
