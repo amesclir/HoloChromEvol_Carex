@@ -39,13 +39,12 @@ is.rooted(phy)
 
 #The tree is ready for the analyses!!!!!!
 
-char <- read.csv("tiplabels.txt", sep= ";")
+mydata <- read.csv("tiplabels.txt", sep= ";")
+mydata
 
-char 
-names(char) = pcapruebavignea$x[-203,"NAMES"]
-
-phy
-
+char <- mydata[,3] 
+names(char) = mydata[,1]
+char
 
 sd <- as.numeric(sdlatitude[-203,1])
 
