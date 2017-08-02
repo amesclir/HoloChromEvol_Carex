@@ -58,6 +58,7 @@ names(sd) = pcapruebavignea$x[-203,"NAMES"]
 This is an old script that we have to update. Once we have uploaded the the phy and the chromosome data, we can use it to model chromosome evolution.
 
 ```{r}
+library(diversitree)
 
 p <- starting.point.quasse(phy, char)
 p
