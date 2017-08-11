@@ -1917,6 +1917,7 @@ Carex_michelii||HUN|spm00002175|Depauperatae;Carex michelii;62;Depauperatae
 Carex_depressa_subsp._transsilvanica||YUG|spm00000546|Mitratae;Carex depressa subsp. Transsilvanica;70;Mitratae
 Carex_pediformis_subsp._macroura||CHM|spm00003483|Clandestie;Carex pediformis subsp. macroura;70;Clandestie
 Carex_pediformis_subsp._macroura||CHM|spm00003483|Clandestie;Carex pediformis subsp. macroura;50;Clandestie
+Carex_pediformis_subsp._macroura||CHM|spm00003483|Clandestie;Carex pediformis subsp. macroura;35;Clandestie
 Carex_rhizi_subsp._rhizi||FIN|spm00003597|Clandestie;Carex rhizi subsp. rhizi;70;Clandestie
 Carex_pediformis||CHC|spm00003390|Clandestie;Carex pediformis;70;Clandestie
 Carex_pediformis||CHC|spm00003390|Clandestie;Carex pediformis;70;Clandestie

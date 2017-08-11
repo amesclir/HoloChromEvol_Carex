@@ -332,7 +332,7 @@ Carex_macrolepis||ITA|spm00000536|Aulocystis;Carex macrolepis;36.5;2;0.817900879
 Carex_tristis||IRN|spm00000599|Aulocystis;Carex tristis;56;2;0.817900879756286;22.656432270667
 Carex_petricosa_var._misandroides|B1388|QUE|spm00001995|Aulocystis;Carex petricosa var. misandroides;40;2;0.817900879756286;22.656432270667
 Carex_riloensis||BUL|spm00003599|Acrocystis;Carex riloensis;26;2;0.817900879756286;22.656432270667
-Carex_pediformis_subsp._macroura||CHM|spm00003483|Clandestinae;Carex pediformis subsp. macroura;60;2;0.817900879756286;22.656432270667
+Carex_pediformis_subsp._macroura||CHM|spm00003483|Clandestinae;Carex pediformis subsp. macroura;51.6666666666667;3;0.545392196604278;15.1042881804447
 Carex_bonanzensis|||spm00005964|Glareosae;Carex bonanzensis;55;2;0.817900879756286;22.656432270667
 Carex_atlantica||PEN|spm00005432|Stellulatae;Carex atlantica;49;2;0.817900879756286;22.656432270667
 Carex_appropinquata|appropinquata_3358|GER|spm00002248|Heleoglochin;Carex appropinquata;64;2;0.817900879756286;22.656432270667
