@@ -46,7 +46,7 @@ mydata
 #Pruning the tree
 
 drop<-read.csv("droptips.csv", header=F,sep=";")
-drop<-as.character(drop[,1]) #Convierto en caracter, porque es obligatorio para hacer el pruning
+drop<-as.char.pacter(drop[,1]) #Convierto en caracter, porque es obligatorio para hacer el pruning
 
 phy<-drop.tip(phy=phy, tip=drop, subtree=F)
 
@@ -62,12 +62,12 @@ setdiff(phy$tip.label, mydata[,1])
 #This way you don't need to create an file like droptips.csv
 
 
-#Setting the character
-char <- mydata[,3] 
-names(char) = mydata[,1]
-char
+#Setting the char.pacter
+char.p <- mydata[,3] 
+names(char.p) = mydata[,1]
+char.p
 
-#Setting the character variation
+#Setting the char.pacter variation
 sd <- mydata[,6]
 names(sd) = mydata[,1]
 sd
@@ -80,14 +80,14 @@ OK. Now the Quasse analyses
 ```{r}
 library(diversitree)
 
-p <- starting.point.quasse(phy, char)
+p <- starting.point.quasse(phy, char.p)
 p
 
-xr <- range(char) + c(-1, 1) * 20 * p["diffusion"]
+xr <- range(char.p) + c(-1, 1) * 20 * p["diffusion"]
 xr
 
 linear.x <- make.linear.x(xr[1], xr[2])
-make <- function(lambda, mu) make.quasse(phy, char, sd, lambda, mu, sampling.f=0.30)
+make <- function(lambda, mu) make.quasse(phy, char.p, sd, lambda, mu, sampling.f=0.30)
 nodrift <- function(f) constrain(f, drift ~ 0)
 f.c.c <- make(constant.x, constant.x)
 f.l.c <- make(linear.x, constant.x)
@@ -104,9 +104,9 @@ p.c <- chrom.mle.c.c$par
 p.c
 p.l.c <- c(p.c[1], l.m = 0, p.c[2:3])
 p.l.c
-p.s.c <- c(p.c[1], p.c[1], mean(char), 1, p.c[2:3])
+p.s.c <- c(p.c[1], p.c[1], mean(char.p), 1, p.c[2:3])
 p.s.c
-p.h.c <- c(p.c[1], p.c[1], mean(char), 1, p.c[2:3])
+p.h.c <- c(p.c[1], p.c[1], mean(char.p), 1, p.c[2:3])
 p.h.c
 
 chrom.mle.d.c.c <- find.mle(f.c.c, coef(chrom.mle.c.c, TRUE), control = control, verbose = 0)
@@ -122,26 +122,67 @@ chrom.anova <- anova(chrom.mle.c.c, OU.constant.constant = chrom.mle.d.c.c, BM.l
 
 chrom.anova
 
+save.image(file="myEnvironment.RData")
+```
+
+
+Let's check the results
+
+```{r}
+
+
 #printing results
+char.p.p <- seq(12,132)
+lambda.d.h.c <- noroptimal.x(char.p, chrom.mle.d.h.c$par[1], chrom.mle.d.h.c$par[2], chrom.mle.d.h.c$par[3], chrom.mle.d.h.c$par[4])
+plot(char.p, lambda.d.h.c, type = "l")
+lambda.d.c.c <- constant.x(char.p, chrom.mle.d.c.c$par[1])
+plot(char.p, lambda.d.c.c, type = "l")
+lambda.d.s.c <- sigmoid.x(char.p, chrom.mle.d.s.c$par[1], chrom.mle.d.s.c$par[2], chrom.mle.d.s.c$par[3], chrom.mle.d.s.c$par[4])
+plot(char.p, lambda.d.s.c, type = "l")
+lambda.d.l.c <- linear.x(char.p, chrom.mle.d.l.c$par[1], chrom.mle.d.l.c$par[2])
+plot(char.p, lambda.d.l.c, type = "l")
 
-lambda.d.h.c <- noroptimal.x(char, chrom.mle.d.h.c$par[1], chrom.mle.d.h.c$par[2], chrom.mle.d.h.c$par[3], chrom.mle.d.h.c$par[4])
-plot(char, lambda.d.h.c)
-lambda.d.c.c <- constant.x(char, chrom.mle.d.c.c$par[1])
-plot(char, lambda.d.c.c)
-lambda.d.s.c <- sigmoid.x(char, chrom.mle.d.s.c$par[1], chrom.mle.d.s.c$par[2], chrom.mle.d.s.c$par[3], chrom.mle.d.s.c$par[4])
-plot(char, lambda.d.s.c)
-lambda.d.l.c <- linear.x(char, chrom.mle.d.l.c$par[1], chrom.mle.d.l.c$par[2])
-plot(char, lambda.d.l.c)
+lambda.h.c <- noroptimal.x(char.p, chrom.mle.h.c$par[1], chrom.mle.h.c$par[2], chrom.mle.h.c$par[3], chrom.mle.h.c$par[4])
+plot(char.p, lambda.h.c, type = "l")
+lambda.c.c <- constant.x(char.p, chrom.mle.c.c$par[1])
+plot(char.p, lambda.c.c, type = "l")
+lambda.s.c <- sigmoid.x(char.p, chrom.mle.s.c$par[1], chrom.mle.s.c$par[2], chrom.mle.s.c$par[3], chrom.mle.s.c$par[4])
+plot(char.p, lambda.s.c, type = "l")
+lambda.l.c <- linear.x(char.p, chrom.mle.l.c$par[1], chrom.mle.l.c$par[2])
+plot(char.p, lambda.l.c, type = "l")
 
-lambda.h.c <- noroptimal.x(char, chrom.mle.h.c$par[1], chrom.mle.h.c$par[2], chrom.mle.h.c$par[3], chrom.mle.h.c$par[4])
-plot(char, lambda.h.c)
-lambda.c.c <- constant.x(char, chrom.mle.c.c$par[1])
-plot(char, lambda.c.c)
-lambda.s.c <- sigmoid.x(char, chrom.mle.s.c$par[1], chrom.mle.s.c$par[2], chrom.mle.s.c$par[3], chrom.mle.s.c$par[4])
-plot(char, lambda.s.c)
-lambda.l.c <- linear.x(char, chrom.mle.l.c$par[1], chrom.mle.l.c$par[2])
-plot(char, lambda.l.c)
+# the plot of the current best model... it's little rare, the peak is too much strong
 
+save.image(file="myEnvironment.RData")
+
+```
+
+Let's explore more models
+
+```{r}
+
+p.c.l <- c(p.c[1:2], m.m = 0, p.c[3]) 
+p.c.l
+p.c.s <- c(p.c[1:2], p.c[2], mean(char), 1, p.c[3])
+p.c.s
+p.c.h <- c(p.c[1:2], p.c[2], mean(char), 1, p.c[3])
+p.c.h
+
+chrom.mle.c.l <- find.mle(nodrift(f.c.l), p.c.l, control = control, verbose = 0)
+chrom.mle.d.c.l <- find.mle(f.c.l, coef(chrom.mle.c.l, TRUE), control = control, verbose = 0)
+chrom.mle.c.s <- find.mle(nodrift(f.c.s), p.c.s, control = control, verbose = 0)
+chrom.mle.d.c.s <- find.mle(f.c.s, coef(chrom.mle.c.s, TRUE), control = control, verbose = 0)
+chrom.mle.c.h <- find.mle(nodrift(f.c.h), p.c.h, control = control, verbose = 0)
+chrom.mle.d.c.h <- find.mle(f.c.h, coef(chrom.mle.c.h, TRUE), control = control, verbose = 0)
+
+
+chrom.anova2 <- anova(chrom.mle.c.c, OU.constant.constant = chrom.mle.d.c.c, BM.linear.constant = chrom.mle.l.c, BM.constant.linear = chrom.mle.c.l, OU.linear.constant = chrom.mle.d.l.c, OU.constant.linear = chrom.mle.d.c.l, BM.sigmoid.constant = chrom.mle.s.c, OU.sigmoid.constant = chrom.mle.d.s.c, BM.constant.sigmoid = chrom.mle.c.s, OU.constant.sigmoid = chrom.mle.d.c.s, BM.hump.constant = chrom.mle.h.c, OU.hump.constant = chrom.mle.d.h.c, BM.constant.hump = chrom.mle.c.h, OU.constant.hump = chrom.mle.d.c.h)
+
+
+chrom.anova2
+
+
+save.image(file="myEnvironment.RData")
 
 ```
 
