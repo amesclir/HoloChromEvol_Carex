@@ -122,6 +122,26 @@ chrom.anova <- anova(chrom.mle.c.c, OU.constant.constant = chrom.mle.d.c.c, BM.l
 
 chrom.anova
 
+#printing results
+
+lambda.d.h.c <- noroptimal.x(char, chrom.mle.d.h.c$par[1], chrom.mle.d.h.c$par[2], chrom.mle.d.h.c$par[3], chrom.mle.d.h.c$par[4])
+plot(char, lambda.d.h.c)
+lambda.d.c.c <- constant.x(char, chrom.mle.d.c.c$par[1])
+plot(char, lambda.d.c.c)
+lambda.d.s.c <- sigmoid.x(char, chrom.mle.d.s.c$par[1], chrom.mle.d.s.c$par[2], chrom.mle.d.s.c$par[3], chrom.mle.d.s.c$par[4])
+plot(char, lambda.d.s.c)
+lambda.d.l.c <- linear.x(char, chrom.mle.d.l.c$par[1], chrom.mle.d.l.c$par[2])
+plot(char, lambda.d.l.c)
+
+lambda.h.c <- noroptimal.x(char, chrom.mle.h.c$par[1], chrom.mle.h.c$par[2], chrom.mle.h.c$par[3], chrom.mle.h.c$par[4])
+plot(char, lambda.h.c)
+lambda.c.c <- constant.x(char, chrom.mle.c.c$par[1])
+plot(char, lambda.c.c)
+lambda.s.c <- sigmoid.x(char, chrom.mle.s.c$par[1], chrom.mle.s.c$par[2], chrom.mle.s.c$par[3], chrom.mle.s.c$par[4])
+plot(char, lambda.s.c)
+lambda.l.c <- linear.x(char, chrom.mle.l.c$par[1], chrom.mle.l.c$par[2])
+plot(char, lambda.l.c)
+
 
 ```
 
