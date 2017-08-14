@@ -132,7 +132,7 @@ Let's check the results
 
 
 #printing results
-char.p.p <- seq(12,132)
+char.p <- seq(12,132)
 lambda.d.h.c <- noroptimal.x(char.p, chrom.mle.d.h.c$par[1], chrom.mle.d.h.c$par[2], chrom.mle.d.h.c$par[3], chrom.mle.d.h.c$par[4])
 plot(char.p, lambda.d.h.c, type = "l")
 lambda.d.c.c <- constant.x(char.p, chrom.mle.d.c.c$par[1])
@@ -160,6 +160,10 @@ save.image(file="myEnvironment.RData")
 Let's explore more models
 
 ```{r}
+
+f.c.l <- make(constant.x, linear.x)
+f.c.s <- make(constant.x, sigmoid.x) 
+f.c.h <- make(constant.x, noroptimal.x) 
 
 p.c.l <- c(p.c[1:2], m.m = 0, p.c[3]) 
 p.c.l
