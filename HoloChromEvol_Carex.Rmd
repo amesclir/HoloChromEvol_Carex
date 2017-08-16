@@ -74,6 +74,92 @@ sd
 
 ```
 
+Let's explore the character model evolution
+
+```{r}
+
+library(geiger)
+
+#---- STORE RESULTS
+brownFit <-  fitContinuous(phy, char, SE=sd, control=list(niter=100), ncores=2)
+
+#---- PRINT RESULTS
+print(names(brownFit))
+print(brownFit)
+
+
+#---- COMPUTE LIKELIHOOD
+flik=brownFit$lik
+print(argn(flik))
+
+#---- CREATE a FUNCTION to COMPARE MODELS
+fitHoloChromEvol=function(char){
+
+  # define set of models to compare
+	models=c("BM", "OU", "lambda", "kappa", "delta")
+	summaries=c("diffusion", "Ornstein-Uhlenbeck", "lambda", "kappa", "delta")
+
+	## ESTIMATING measurement error ##
+	aic.se=numeric(length(models))
+	lnl.se=numeric(length(models))
+
+	for(m in 1:length(models)){
+		cat("\n\n\n\n\t*** ", paste(toupper(summaries[m]),": fitting ", sep=""), models[m],
+			" with SE *** \n", sep="")
+		tmp=fitContinuous(phy,char,SE=sd, model=models[m],
+                                    bounds=list(SE=c(0,0.5)), ncores=2)
+		print(tmp)
+		aic.se[m]=tmp$opt$aicc
+		lnl.se[m]=tmp$opt$lnL
+	}
+
+
+	## ASSUMING no measurement error ##
+	aic=numeric(length(models))
+	lnl=numeric(length(models))
+
+	for(m in 1:length(models)){
+		cat("\n\n\n\n\t*** ", paste(toupper(summaries[m]),": fitting ", sep=""), models[m],
+			 " *** \n", sep="")
+		tmp=fitContinuous(phy,char,SE=0,model=models[m], ncores=2)
+		print(tmp)
+		aic[m]=tmp$opt$aicc
+		lnl[m]=tmp$opt$lnL
+	}
+
+	## COMPARE AIC ##
+	names(aic.se)<-names(lnl.se)<-names(aic)<-names(lnl)<-models
+	delta_aic<-function(x) x-x[which(x==min(x))]
+
+	# no measurement error
+	daic=delta_aic(aic)
+	cat("\n\n\n\t\t\t\t*** MODEL COMPARISON: ",char," *** \n",sep="")
+	cat("\tdelta-AIC values for models assuming no measurement error
+    \t\t\t\t zero indicates the best model\n\n")
+	print(daic, digits=2)
+
+		# measurement error
+	daic.se=delta_aic(aic.se)
+	cat("\n\n\n\n\t\t\t\t*** MODEL COMPARISON: ",char," ***\n",sep="")
+	cat("\t\t   delta-AIC values for models estimating SE
+    \t\t\t\t zero indicates the best model\n\n")
+	print(daic.se, digits=2)
+	cat("\n\n\n")
+
+	res_aicc=rbind(aic, aic.se, daic, daic.se)
+	rownames(res_aicc)=c("AICc","AICc_SE","dAICc", "dAICc_SE")
+
+	return(res_aicc)
+}
+
+#---- COMPARE MODELS for WING LENGTH
+res=fitHoloChromEvol(char)
+print(res)
+
+save.image(file="myEnvironment.RData")
+
+```
+
 
 OK. Now the Quasse analyses
 
@@ -189,4 +275,50 @@ chrom.anova2
 save.image(file="myEnvironment.RData")
 
 ```
+
+
+Let's explore more models
+
+```{r}
+library(diversitree)
+
+f.h.l <- make(noroptimal.x, linear.x)
+f.h.s <- make(noroptimal.x, sigmoid.x) 
+f.l.l <- make(linear.x, linear.x)
+f.l.s <- make(linear.x, sigmoid.x) 
+f.s.l <- make(sigmoid.x, linear.x)
+f.s.s <- make(sigmoid.x, sigmoid.x) 
+
+p.h.l <- c(p.c[1], p.c[1], mean(char), 1,p.c[2], m.m = 0, p.c[3])
+p.h.l
+p.h.s <- c(p.c[1], p.c[1], mean(char), 1,p.c[2], p.c[2], mean(char), 1, p.c[3])
+p.h.s
+p.l.l <- c(p.c[1], l.m = 0, p.c[2], m.m = 0, p.c[3])
+p.l.l
+p.l.s <- c(p.c[1], l.m = 0, p.c[2], p.c[2], mean(char), 1, p.c[3])
+p.l.s 
+p.s.l <- c(p.c[1], p.c[1], mean(char.p), 1, p.c[2], m.m = 0, p.c[3])
+p.s.l  
+p.s.s <- c(p.c[1], p.c[1], mean(char.p), 1, p.c[2], p.c[2], mean(char), 1, p.c[3])
+p.s.s
+
+chrom.mle.d.h.l <- find.mle(f.h.l, coef(chrom.mle.h.l, TRUE), control = control, verbose = 0)
+chrom.mle.d.h.s <- find.mle(f.h.s, coef(chrom.mle.h.s, TRUE), control = control, verbose = 0)
+chrom.mle.d.l.l <- find.mle(f.l.l, coef(chrom.mle.l.l, TRUE), control = control, verbose = 0)
+chrom.mle.d.l.s <- find.mle(f.l.s, coef(chrom.mle.l.s, TRUE), control = control, verbose = 0)
+chrom.mle.d.s.l <- find.mle(f.s.l, coef(chrom.mle.s.l, TRUE), control = control, verbose = 0)
+chrom.mle.d.s.s <- find.mle(f.s.s, coef(chrom.mle.s.s, TRUE), control = control, verbose = 0)
+
+
+chrom.anova3 <- anova(chrom.mle.c.c, OU.constant.constant = chrom.mle.d.c.c, BM.linear.constant = chrom.mle.l.c, BM.constant.linear = chrom.mle.c.l, OU.linear.constant = chrom.mle.d.l.c, OU.constant.linear = chrom.mle.d.c.l, BM.sigmoid.constant = chrom.mle.s.c, OU.sigmoid.constant = chrom.mle.d.s.c, BM.constant.sigmoid = chrom.mle.c.s, OU.constant.sigmoid = chrom.mle.d.c.s, BM.hump.constant = chrom.mle.h.c, OU.hump.constant = chrom.mle.d.h.c, BM.constant.hump = chrom.mle.c.h, OU.constant.hump = chrom.mle.d.c.h, OU.hump.linear = chrom.mle.d.h.l, OU.hump.sigmoid = chrom.mle.d.h.s, OU.linear.linear = chrom.mle.d.l.l, OU.linear.sigmoid = chrom.mle.d.l.s, OU.sigmoid.linear = chrom.mle.d.s.l, OU.sigmoid.sigmoid = chrom.mle.d.s.s)
+
+
+chrom.anova3
+
+
+save.image(file="myEnvironment.RData")
+
+
+```
+
 
