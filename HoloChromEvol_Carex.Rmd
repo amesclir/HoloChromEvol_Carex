@@ -302,12 +302,12 @@ p.s.l
 p.s.s <- c(p.c[1], p.c[1], mean(char.p), 1, p.c[2], p.c[2], mean(char), 1, p.c[3])
 p.s.s
 
-chrom.mle.d.h.l <- find.mle(f.h.l, coef(chrom.mle.h.l, TRUE), control = control, verbose = 0)
-chrom.mle.d.h.s <- find.mle(f.h.s, coef(chrom.mle.h.s, TRUE), control = control, verbose = 0)
-chrom.mle.d.l.l <- find.mle(f.l.l, coef(chrom.mle.l.l, TRUE), control = control, verbose = 0)
-chrom.mle.d.l.s <- find.mle(f.l.s, coef(chrom.mle.l.s, TRUE), control = control, verbose = 0)
-chrom.mle.d.s.l <- find.mle(f.s.l, coef(chrom.mle.s.l, TRUE), control = control, verbose = 0)
-chrom.mle.d.s.s <- find.mle(f.s.s, coef(chrom.mle.s.s, TRUE), control = control, verbose = 0)
+chrom.mle.d.h.l <- find.mle(f.h.l, p.h.l, control = control, verbose = 0)
+chrom.mle.d.h.s <- find.mle(f.h.s, p.h.s, control = control, verbose = 0)
+chrom.mle.d.l.l <- find.mle(f.l.l, p.l.l, control = control, verbose = 0)
+chrom.mle.d.l.s <- find.mle(f.l.s, p.l.s, control = control, verbose = 0)
+chrom.mle.d.s.l <- find.mle(f.s.l, p.s.l, control = control, verbose = 0)
+chrom.mle.d.s.s <- find.mle(f.s.s, p.s.s, control = control, verbose = 0)
 
 
 chrom.anova3 <- anova(chrom.mle.c.c, OU.constant.constant = chrom.mle.d.c.c, BM.linear.constant = chrom.mle.l.c, BM.constant.linear = chrom.mle.c.l, OU.linear.constant = chrom.mle.d.l.c, OU.constant.linear = chrom.mle.d.c.l, BM.sigmoid.constant = chrom.mle.s.c, OU.sigmoid.constant = chrom.mle.d.s.c, BM.constant.sigmoid = chrom.mle.c.s, OU.constant.sigmoid = chrom.mle.d.c.s, BM.hump.constant = chrom.mle.h.c, OU.hump.constant = chrom.mle.d.h.c, BM.constant.hump = chrom.mle.c.h, OU.constant.hump = chrom.mle.d.c.h, OU.hump.linear = chrom.mle.d.h.l, OU.hump.sigmoid = chrom.mle.d.h.s, OU.linear.linear = chrom.mle.d.l.l, OU.linear.sigmoid = chrom.mle.d.l.s, OU.sigmoid.linear = chrom.mle.d.s.l, OU.sigmoid.sigmoid = chrom.mle.d.s.s)
