@@ -324,6 +324,10 @@ chrom.anova3
 
 save.image(file="myEnvironment.RData")
 
+#printing results based on new results, sigmoid extinction
+#please confirm these lines are correct
+mu.d.h.s <- sigmoid.x(char.p, chrom.mle.d.h.s$par[5], chrom.mle.d.h.s$par[6], chrom.mle.d.h.s$par[7], chrom.mle.d.h.s$par[8])
+plot(char.p, mu.d.h.s, type = "l")
 
 ```
 
