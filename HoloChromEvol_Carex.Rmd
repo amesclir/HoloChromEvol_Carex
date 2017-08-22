@@ -328,6 +328,8 @@ save.image(file="myEnvironment.RData")
 #please confirm these lines are correct
 mu.d.h.s <- sigmoid.x(char.p, chrom.mle.d.h.s$par[5], chrom.mle.d.h.s$par[6], chrom.mle.d.h.s$par[7], chrom.mle.d.h.s$par[8])
 plot(char.p, mu.d.h.s, type = "l")
+lambda.d.h.s <- noroptimal.x(char.p, chrom.mle.d.h.s$par[1], chrom.mle.d.h.s$par[2], chrom.mle.d.h.s$par[3], chrom.mle.d.h.s$par[4])
+plot(char.p, lambda.d.h.s, type = "l")
 
 ```
 
