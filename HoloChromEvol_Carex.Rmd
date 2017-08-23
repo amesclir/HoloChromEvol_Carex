@@ -5,9 +5,6 @@ date: "08/02/2017"
 output: html_document
 ---
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
-
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
 
 
 Setting up the tree
@@ -72,11 +69,16 @@ sd <- mydata[,6]
 names(sd) = mydata[,1]
 sd
 
+save.image(file="myEnvironment.RData")
+
 ```
 
 Let's explore the character model evolution
 
 ```{r}
+
+load(file="myEnvironment.RData")
+
 
 library(geiger)
 
@@ -164,6 +166,9 @@ save.image(file="myEnvironment.RData")
 OK. Now the Quasse analyses
 
 ```{r}
+
+load(file="myEnvironment.RData")
+
 library(diversitree)
 
 p <- starting.point.quasse(phy, char.p)
@@ -216,6 +221,7 @@ Let's check the results
 
 ```{r}
 
+load(file="myEnvironment.RData")
 
 #printing results
 char.p <- seq(12,132)
@@ -246,6 +252,9 @@ save.image(file="myEnvironment.RData")
 Let's explore more models
 
 ```{r}
+
+load(file="myEnvironment.RData")
+
 
 f.c.l <- make(constant.x, linear.x)
 f.c.s <- make(constant.x, sigmoid.x) 
@@ -324,13 +333,27 @@ chrom.anova3
 
 save.image(file="myEnvironment.RData")
 
+
+```
+
+Printing the best model
+
+```{r}
+
+load(file="myEnvironment.RData")
+
 #printing results based on new results, sigmoid extinction
 #please confirm these lines are correct
 mu.d.h.s <- sigmoid.x(char.p, chrom.mle.d.h.s$par[5], chrom.mle.d.h.s$par[6], chrom.mle.d.h.s$par[7], chrom.mle.d.h.s$par[8])
 plot(char.p, mu.d.h.s, type = "l")
+
 lambda.d.h.s <- noroptimal.x(char.p, chrom.mle.d.h.s$par[1], chrom.mle.d.h.s$par[2], chrom.mle.d.h.s$par[3], chrom.mle.d.h.s$par[4])
 plot(char.p, lambda.d.h.s, type = "l")
 
-```
+plot(char.p, mu.d.h.s, type = "l")
+lines(char.p, lambda.d.h.s, type = "l")
 
+save.image(file="myEnvironment.RData")
+
+```
 
