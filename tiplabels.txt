@@ -584,5 +584,5 @@ Carex_lancea|||spm00003258|Schoenoxiphium;Carex lancea;88;1;1.62430985775074;32.
 Carex_schweickerdtii||NAT|spm00000160|Schoenoxiphium;Carex schweickerdtii;60;1;1.62430985775074;32.5484105782181
 Carex_pseudorufa|||spm00003250|Schoenoxiphium;Carex pseudorufa;64;1;1.62430985775074;32.5484105782181
 Carex_ludwigii||NAT|spm00000158|Schoenoxiphium;Carex ludwigii;34;1;1.62430985775074;32.5484105782181
-Carex_lingii|C_lingii_BHY||spm00003612|HemiscaposaeCarex lingii1211.6243098577507432.5484105782181
-Carex_scaposa|C_scaposa_BHY||spm00003611|HemiscaposaeCarex scaposa2411.6243098577507432.5484105782181
+Carex_lingii|C_lingii_BHY||spm00003612|Hemiscaposae;Carex lingii;12;1;1.62430985775074;32.5484105782181
+Carex_scaposa|C_scaposa_BHY||spm00003611|Hemiscaposae;Carex scaposa;24;1;1.62430985775074;32.5484105782181
