@@ -2837,3 +2837,46 @@ Carex_glaucodea||INI|spm00005301|Griseae;Carex glaucodea;44;Griseae
 Carex_glaucodea||INI|spm00005301|Griseae;Carex glaucodea;44;Griseae
 Carex_stricta|B690|TEX|spm00001296|Phacocystis;Carex stricta;68;Phacocystis
 Carex_stricta|B690|TEX|spm00001296|Phacocystis;Carex stricta;70;Phacocystis
+Carex_scoparia_var._scoparia|B648|MAI|spm00001255|Ovales;Carex scoparia var. scoparia;66;Ovales
+Carex_scoparia_var._scoparia|B648|MAI|spm00001255|Ovales;Carex scoparia var. scoparia;65;Ovales
+Carex_scoparia_var._scoparia|B648|MAI|spm00001255|Ovales;Carex scoparia var. scoparia;66;Ovales
+Carex_scoparia_var._scoparia|B648|MAI|spm00001255|Ovales;Carex scoparia var. scoparia;68;Ovales
+Carex_scoparia_var._scoparia|B648|MAI|spm00001255|Ovales;Carex scoparia var. scoparia;68;Ovales
+Carex_scoparia_var._scoparia|B648|MAI|spm00001255|Ovales;Carex scoparia var. scoparia;66;Ovales
+Carex_scoparia_var._scoparia|B648|MAI|spm00001255|Ovales;Carex scoparia var. scoparia;67;Ovales
+Carex_scoparia_var._scoparia|B648|MAI|spm00001255|Ovales;Carex scoparia var. scoparia;66;Ovales
+Carex_scoparia_var._scoparia|B648|MAI|spm00001255|Ovales;Carex scoparia var. scoparia;66;Ovales
+Carex_scoparia_var._scoparia|B648|MAI|spm00001255|Ovales;Carex scoparia var. scoparia;64;Ovales
+Carex_scoparia_var._scoparia|B648|MAI|spm00001255|Ovales;Carex scoparia var. scoparia;68;Ovales
+Carex_scoparia_var._scoparia|B648|MAI|spm00001255|Ovales;Carex scoparia var. scoparia;68;Ovales
+Carex_scoparia_var._scoparia|B648|MAI|spm00001255|Ovales;Carex scoparia var. scoparia;68;Ovales
+Carex_scoparia_var._scoparia|B648|MAI|spm00001255|Ovales;Carex scoparia var. scoparia;64;Ovales
+Carex_scoparia_var._scoparia|B648|MAI|spm00001255|Ovales;Carex scoparia var. scoparia;62;Ovales
+Carex_scoparia_var._scoparia|B648|MAI|spm00001255|Ovales;Carex scoparia var. scoparia;66;Ovales
+Carex_scoparia_var._scoparia|B648|MAI|spm00001255|Ovales;Carex scoparia var. scoparia;65;Ovales
+Carex_scoparia_var._scoparia|B648|MAI|spm00001255|Ovales;Carex scoparia var. scoparia;66;Ovales
+Carex_scoparia_var._scoparia|B648|MAI|spm00001255|Ovales;Carex scoparia var. scoparia;68;Ovales
+Carex_scoparia_var._scoparia|B648|MAI|spm00001255|Ovales;Carex scoparia var. scoparia;66;Ovales
+Carex_scoparia_var._scoparia|B648|MAI|spm00001255|Ovales;Carex scoparia var. scoparia;68;Ovales
+Carex_scoparia_var._scoparia|B648|MAI|spm00001255|Ovales;Carex scoparia var. scoparia;67;Ovales
+Carex_scoparia_var._scoparia|B648|MAI|spm00001255|Ovales;Carex scoparia var. scoparia;66;Ovales
+Carex_scoparia_var._scoparia|B648|MAI|spm00001255|Ovales;Carex scoparia var. scoparia;67;Ovales
+Carex_scoparia_var._scoparia|B648|MAI|spm00001255|Ovales;Carex scoparia var. scoparia;68;Ovales
+Carex_scoparia_var._scoparia|B648|MAI|spm00001255|Ovales;Carex scoparia var. scoparia;65;Ovales
+Carex_scoparia_var._scoparia|B648|MAI|spm00001255|Ovales;Carex scoparia var. scoparia;67;Ovales
+Carex_scoparia_var._scoparia|B648|MAI|spm00001255|Ovales;Carex scoparia var. scoparia;66;Ovales
+Carex_scoparia_var._scoparia|B648|MAI|spm00001255|Ovales;Carex scoparia var. scoparia;62;Ovales
+Carex_scoparia_var._scoparia|B648|MAI|spm00001255|Ovales;Carex scoparia var. scoparia;62;Ovales
+Carex_scoparia_var._scoparia|B648|MAI|spm00001255|Ovales;Carex scoparia var. scoparia;68;Ovales
+Carex_scoparia_var._scoparia|B648|MAI|spm00001255|Ovales;Carex scoparia var. scoparia;66;Ovales
+Carex_scoparia_var._scoparia|B648|MAI|spm00001255|Ovales;Carex scoparia var. scoparia;64;Ovales
+Carex_scoparia_var._scoparia|B648|MAI|spm00001255|Ovales;Carex scoparia var. scoparia;66;Ovales
+Carex_scoparia_var._scoparia|B648|MAI|spm00001255|Ovales;Carex scoparia var. scoparia;64;Ovales
+Carex_scoparia_var._scoparia|B648|MAI|spm00001255|Ovales;Carex scoparia var. scoparia;64;Ovales
+Carex_scoparia_var._scoparia|B648|MAI|spm00001255|Ovales;Carex scoparia var. scoparia;62;Ovales
+Carex_scoparia_var._scoparia|B648|MAI|spm00001255|Ovales;Carex scoparia var. scoparia;68;Ovales
+Carex_scoparia_var._scoparia|B648|MAI|spm00001255|Ovales;Carex scoparia var. scoparia;67;Ovales
+Carex_scoparia_var._scoparia|B648|MAI|spm00001255|Ovales;Carex scoparia var. scoparia;66;Ovales
+Carex_scoparia_var._scoparia|B648|MAI|spm00001255|Ovales;Carex scoparia var. scoparia;66;Ovales
+Carex_scoparia_var._scoparia|B648|MAI|spm00001255|Ovales;Carex scoparia var. scoparia;66;Ovales
+Carex_scoparia_var._scoparia|B648|MAI|spm00001255|Ovales;Carex scoparia var. scoparia;66;Ovales
