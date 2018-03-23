@@ -42,21 +42,11 @@ mydata
 
 #Pruning the tree
 
-drop<-read.csv("droptips.csv", header=F,sep=";")
-drop<-as.char.pacter(drop[,1]) #Convierto en caracter, porque es obligatorio para hacer el pruning
-
-phy<-drop.tip(phy=phy, tip=drop, subtree=F)
-
-setdiff(phy$tip.label, mydata[,1]) 
-
-#The tree is ready for the analyses!!!!!!
-
-#OK but this is an easier way because you don't have to create a list
-#Look
 tips.to.remove <- setdiff(phy$tip.label, mydata[,1])
 phy <- drop.tip(phy, tips.to.remove)
 setdiff(phy$tip.label, mydata[,1]) 
-#This way you don't need to create an file like droptips.csv
+
+#The tree is ready for the analyses!!!!!!
 
 
 #Setting the char.pacter
