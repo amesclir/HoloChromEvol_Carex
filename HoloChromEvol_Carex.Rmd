@@ -49,12 +49,12 @@ setdiff(phy$tip.label, mydata[,1])
 #The tree is ready for the analyses!!!!!!
 
 
-#Setting the char.pacter
-char.p <- mydata[,3] 
-names(char.p) = mydata[,1]
-char.p
+#Setting the character
+states <- mydata[,3] 
+names(states) = mydata[,1]
+states
 
-#Setting the char.pacter variation
+#Setting the character variation
 sd <- mydata[,6]
 names(sd) = mydata[,1]
 sd
@@ -73,7 +73,7 @@ load(file="myEnvironment.RData")
 library(geiger)
 
 #---- STORE RESULTS
-brownFit <-  fitContinuous(phy, char, SE=sd, control=list(niter=100), ncores=2)
+brownFit <-  fitContinuous(phy, states, SE=sd, control=list(niter=100), ncores=2)
 
 #---- PRINT RESULTS
 print(names(brownFit))
@@ -85,7 +85,7 @@ flik=brownFit$lik
 print(argn(flik))
 
 #---- CREATE a FUNCTION to COMPARE MODELS
-fitHoloChromEvol=function(char){
+fitHoloChromEvol=function(states){
 
   # define set of models to compare
 	models=c("BM", "OU", "lambda", "kappa", "delta")
@@ -98,7 +98,7 @@ fitHoloChromEvol=function(char){
 	for(m in 1:length(models)){
 		cat("\n\n\n\n\t*** ", paste(toupper(summaries[m]),": fitting ", sep=""), models[m],
 			" with SE *** \n", sep="")
-		tmp=fitContinuous(phy,char,SE=sd, model=models[m],
+		tmp=fitContinuous(phy,states,SE=sd, model=models[m],
                                     bounds=list(SE=c(0,0.5)), ncores=2)
 		print(tmp)
 		aic.se[m]=tmp$opt$aicc
@@ -113,7 +113,7 @@ fitHoloChromEvol=function(char){
 	for(m in 1:length(models)){
 		cat("\n\n\n\n\t*** ", paste(toupper(summaries[m]),": fitting ", sep=""), models[m],
 			 " *** \n", sep="")
-		tmp=fitContinuous(phy,char,SE=0,model=models[m], ncores=2)
+		tmp=fitContinuous(phy,states,SE=0,model=models[m], ncores=2)
 		print(tmp)
 		aic[m]=tmp$opt$aicc
 		lnl[m]=tmp$opt$lnL
@@ -125,14 +125,14 @@ fitHoloChromEvol=function(char){
 
 	# no measurement error
 	daic=delta_aic(aic)
-	cat("\n\n\n\t\t\t\t*** MODEL COMPARISON: ",char," *** \n",sep="")
+	cat("\n\n\n\t\t\t\t*** MODEL COMPARISON: ",states," *** \n",sep="")
 	cat("\tdelta-AIC values for models assuming no measurement error
     \t\t\t\t zero indicates the best model\n\n")
 	print(daic, digits=2)
 
 		# measurement error
 	daic.se=delta_aic(aic.se)
-	cat("\n\n\n\n\t\t\t\t*** MODEL COMPARISON: ",char," ***\n",sep="")
+	cat("\n\n\n\n\t\t\t\t*** MODEL COMPARISON: ",states," ***\n",sep="")
 	cat("\t\t   delta-AIC values for models estimating SE
     \t\t\t\t zero indicates the best model\n\n")
 	print(daic.se, digits=2)
@@ -145,7 +145,7 @@ fitHoloChromEvol=function(char){
 }
 
 #---- COMPARE MODELS for WING LENGTH
-res=fitHoloChromEvol(char)
+res=fitHoloChromEvol(states)
 print(res)
 
 save.image(file="myEnvironment.RData")
@@ -161,14 +161,14 @@ load(file="myEnvironment.RData")
 
 library(diversitree)
 
-p <- starting.point.quasse(phy, char.p)
+p <- starting.point.quasse(phy, states)
 p
 
-xr <- range(char.p) + c(-1, 1) * 20 * p["diffusion"]
+xr <- range(states) + c(-1, 1) * 20 * p["diffusion"]
 xr
 
 linear.x <- make.linear.x(xr[1], xr[2])
-make <- function(lambda, mu) make.quasse(phy, char.p, sd, lambda, mu, sampling.f=0.30)
+make <- function(lambda, mu) make.quasse(phy, states, sd, lambda, mu, sampling.f=0.30)
 nodrift <- function(f) constrain(f, drift ~ 0)
 f.c.c <- make(constant.x, constant.x)
 f.l.c <- make(linear.x, constant.x)
@@ -185,9 +185,9 @@ p.c <- chrom.mle.c.c$par
 p.c
 p.l.c <- c(p.c[1], l.m = 0, p.c[2:3])
 p.l.c
-p.s.c <- c(p.c[1], p.c[1], mean(char.p), 1, p.c[2:3])
+p.s.c <- c(p.c[1], p.c[1], mean(states), 1, p.c[2:3])
 p.s.c
-p.h.c <- c(p.c[1], p.c[1], mean(char.p), 1, p.c[2:3])
+p.h.c <- c(p.c[1], p.c[1], mean(states), 1, p.c[2:3])
 p.h.c
 
 chrom.mle.d.c.c <- find.mle(f.c.c, coef(chrom.mle.c.c, TRUE), control = control, verbose = 0)
@@ -214,24 +214,24 @@ Let's check the results
 load(file="myEnvironment.RData")
 
 #printing results
-char.p <- seq(12,132)
-lambda.d.h.c <- noroptimal.x(char.p, chrom.mle.d.h.c$par[1], chrom.mle.d.h.c$par[2], chrom.mle.d.h.c$par[3], chrom.mle.d.h.c$par[4])
-plot(char.p, lambda.d.h.c, type = "l")
-lambda.d.c.c <- constant.x(char.p, chrom.mle.d.c.c$par[1])
-plot(char.p, lambda.d.c.c, type = "l")
-lambda.d.s.c <- sigmoid.x(char.p, chrom.mle.d.s.c$par[1], chrom.mle.d.s.c$par[2], chrom.mle.d.s.c$par[3], chrom.mle.d.s.c$par[4])
-plot(char.p, lambda.d.s.c, type = "l")
-lambda.d.l.c <- linear.x(char.p, chrom.mle.d.l.c$par[1], chrom.mle.d.l.c$par[2])
-plot(char.p, lambda.d.l.c, type = "l")
+states.seq <- seq(12,132)
+lambda.d.h.c <- noroptimal.x(states.seq, chrom.mle.d.h.c$par[1], chrom.mle.d.h.c$par[2], chrom.mle.d.h.c$par[3], chrom.mle.d.h.c$par[4])
+plot(states.seq, lambda.d.h.c, type = "l")
+lambda.d.c.c <- constant.x(states.seq, chrom.mle.d.c.c$par[1])
+plot(states.seq, lambda.d.c.c, type = "l")
+lambda.d.s.c <- sigmoid.x(states.seq, chrom.mle.d.s.c$par[1], chrom.mle.d.s.c$par[2], chrom.mle.d.s.c$par[3], chrom.mle.d.s.c$par[4])
+plot(states.seq, lambda.d.s.c, type = "l")
+lambda.d.l.c <- linear.x(states.seq, chrom.mle.d.l.c$par[1], chrom.mle.d.l.c$par[2])
+plot(states.seq, lambda.d.l.c, type = "l")
 
-lambda.h.c <- noroptimal.x(char.p, chrom.mle.h.c$par[1], chrom.mle.h.c$par[2], chrom.mle.h.c$par[3], chrom.mle.h.c$par[4])
-plot(char.p, lambda.h.c, type = "l")
-lambda.c.c <- constant.x(char.p, chrom.mle.c.c$par[1])
-plot(char.p, lambda.c.c, type = "l")
-lambda.s.c <- sigmoid.x(char.p, chrom.mle.s.c$par[1], chrom.mle.s.c$par[2], chrom.mle.s.c$par[3], chrom.mle.s.c$par[4])
-plot(char.p, lambda.s.c, type = "l")
-lambda.l.c <- linear.x(char.p, chrom.mle.l.c$par[1], chrom.mle.l.c$par[2])
-plot(char.p, lambda.l.c, type = "l")
+lambda.h.c <- noroptimal.x(states.seq, chrom.mle.h.c$par[1], chrom.mle.h.c$par[2], chrom.mle.h.c$par[3], chrom.mle.h.c$par[4])
+plot(states.seq, lambda.h.c, type = "l")
+lambda.c.c <- constant.x(states.seq, chrom.mle.c.c$par[1])
+plot(states.seq, lambda.c.c, type = "l")
+lambda.s.c <- sigmoid.x(states.seq, chrom.mle.s.c$par[1], chrom.mle.s.c$par[2], chrom.mle.s.c$par[3], chrom.mle.s.c$par[4])
+plot(states.seq, lambda.s.c, type = "l")
+lambda.l.c <- linear.x(states.seq, chrom.mle.l.c$par[1], chrom.mle.l.c$par[2])
+plot(states.seq, lambda.l.c, type = "l")
 
 # the plot of the current best model... it's little rare, the peak is too much strong
 
@@ -252,9 +252,9 @@ f.c.h <- make(constant.x, noroptimal.x)
 
 p.c.l <- c(p.c[1:2], m.m = 0, p.c[3]) 
 p.c.l
-p.c.s <- c(p.c[1:2], p.c[2], mean(char), 1, p.c[3])
+p.c.s <- c(p.c[1:2], p.c[2], mean(states), 1, p.c[3])
 p.c.s
-p.c.h <- c(p.c[1:2], p.c[2], mean(char), 1, p.c[3])
+p.c.h <- c(p.c[1:2], p.c[2], mean(states), 1, p.c[3])
 p.c.h
 
 chrom.mle.c.l <- find.mle(nodrift(f.c.l), p.c.l, control = control, verbose = 0)
@@ -288,17 +288,17 @@ f.l.s <- make(linear.x, sigmoid.x)
 f.s.l <- make(sigmoid.x, linear.x)
 f.s.s <- make(sigmoid.x, sigmoid.x) 
 
-p.h.l <- c(p.c[1], p.c[1], mean(char), 1,p.c[2], m.m = 0, p.c[3])
+p.h.l <- c(p.c[1], p.c[1], mean(states), 1,p.c[2], m.m = 0, p.c[3])
 p.h.l
-p.h.s <- c(p.c[1], p.c[1], mean(char), 1,p.c[2], p.c[2], mean(char), 1, p.c[3])
+p.h.s <- c(p.c[1], p.c[1], mean(states), 1,p.c[2], p.c[2], mean(states), 1, p.c[3])
 p.h.s
 p.l.l <- c(p.c[1], l.m = 0, p.c[2], m.m = 0, p.c[3])
 p.l.l
-p.l.s <- c(p.c[1], l.m = 0, p.c[2], p.c[2], mean(char), 1, p.c[3])
+p.l.s <- c(p.c[1], l.m = 0, p.c[2], p.c[2], mean(states), 1, p.c[3])
 p.l.s 
-p.s.l <- c(p.c[1], p.c[1], mean(char.p), 1, p.c[2], m.m = 0, p.c[3])
+p.s.l <- c(p.c[1], p.c[1], mean(states), 1, p.c[2], m.m = 0, p.c[3])
 p.s.l  
-p.s.s <- c(p.c[1], p.c[1], mean(char.p), 1, p.c[2], p.c[2], mean(char), 1, p.c[3])
+p.s.s <- c(p.c[1], p.c[1], mean(states), 1, p.c[2], p.c[2], mean(states), 1, p.c[3])
 p.s.s
 
 chrom.mle.h.l <- find.mle(nodrift(f.h.l), p.h.l, control = control, verbose = 0)
@@ -334,14 +334,14 @@ load(file="myEnvironment.RData")
 
 #printing results based on new results, sigmoid extinction
 #please confirm these lines are correct
-mu.d.h.s <- sigmoid.x(char.p, chrom.mle.d.h.s$par[5], chrom.mle.d.h.s$par[6], chrom.mle.d.h.s$par[7], chrom.mle.d.h.s$par[8])
-plot(char.p, mu.d.h.s, type = "l")
+mu.d.h.s <- sigmoid.x(states.seq, chrom.mle.d.h.s$par[5], chrom.mle.d.h.s$par[6], chrom.mle.d.h.s$par[7], chrom.mle.d.h.s$par[8])
+plot(states.seq, mu.d.h.s, type = "l")
 
-lambda.d.h.s <- noroptimal.x(char.p, chrom.mle.d.h.s$par[1], chrom.mle.d.h.s$par[2], chrom.mle.d.h.s$par[3], chrom.mle.d.h.s$par[4])
-plot(char.p, lambda.d.h.s, type = "l")
+lambda.d.h.s <- noroptimal.x(states.seq, chrom.mle.d.h.s$par[1], chrom.mle.d.h.s$par[2], chrom.mle.d.h.s$par[3], chrom.mle.d.h.s$par[4])
+plot(states.seq, lambda.d.h.s, type = "l")
 
-plot(char.p, mu.d.h.s, type = "l")
-lines(char.p, lambda.d.h.s, type = "l")
+plot(states.seq, mu.d.h.s, type = "l")
+lines(states.seq, lambda.d.h.s, type = "l")
 
 save.image(file="myEnvironment.RData")
 
