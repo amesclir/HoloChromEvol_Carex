@@ -214,7 +214,7 @@ Let's check the results
 load(file="myEnvironment.RData")
 
 #printing results
-states.seq <- seq(12,132)
+states.seq <- seq(min(states),max(states))
 lambda.d.h.c <- noroptimal.x(states.seq, chrom.mle.d.h.c$par[1], chrom.mle.d.h.c$par[2], chrom.mle.d.h.c$par[3], chrom.mle.d.h.c$par[4])
 plot(states.seq, lambda.d.h.c, type = "l")
 lambda.d.c.c <- constant.x(states.seq, chrom.mle.d.c.c$par[1])
