@@ -451,7 +451,7 @@ Carex_ebenea|ebenea_1057|COL|spm00002388|Ovales;Carex ebenea;84;Ovales
 Carex_haydeniana|haydeniana_140.2|UTA|spm00002432|Ovales;Carex haydeniana;82;Ovales
 Carex_haydeniana|haydeniana_140.2|UTA|spm00002432|Ovales;Carex haydeniana;82;Ovales
 Carex_abrupta|abrupta_3191|CAL|spm00002224|Ovales;Carex abrupta;76;Ovales
-Carex_subfusca|subfusca_3192|CAL|spm00002691|Ovales;Carex subfusca;84;Ovales
+Carex_subfusca|subfusca_3192|CAL|spm00002691|Ovales;Carex subfusca;82;Ovales
 Carex_subfusca|subfusca_3192|CAL|spm00002691|Ovales;Carex subfusca;84;Ovales
 Carex_integra|integra_20743|CAL|spm00002449|Ovales;Carex integra;82;Ovales
 Carex_integra|integra_20743|CAL|spm00002449|Ovales;Carex integra;82;Ovales
@@ -2880,3 +2880,20 @@ Carex_scoparia_var._scoparia|B648|MAI|spm00001255|Ovales;Carex scoparia var. sco
 Carex_scoparia_var._scoparia|B648|MAI|spm00001255|Ovales;Carex scoparia var. scoparia;66;Ovales
 Carex_scoparia_var._scoparia|B648|MAI|spm00001255|Ovales;Carex scoparia var. scoparia;66;Ovales
 Carex_scoparia_var._scoparia|B648|MAI|spm00001255|Ovales;Carex scoparia var. scoparia;66;Ovales
+Carex_bolanderi|B811|CAL|spm00001414|Deweyanae;Carex bolanderi;50;Deweyanae
+Carex_bolanderi|B811|CAL|spm00001414|Deweyanae;Carex bolanderi;58;Deweyanae
+Carex_cusickii|cusickii_3197|CAL|spm00002347|Heleoglochin;Carex cusickii;63;Heleoglochin
+Carex_densa|densa_3183|CAL|spm00002356|Multiflorae;Carex densa;54;Multiflorae
+Carex_leporinella|leporinella_15857|IDA|spm00002477|Ovales;Carex leporinella;82;Ovales
+Carex_mariposana|mariposana_16|CAL|spm00002499|Ovales;Carex mariposana;81;Ovales
+Carex_mesochorea|mesochorea_Reznicek|MIC|spm00002505|Phaestoglochin;Carex mesochorea;48;Phaestoglochin
+Carex_nervina|nervina_3195|CAL|spm00002532|Vulpinae;Carex nervina;52;Vulpinae
+Carex_occidentalis|B1526|CAL|spm00002132|Phaestoglochin;Carex occidentalis;60;Phaestoglochin
+Carex_retroflexa|B584|DEL|spm00001190|Phaestoglochin;Carex retroflexa;42;Phaestoglochin
+Carex_simulata|simulata_3198|CAL|spm00002646|Divisae;Carex simulata;64;Divisae
+Carex_straminiformis|straminiformis_18|CAL|spm00002684|Ovales;Carex straminiformis;82;Ovales
+Carex_subbracteata|subbracteata_24641|WAS|spm00002686|Ovales;Carex subbracteata;80;Ovales
+Carex_triangularis|triangularis_23200|USA?|spm00002715|Multiflorae;Carex triangularis;54;Multiflorae
+Carex_vernacula|vernacula_1063|COL|spm00002729|Foetidae;Carex vernacula;52;Foetidae
+Carex_subfusca|subfusca_3192|CAL|spm00002691|Ovales;Carex subfusca;82;Ovales
+Carex_subfusca|subfusca_3192|CAL|spm00002691|Ovales;Carex subfusca;86;Ovales
