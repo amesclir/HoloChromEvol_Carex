@@ -125,7 +125,7 @@ Carex_lyngbyei|B479|ORE|spm00001085|Phacocystis;Carex lyngbyei;76;Phacocystis
 Carex_lenticularis_lenticularis|Carex_STARR_10||FASTALABEL.NO.SPECIMEN.MATCH|Phacocystis;Carex lenticularis lenticularis;88;Phacocystis
 Carex_lenticularis_lenticularis|Carex_STARR_10||FASTALABEL.NO.SPECIMEN.MATCH|Phacocystis;Carex lenticularis lenticularis;68;Phacocystis
 Carex_lenticularis_lenticularis|Carex_STARR_10||FASTALABEL.NO.SPECIMEN.MATCH|Phacocystis;Carex lenticularis lenticularis;68;Phacocystis
-Carex_atherodes|B1242|BRC|spm00001849|Carex;Carex atherodes;78;Carex
+Carex_atherodes|B1242|BRC|spm00001849|Carex;Carex atherodes;74;Carex
 Carex_atherodes|B1242|BRC|spm00001849|Carex;Carex atherodes;42;Carex
 Carex_atherodes|B1242|BRC|spm00001849|Carex;Carex atherodes;78;Carex
 Carex_pumila|B1461|NCA|spm00002067|Paludosae;Carex pumila;80;Paludosae
@@ -419,23 +419,6 @@ Carex_disticha|STA_805|ONT|spm00005395|Holarrhenae;Carex disticha;65;Holarrhenae
 Carex_gibba|STA_816|CHH|spm00005244|Gibbae;Carex gibba;34;Gibbae
 Carex_gibba|STA_816|CHH|spm00005244|Gibbae;Carex gibba;34;Gibbae
 Carex_gibba|STA_816|CHH|spm00005244|Gibbae;Carex gibba;36;Gibbae
-Carex_leptalea|B414|MIC|spm00001032|Leptocephalae;Carex leptalea;52;Leptocephalae
-Carex_leptalea|B414|MIC|spm00001032|Leptocephalae;Carex leptalea;52;Leptocephalae
-Carex_leptalea|B414|MIC|spm00001032|Leptocephalae;Carex leptalea;52;Leptocephalae
-Carex_leptalea|B414|MIC|spm00001032|Leptocephalae;Carex leptalea;52;Leptocephalae
-Carex_leptalea|B414|MIC|spm00001032|Leptocephalae;Carex leptalea;52;Leptocephalae
-Carex_pauciflora|B536|ARK|spm00001142|Leucoglochin;Carex pauciflora;76;Leucoglochin
-Carex_pauciflora|B536|ARK|spm00001142|Leucoglochin;Carex pauciflora;74;Leucoglochin
-Carex_pauciflora|B536|ARK|spm00001142|Leucoglochin;Carex pauciflora;74;Leucoglochin
-Carex_pauciflora|B536|ARK|spm00001142|Leucoglochin;Carex pauciflora;76;Leucoglochin
-Carex_pauciflora|B536|ARK|spm00001142|Leucoglochin;Carex pauciflora;46;Leucoglochin
-Carex_pauciflora|B536|ARK|spm00001142|Leucoglochin;Carex pauciflora;76;Leucoglochin
-Carex_pauciflora|B536|ARK|spm00001142|Leucoglochin;Carex pauciflora;76;Leucoglochin
-Carex_pauciflora|B536|ARK|spm00001142|Leucoglochin;Carex pauciflora;76;Leucoglochin
-Carex_pauciflora|B536|ARK|spm00001142|Leucoglochin;Carex pauciflora;38;Leucoglochin
-Carex_pauciflora|B536|ARK|spm00001142|Leucoglochin;Carex pauciflora;39;Leucoglochin
-Carex_pauciflora|B536|ARK|spm00001142|Leucoglochin;Carex pauciflora;44;Leucoglochin
-Carex_pauciflora|B536|ARK|spm00001142|Leucoglochin;Carex pauciflora;76;Leucoglochin
 Carex_molestiformis|B466|ARK|spm00001073|Ovales;Carex molestiformis;70;Ovales
 Carex_molestiformis|B466|ARK|spm00001073|Ovales;Carex molestiformis;70;Ovales
 Carex_molestiformis|B466|ARK|spm00001073|Ovales;Carex molestiformis;70;Ovales
@@ -1215,7 +1198,7 @@ Carex_nigra|STA_104|FRA|spm00005159|Phacocystis;Carex nigra;84;Phacocystis
 Carex_nigra|STA_104|FRA|spm00005159|Phacocystis;Carex nigra;82;Phacocystis
 Carex_nigra|STA_104|FRA|spm00005159|Phacocystis;Carex nigra;84;Phacocystis
 Carex_nigra|STA_104|FRA|spm00005159|Phacocystis;Carex nigra;84;Phacocystis
-Carex_nigra|STA_104|FRA|spm00005159|Phacocystis;Carex nigra;42;Phacocystis
+Carex_nigra|STA_104|FRA|spm00005159|Phacocystis;Carex nigra;84;Phacocystis
 Carex_nigra|STA_104|FRA|spm00005159|Phacocystis;Carex nigra;83;Phacocystis
 Carex_nigra|STA_104|FRA|spm00005159|Phacocystis;Carex nigra;84;Phacocystis
 Carex_nigra|STA_104|FRA|spm00005159|Phacocystis;Carex nigra;83;Phacocystis
@@ -1739,8 +1722,6 @@ Carex_atrata||AUT|spm00002172|Racemosae;Carex atrata;56;Racemosae
 Carex_atrata||AUT|spm00002172|Racemosae;Carex atrata;54;Racemosae
 Carex_atrata||AUT|spm00002172|Racemosae;Carex atrata;54;Racemosae
 Carex_atrata||AUT|spm00002172|Racemosae;Carex atrata;54;Racemosae
-Carex_atrata||AUT|spm00002172|Racemosae;Carex atrata;18;Racemosae
-Carex_atrata||AUT|spm00002172|Racemosae;Carex atrata;26;Racemosae
 Carex_atrata||AUT|spm00002172|Racemosae;Carex atrata;54;Racemosae
 Carex_atrata||AUT|spm00002172|Racemosae;Carex atrata;54;Racemosae
 Carex_atrata||AUT|spm00002172|Racemosae;Carex atrata;54;Racemosae
@@ -1759,7 +1740,7 @@ Carex_adelostoma|B1012|ARK|spm00001619|Racemosae;Carex adelostoma;106;Racemosae
 Carex_adelostoma|B1012|ARK|spm00001619|Racemosae;Carex adelostoma;106;Racemosae
 Carex_adelostoma|B1012|ARK|spm00001619|Racemosae;Carex adelostoma;106;Racemosae
 Carex_adelostoma|B1012|ARK|spm00001619|Racemosae;Carex adelostoma;106;Racemosae
-Carex_holostoma|B1024|ARK|spm00001631|Racemosae;Carex holostoma;24;Racemosae
+Carex_holostoma|B1024|ARK|spm00001631|Racemosae;Carex holostoma;54;Racemosae
 Carex_holostoma|B1024|ARK|spm00001631|Racemosae;Carex holostoma;60;Racemosae
 Carex_holostoma|B1024|ARK|spm00001631|Racemosae;Carex holostoma;58;Racemosae
 Carex_holostoma|B1024|ARK|spm00001631|Racemosae;Carex holostoma;59;Racemosae
@@ -2127,7 +2108,6 @@ Carex_pilulifera||POR|spm00000583|Acrocystis;Carex pilulifera;18;Acrocystis
 Carex_pilulifera||POR|spm00000583|Acrocystis;Carex pilulifera;18;Acrocystis
 Carex_pilulifera||POR|spm00000583|Acrocystis;Carex pilulifera;18;Acrocystis
 Carex_pilulifera||POR|spm00000583|Acrocystis;Carex pilulifera;18;Acrocystis
-Carex_pilulifera||POR|spm00000583|Acrocystis;Carex pilulifera;35;Acrocystis
 Carex_pilulifera||POR|spm00000583|Acrocystis;Carex pilulifera;18;Acrocystis
 Carex_baccans|C_baccans_BHY||spm00003608|Polystachyae;Carex baccans;44;Polystachyae
 Carex_baccans|C_baccans_BHY||spm00003608|Polystachyae;Carex baccans;46;Polystachyae
@@ -2179,7 +2159,6 @@ Carex_pediformis||CHC|spm00003390|Clandestinae;Carex pediformis;70;Clandestinae
 Carex_pediformis||CHC|spm00003390|Clandestinae;Carex pediformis;70;Clandestinae
 Carex_pediformis||CHC|spm00003390|Clandestinae;Carex pediformis;70;Clandestinae
 Carex_echinochloe||KEN|spm00000186|Indicae;Carex echinochloe;42;Indicae
-Carex_filicina|STA_632|TAI|spm00005187|Indicae;Carex filicina;14;Indicae
 Carex_filicina|STA_632|TAI|spm00005187|Indicae;Carex filicina;42;Indicae
 Carex_filicina|STA_632|TAI|spm00005187|Indicae;Carex filicina;42;Indicae
 Carex_filicina|STA_632|TAI|spm00005187|Indicae;Carex filicina;46;Indicae
@@ -2232,7 +2211,6 @@ Carex_arenaria|||spm00005934|Ammoglochin;Carex arenaria;64;Ammoglochin
 Carex_arenaria|||spm00005934|Ammoglochin;Carex arenaria;58;Ammoglochin
 Carex_arenaria|||spm00005934|Ammoglochin;Carex arenaria;58;Ammoglochin
 Carex_arenaria|||spm00005934|Ammoglochin;Carex arenaria;58;Ammoglochin
-Carex_arenaria|||spm00005934|Ammoglochin;Carex arenaria;28;Ammoglochin
 Carex_arenaria|||spm00005934|Ammoglochin;Carex arenaria;64;Ammoglochin
 Carex_arenaria|||spm00005934|Ammoglochin;Carex arenaria;58;Ammoglochin
 Carex_praecox||HUN|spm00002176|Ammoglochin;Carex praecox;58;Ammoglochin
@@ -2479,6 +2457,19 @@ Carex_saximontana||MAN|spm00005347|Phyllostachyae;Carex saximontana;64;Phyllosta
 Carex_micropoda|B991|WAS|spm00001598|Dornera;Carex micropoda;62;Dornera
 Carex_micropoda|B991|WAS|spm00001598|Dornera;Carex micropoda;70;Dornera
 Carex_nigricans|STA_52|BRC|spm00005166|Dornera;Carex nigricans;72;Dornera
+Carex_leptalea|B414|MIC|spm00001032|Leptocephalae;Carex leptalea;52;Leptocephalae
+Carex_leptalea|B414|MIC|spm00001032|Leptocephalae;Carex leptalea;52;Leptocephalae
+Carex_leptalea|B414|MIC|spm00001032|Leptocephalae;Carex leptalea;52;Leptocephalae
+Carex_leptalea|B414|MIC|spm00001032|Leptocephalae;Carex leptalea;52;Leptocephalae
+Carex_leptalea|B414|MIC|spm00001032|Leptocephalae;Carex leptalea;50;Leptocephalae
+Carex_pauciflora|B536|ARK|spm00001142|Leucoglochin;Carex pauciflora;76;Leucoglochin
+Carex_pauciflora|B536|ARK|spm00001142|Leucoglochin;Carex pauciflora;74;Leucoglochin
+Carex_pauciflora|B536|ARK|spm00001142|Leucoglochin;Carex pauciflora;74;Leucoglochin
+Carex_pauciflora|B536|ARK|spm00001142|Leucoglochin;Carex pauciflora;76;Leucoglochin
+Carex_pauciflora|B536|ARK|spm00001142|Leucoglochin;Carex pauciflora;46;Leucoglochin
+Carex_pauciflora|B536|ARK|spm00001142|Leucoglochin;Carex pauciflora;76;Leucoglochin
+Carex_pauciflora|B536|ARK|spm00001142|Leucoglochin;Carex pauciflora;76;Leucoglochin
+Carex_pauciflora|B536|ARK|spm00001142|Leucoglochin;Carex pauciflora;76;Leucoglochin
 Carex_anthoxanthea|B961|WAS|spm00001568|Circinatae;Carex anthoxanthea;54;Circinatae
 Carex_anthoxanthea|B961|WAS|spm00001568|Circinatae;Carex anthoxanthea;56;Circinatae
 Carex_nardina||NUN|spm00005514|Nardinae;Carex nardina;70;Nardinae
@@ -2631,7 +2622,6 @@ Carex_acuta||ITA|spm00003084|Phacocystis;Carex acuta;85;Phacocystis
 Carex_acuta||ITA|spm00003084|Phacocystis;Carex acuta;84;Phacocystis
 Carex_acuta||ITA|spm00003084|Phacocystis;Carex acuta;84;Phacocystis
 Carex_acuta||ITA|spm00003084|Phacocystis;Carex acuta;84;Phacocystis
-Carex_acuta||ITA|spm00003084|Phacocystis;Carex acuta;48;Phacocystis
 Carex_acuta||ITA|spm00003084|Phacocystis;Carex acuta;84;Phacocystis
 Carex_acuta||ITA|spm00003084|Phacocystis;Carex acuta;84;Phacocystis
 Carex_acuta||ITA|spm00003084|Phacocystis;Carex acuta;85;Phacocystis
