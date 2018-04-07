@@ -334,14 +334,14 @@ load(file="myEnvironment.RData")
 
 #printing results based on new results, sigmoid extinction
 #please confirm these lines are correct
-mu.d.h.s <- sigmoid.x(states.seq, chrom.mle.d.h.s$par[5], chrom.mle.d.h.s$par[6], chrom.mle.d.h.s$par[7], chrom.mle.d.h.s$par[8])
-plot(states.seq, mu.d.h.s, type = "l")
+mu.h.s <- sigmoid.x(states.seq, chrom.mle.h.s$par[5], chrom.mle.h.s$par[6], chrom.mle.h.s$par[7], chrom.mle.h.s$par[8])
+plot(states.seq, mu.h.s, type = "l")
 
-lambda.d.h.s <- noroptimal.x(states.seq, chrom.mle.d.h.s$par[1], chrom.mle.d.h.s$par[2], chrom.mle.d.h.s$par[3], chrom.mle.d.h.s$par[4])
-plot(states.seq, lambda.d.h.s, type = "l")
+lambda.h.s <- noroptimal.x(states.seq, chrom.mle.h.s$par[1], chrom.mle.h.s$par[2], chrom.mle.h.s$par[3], chrom.mle.h.s$par[4])
+plot(states.seq, lambda.h.s, type = "l")
 
-plot(states.seq, mu.d.h.s, type = "l")
-lines(states.seq, lambda.d.h.s, type = "l")
+plot(states.seq, mu.h.s, type = "l")
+lines(states.seq, lambda.h.s, type = "l")
 
 save.image(file="myEnvironment.RData")
 

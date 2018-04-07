@@ -166,7 +166,6 @@ Carex_lachenalii||NUN|spm00005492|Glareosae;Carex lachenalii;50;Glareosae
 Carex_lachenalii||NUN|spm00005492|Glareosae;Carex lachenalii;58;Glareosae
 Carex_lachenalii||NUN|spm00005492|Glareosae;Carex lachenalii;58;Glareosae
 Carex_lachenalii||NUN|spm00005492|Glareosae;Carex lachenalii;62;Glareosae
-Carex_lachenalii||NUN|spm00005492|Glareosae;Carex lachenalii;60;Glareosae
 Carex_lachenalii||NUN|spm00005492|Glareosae;Carex lachenalii;64;Glareosae
 Carex_lachenalii||NUN|spm00005492|Glareosae;Carex lachenalii;64;Glareosae
 Carex_lachenalii||NUN|spm00005492|Glareosae;Carex lachenalii;64;Glareosae
@@ -195,13 +194,6 @@ Carex_tenuiflora|||spm00006090|Glareosae;Carex tenuiflora;58;Glareosae
 Carex_tenuiflora|||spm00006090|Glareosae;Carex tenuiflora;62;Glareosae
 Carex_tenuiflora|||spm00006090|Glareosae;Carex tenuiflora;62;Glareosae
 Carex_tenuiflora|||spm00006090|Glareosae;Carex tenuiflora;62;Glareosae
-Carex_tenuiflora|||spm00006090|Glareosae;Carex tenuiflora;58;Glareosae
-Carex_tenuiflora|||spm00006090|Glareosae;Carex tenuiflora;59;Glareosae
-Carex_tenuiflora|||spm00006090|Glareosae;Carex tenuiflora;60;Glareosae
-Carex_brunnescens|||spm00005979|Glareosae;Carex brunnescens;44;Glareosae
-Carex_brunnescens|||spm00005979|Glareosae;Carex brunnescens;50;Glareosae
-Carex_brunnescens|||spm00005979|Glareosae;Carex brunnescens;51;Glareosae
-Carex_brunnescens|||spm00005979|Glareosae;Carex brunnescens;52;Glareosae
 Carex_brunnescens|||spm00005979|Glareosae;Carex brunnescens;56;Glareosae
 Carex_brunnescens|||spm00005979|Glareosae;Carex brunnescens;56;Glareosae
 Carex_brunnescens|||spm00005979|Glareosae;Carex brunnescens;56;Glareosae
@@ -229,8 +221,6 @@ Carex_laevivaginata|laevivaginata_3154|ILL|spm00002466|Vulpinae;Carex laevivagin
 Carex_laevivaginata|laevivaginata_3154|ILL|spm00002466|Vulpinae;Carex laevivaginata;50;Vulpinae
 Carex_laevivaginata|laevivaginata_3154|ILL|spm00002466|Vulpinae;Carex laevivaginata;50;Vulpinae
 Carex_laevivaginata|laevivaginata_3154|ILL|spm00002466|Vulpinae;Carex laevivaginata;50;Vulpinae
-Carex_arcta|||spm00005958|Glareosae;Carex arcta;52;Glareosae
-Carex_arcta|||spm00005958|Glareosae;Carex arcta;54;Glareosae
 Carex_arcta|||spm00005958|Glareosae;Carex arcta;60;Glareosae
 Carex_arcta|||spm00005958|Glareosae;Carex arcta;60;Glareosae
 Carex_arcta|||spm00005958|Glareosae;Carex arcta;60;Glareosae
@@ -253,9 +243,6 @@ Carex_elongata|||spm00005951|Elongatae;Carex elongata;56;Elongatae
 Carex_elongata|||spm00005951|Elongatae;Carex elongata;56;Elongatae
 Carex_elongata|||spm00005951|Elongatae;Carex elongata;56;Elongatae
 Carex_elongata|||spm00005951|Elongatae;Carex elongata;60;Elongatae
-Carex_elongata|||spm00005951|Elongatae;Carex elongata;74;Elongatae
-Carex_elongata|||spm00005951|Elongatae;Carex elongata;75;Elongatae
-Carex_elongata|||spm00005951|Elongatae;Carex elongata;76;Elongatae
 Carex_leptopoda||ORE|spm00005276|Deweyanae;Carex leptopoda;54;Deweyanae
 Carex_infirminervia||CAL|spm00005270|Deweyanae;Carex infirminervia;46;Deweyanae
 Carex_deweyana|STA_800|ORE|spm00005369|Deweyanae;Carex deweyana;54;Deweyanae
@@ -336,8 +323,6 @@ Carex_straminea|B645|DEL|spm00001252|Ovales;Carex straminea;74;Ovales
 Carex_straminea|B645|DEL|spm00001252|Ovales;Carex straminea;74;Ovales
 Carex_straminea|B645|DEL|spm00001252|Ovales;Carex straminea;74;Ovales
 Carex_athrostachya|B109|CAL|spm00000727|Ovales;Carex athrostachya;68;Ovales
-Carex_athrostachya|B109|CAL|spm00000727|Ovales;Carex athrostachya;76;Ovales
-Carex_adusta|adusta_2009|MAI|spm00002226|Ovales;Carex adusta;64;Ovales
 Carex_adusta|adusta_2009|MAI|spm00002226|Ovales;Carex adusta;78;Ovales
 Carex_harfordii|harfordii_1085|CAL|spm00002429|Ovales;Carex harfordii;80;Ovales
 Carex_phaeocephala|B587|NEV|spm00001193|Ovales;Carex phaeocephala;84;Ovales
@@ -346,10 +331,6 @@ Carex_foenea|B1393|BRC|spm00002000|Ovales;Carex foenea;82;Ovales
 Carex_foenea|B1393|BRC|spm00002000|Ovales;Carex foenea;82;Ovales
 Carex_foenea|B1393|BRC|spm00002000|Ovales;Carex foenea;82;Ovales
 Carex_foenea|B1393|BRC|spm00002000|Ovales;Carex foenea;84;Ovales
-Carex_bohemica|bohemica_8650|FIN|spm00002276|Ovales;Carex bohemica;60;Ovales
-Carex_bohemica|bohemica_8650|FIN|spm00002276|Ovales;Carex bohemica;62;Ovales
-Carex_bohemica|bohemica_8650|FIN|spm00002276|Ovales;Carex bohemica;63;Ovales
-Carex_bohemica|bohemica_8650|FIN|spm00002276|Ovales;Carex bohemica;64;Ovales
 Carex_bohemica|bohemica_8650|FIN|spm00002276|Ovales;Carex bohemica;80;Ovales
 Carex_bohemica|bohemica_8650|FIN|spm00002276|Ovales;Carex bohemica;80;Ovales
 Carex_bohemica|bohemica_8650|FIN|spm00002276|Ovales;Carex bohemica;80;Ovales
@@ -372,7 +353,6 @@ Carex_vulpinoidea|STA_883|KTY|spm00005250|Multiflorae;Carex vulpinoidea;52;Multi
 Carex_vulpinoidea|STA_883|KTY|spm00005250|Multiflorae;Carex vulpinoidea;52;Multiflorae
 Carex_vulpinoidea|STA_883|KTY|spm00005250|Multiflorae;Carex vulpinoidea;52;Multiflorae
 Carex_alopecoidea|STA_775|MAN|spm00005438|Vulpinae;Carex alopecoidea;50;Vulpinae
-Carex_alopecoidea|STA_775|MAN|spm00005438|Vulpinae;Carex alopecoidea;68;Vulpinae
 Carex_conjuncta|B166|DEL|spm00000784|Vulpinae;Carex conjuncta;47;Vulpinae
 Carex_conjuncta|B166|DEL|spm00000784|Vulpinae;Carex conjuncta;48;Vulpinae
 Carex_cephaloidea|cephaloidea_3116|ILL|spm00002303|Phaestoglochin;Carex cephaloidea;50;Phaestoglochin
@@ -383,7 +363,6 @@ Carex_aggregata|B066|KTY|spm00000685|Phaestoglochin;Carex aggregata;52;Phaestogl
 Carex_aggregata|B066|KTY|spm00000685|Phaestoglochin;Carex aggregata;52;Phaestoglochin
 Carex_gravida|gravida_3139|WIS|spm00002425|Phaestoglochin;Carex gravida;48;Phaestoglochin
 Carex_gravida|gravida_3139|WIS|spm00002425|Phaestoglochin;Carex gravida;48;Phaestoglochin
-Carex_gravida|gravida_3139|WIS|spm00002425|Phaestoglochin;Carex gravida;58;Phaestoglochin
 Carex_leavenworthii|B407|ALA|spm00001025|Phaestoglochin;Carex leavenworthii;48;Phaestoglochin
 Carex_leavenworthii|B407|ALA|spm00001025|Phaestoglochin;Carex leavenworthii;48;Phaestoglochin
 Carex_cephalophora|B210|MRY|spm00000828|Phaestoglochin;Carex cephalophora;48;Phaestoglochin
@@ -407,15 +386,7 @@ Carex_sartwellii|B1375|BRC|spm00001982|Holarrhenae;Carex sartwellii;62;Holarrhen
 Carex_disticha|STA_805|ONT|spm00005395|Holarrhenae;Carex disticha;62;Holarrhenae
 Carex_disticha|STA_805|ONT|spm00005395|Holarrhenae;Carex disticha;62;Holarrhenae
 Carex_disticha|STA_805|ONT|spm00005395|Holarrhenae;Carex disticha;62;Holarrhenae
-Carex_disticha|STA_805|ONT|spm00005395|Holarrhenae;Carex disticha;62;Holarrhenae
-Carex_disticha|STA_805|ONT|spm00005395|Holarrhenae;Carex disticha;62;Holarrhenae
 Carex_disticha|STA_805|ONT|spm00005395|Holarrhenae;Carex disticha;64;Holarrhenae
-Carex_disticha|STA_805|ONT|spm00005395|Holarrhenae;Carex disticha;60;Holarrhenae
-Carex_disticha|STA_805|ONT|spm00005395|Holarrhenae;Carex disticha;61;Holarrhenae
-Carex_disticha|STA_805|ONT|spm00005395|Holarrhenae;Carex disticha;62;Holarrhenae
-Carex_disticha|STA_805|ONT|spm00005395|Holarrhenae;Carex disticha;63;Holarrhenae
-Carex_disticha|STA_805|ONT|spm00005395|Holarrhenae;Carex disticha;64;Holarrhenae
-Carex_disticha|STA_805|ONT|spm00005395|Holarrhenae;Carex disticha;65;Holarrhenae
 Carex_gibba|STA_816|CHH|spm00005244|Gibbae;Carex gibba;34;Gibbae
 Carex_gibba|STA_816|CHH|spm00005244|Gibbae;Carex gibba;34;Gibbae
 Carex_gibba|STA_816|CHH|spm00005244|Gibbae;Carex gibba;36;Gibbae
