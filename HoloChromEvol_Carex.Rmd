@@ -14,7 +14,7 @@ Setting up the tree
 library(ape)
 
 #opening tree
-phy <- read.tree("Carex_megaphylogeny.dated.out")
+phy <- read.tree("Alldata_constrained_3fossil.tree")
 phy
 length(phy$tip.label)
 is.ultrametric(phy)
@@ -36,7 +36,7 @@ is.rooted(phy)
 
 
 #Loading the data
-mydata <- read.csv("tiplabels.txt", sep= ";")
+mydata <- read.csv("morpho_edited.csv", sep= ";", dec=",")
 mydata
 
 
@@ -50,12 +50,12 @@ setdiff(phy$tip.label, mydata[,1])
 
 
 #Setting the character
-states <- mydata[,3] 
+states <- mydata[,4] 
 names(states) = mydata[,1]
 states
 
 #Setting the character variation
-sd <- mydata[,6]
+sd <- mydata[,23]
 names(sd) = mydata[,1]
 sd
 
@@ -334,14 +334,12 @@ load(file="myEnvironment.RData")
 
 #printing results based on new results, sigmoid extinction
 #please confirm these lines are correct
-mu.h.s <- sigmoid.x(states.seq, chrom.mle.h.s$par[5], chrom.mle.h.s$par[6], chrom.mle.h.s$par[7], chrom.mle.h.s$par[8])
-plot(states.seq, mu.h.s, type = "l")
+mu.l <- linear.x(states.seq, chrom.mle.h.l$par[5], chrom.mle.h.l$par[6])
+plot(states.seq, mu.l, type = "l")
 
-lambda.h.s <- noroptimal.x(states.seq, chrom.mle.h.s$par[1], chrom.mle.h.s$par[2], chrom.mle.h.s$par[3], chrom.mle.h.s$par[4])
-plot(states.seq, lambda.h.s, type = "l")
+lambda.h <- noroptimal.x(states.seq, chrom.mle.h.l$par[1], chrom.mle.h.l$par[2], chrom.mle.h.l$par[3], chrom.mle.h.l$par[4])
+plot(states.seq, lambda.h, type = "l")
 
-plot(states.seq, mu.h.s, type = "l")
-lines(states.seq, lambda.h.s, type = "l")
 
 save.image(file="myEnvironment.RData")
 
