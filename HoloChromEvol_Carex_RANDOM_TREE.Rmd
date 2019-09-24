@@ -59,7 +59,13 @@ sd <- mydata[,23]
 names(sd) = mydata[,1]
 sd
 
-save.image(file="myEnvironment.RData")
+#NOW, we create a random tree to use it as a null model, as QuaSSE has been critisized because it present Type I error
+#https://daijiang.name/en/2014/05/29/null-model-for-phylogenetic-functional-diversity/
+
+library(picante)
+phy = tipShuffle(phy)
+
+save.image(file="myEnvironment_random.RData")
 
 ```
 
@@ -67,7 +73,7 @@ Let's explore the character model evolution
 
 ```{r}
 
-load(file="myEnvironment.RData")
+load(file="myEnvironment_random.RData")
 
 
 library(geiger)
@@ -148,7 +154,7 @@ fitHoloChromEvol=function(states){
 res=fitHoloChromEvol(states)
 print(res)
 
-save.image(file="myEnvironment.RData")
+save.image(file="myEnvironment_random.RData")
 
 ```
 
@@ -157,7 +163,7 @@ OK. Now the Quasse analyses
 
 ```{r}
 
-load(file="myEnvironment.RData")
+load(file="myEnvironment_random.RData")
 
 library(diversitree)
 
@@ -194,7 +200,7 @@ chrom.mle.d.c.c <- find.mle(f.c.c, coef(chrom.mle.c.c, TRUE), control = control,
 chrom.mle.l.c <- find.mle(nodrift(f.l.c), p.l.c, control = control, verbose = 0)
 chrom.mle.d.l.c <- find.mle(f.l.c, coef(chrom.mle.l.c, TRUE), control = control, verbose = 0)
 chrom.mle.s.c <- find.mle(nodrift(f.s.c), p.s.c, control = control, verbose = 0)
-chrom.mle.d.s.c <- find.mle(f.s.c, coef(chrom.mle.s.c, TRUE), control = control, verbose = 0)
+chrom.mle.d.s.c <- find.mle(f.s.c, coef(chrom.mle.s.c, TRUE), control = control, verbose = 0) #CONTINUAR AQUI
 chrom.mle.h.c <- find.mle(nodrift(f.h.c), p.h.c, control = control, verbose = 0)
 chrom.mle.d.h.c <- find.mle(f.h.c, coef(chrom.mle.h.c, TRUE), control = control, verbose = 0)
 
@@ -203,7 +209,7 @@ chrom.anova <- anova(chrom.mle.c.c, OU.constant.constant = chrom.mle.d.c.c, BM.l
 
 chrom.anova
 
-save.image(file="myEnvironment.RData")
+save.image(file="myEnvironment_random.RData")
 ```
 
 
@@ -211,7 +217,7 @@ Let's check the results
 
 ```{r}
 
-load(file="myEnvironment.RData")
+load(file="myEnvironment_random.RData")
 
 #printing results
 states.seq <- seq(min(states),max(states))
@@ -235,7 +241,7 @@ plot(states.seq, lambda.l.c, type = "l")
 
 # the plot of the current best model... it's little rare, the peak is too much strong
 
-save.image(file="myEnvironment.RData")
+save.image(file="myEnvironment_random.RData")
 
 ```
 
@@ -243,7 +249,7 @@ Let's explore more models
 
 ```{r}
 
-load(file="myEnvironment.RData")
+load(file="myEnvironment_random.RData")
 
 
 f.c.l <- make(constant.x, linear.x)
@@ -271,7 +277,7 @@ chrom.anova2 <- anova(chrom.mle.c.c, OU.constant.constant = chrom.mle.d.c.c, BM.
 chrom.anova2
 
 
-save.image(file="myEnvironment.RData")
+save.image(file="myEnvironment_random.RData")
 
 ```
 
@@ -321,7 +327,7 @@ chrom.anova3 <- anova(chrom.mle.c.c, OU.constant.constant = chrom.mle.d.c.c, BM.
 chrom.anova3
 
 
-save.image(file="myEnvironment.RData")
+save.image(file="myEnvironment_random.RData")
 
 
 ```
@@ -330,7 +336,7 @@ Printing the best model
 
 ```{r}
 
-load(file="myEnvironment.RData")
+load(file="myEnvironment_random.RData")
 
 #printing results based on new results, sigmoid extinction
 #please confirm these lines are correct
@@ -341,7 +347,7 @@ lambda.h <- noroptimal.x(states.seq, chrom.mle.h.l$par[1], chrom.mle.h.l$par[2],
 plot(states.seq, lambda.h, type = "l")
 
 
-save.image(file="myEnvironment.RData")
+save.image(file="myEnvironment_random.RData")
 
 ```
 

@@ -1,0 +1,484 @@
+> res=fitHoloChromEvol(states)
+
+
+
+
+	*** DIFFUSION: fitting BM with SE *** 
+GEIGER-fitted comparative model of continuous data
+ fitted ‘BM’ model parameters:
+	sigsq = 52.315597
+	z0 = 44.058294
+
+ model summary:
+	log-likelihood = -2951.669075
+	AIC = 5907.338150
+	AICc = 5907.354108
+	free parameters = 2
+
+Convergence diagnostics:
+	optimization iterations = 10000
+	failed iterations = 0
+	frequency of best fit = 1.00
+
+ object summary:
+	'lik' -- likelihood function
+	'bnd' -- bounds for likelihood search
+	'res' -- optimization iteration summary
+	'opt' -- maximum likelihood parameter estimates
+
+
+
+
+	*** ORNSTEIN-UHLENBECK: fitting OU with SE *** 
+GEIGER-fitted comparative model of continuous data
+ fitted ‘OU’ model parameters:
+	alpha = 0.109036
+	sigsq = 70.783249
+	z0 = 55.744563
+
+ model summary:
+	log-likelihood = -2916.910662
+	AIC = 5839.821323
+	AICc = 5839.853281
+	free parameters = 3
+
+Convergence diagnostics:
+	optimization iterations = 10000
+	failed iterations = 0
+	frequency of best fit = 0.00
+
+ object summary:
+	'lik' -- likelihood function
+	'bnd' -- bounds for likelihood search
+	'res' -- optimization iteration summary
+	'opt' -- maximum likelihood parameter estimates
+
+
+
+
+	*** EARLY-BURST: fitting EB with SE *** 
+GEIGER-fitted comparative model of continuous data
+ fitted ‘EB’ model parameters:
+	a = -0.000001
+	sigsq = 52.317712
+	z0 = 44.058215
+
+ model summary:
+	log-likelihood = -2951.669401
+	AIC = 5909.338803
+	AICc = 5909.370760
+	free parameters = 3
+
+Convergence diagnostics:
+	optimization iterations = 10000
+	failed iterations = 0
+	frequency of best fit = 0.00
+
+ object summary:
+	'lik' -- likelihood function
+	'bnd' -- bounds for likelihood search
+	'res' -- optimization iteration summary
+	'opt' -- maximum likelihood parameter estimates
+
+
+
+
+	*** TREND: fitting trend with SE *** 
+Parameter estimates appear at bounds:
+	slopeGEIGER-fitted comparative model of continuous data
+ fitted ‘trend’ model parameters:
+	slope = 100.000000
+	sigsq = 0.015895
+	z0 = 50.300417
+
+ model summary:
+	log-likelihood = -2941.536899
+	AIC = 5889.073798
+	AICc = 5889.105755
+	free parameters = 3
+
+Convergence diagnostics:
+	optimization iterations = 10000
+	failed iterations = 0
+	frequency of best fit = 0.03
+
+ object summary:
+	'lik' -- likelihood function
+	'bnd' -- bounds for likelihood search
+	'res' -- optimization iteration summary
+	'opt' -- maximum likelihood parameter estimates
+
+
+
+
+	*** LAMBDA: fitting lambda with SE *** 
+GEIGER-fitted comparative model of continuous data
+ fitted ‘lambda’ model parameters:
+	lambda = 0.945704
+	sigsq = 19.318114
+	z0 = 44.250859
+
+ model summary:
+	log-likelihood = -2825.980071
+	AIC = 5657.960142
+	AICc = 5657.992099
+	free parameters = 3
+
+Convergence diagnostics:
+	optimization iterations = 10000
+	failed iterations = 0
+	frequency of best fit = 0.00
+
+ object summary:
+	'lik' -- likelihood function
+	'bnd' -- bounds for likelihood search
+	'res' -- optimization iteration summary
+	'opt' -- maximum likelihood parameter estimates
+
+
+
+
+	*** KAPPA: fitting kappa with SE *** 
+GEIGER-fitted comparative model of continuous data
+ fitted ‘kappa’ model parameters:
+	kappa = 0.404693
+	sigsq = 46.356361
+	z0 = 33.389725
+
+ model summary:
+	log-likelihood = -2868.993541
+	AIC = 5743.987081
+	AICc = 5744.019039
+	free parameters = 3
+
+Convergence diagnostics:
+	optimization iterations = 10000
+	failed iterations = 0
+	frequency of best fit = 0.25
+
+ object summary:
+	'lik' -- likelihood function
+	'bnd' -- bounds for likelihood search
+	'res' -- optimization iteration summary
+	'opt' -- maximum likelihood parameter estimates
+
+
+
+
+	*** DELTA: fitting delta with SE *** 
+GEIGER-fitted comparative model of continuous data
+ fitted ‘delta’ model parameters:
+	delta = 0.000000
+	sigsq = 2812820865417137.000000
+	z0 = 33.201301
+
+ model summary:
+	log-likelihood = -2905.811481
+	AIC = 5817.622961
+	AICc = 5817.654919
+	free parameters = 3
+
+Convergence diagnostics:
+	optimization iterations = 10000
+	failed iterations = 0
+	frequency of best fit = 0.00
+
+ object summary:
+	'lik' -- likelihood function
+	'bnd' -- bounds for likelihood search
+	'res' -- optimization iteration summary
+	'opt' -- maximum likelihood parameter estimates
+
+
+
+
+	*** DRIFT: fitting drift with SE *** 
+GEIGER-fitted comparative model of continuous data
+ fitted ‘drift’ model parameters:
+	sigsq = 52.315596
+	drift = -81.081867
+	z0 = 2815.045825
+
+ model summary:
+	log-likelihood = -2951.669075
+	AIC = 5909.338150
+	AICc = 5909.370108
+	free parameters = 3
+
+Convergence diagnostics:
+	optimization iterations = 10000
+	failed iterations = 0
+	frequency of best fit = 0.22
+
+ object summary:
+	'lik' -- likelihood function
+	'bnd' -- bounds for likelihood search
+	'res' -- optimization iteration summary
+	'opt' -- maximum likelihood parameter estimates
+
+
+
+
+	*** WHITE-NOISE: fitting white with SE *** 
+GEIGER-fitted comparative model of continuous data
+ fitted ‘white’ model parameters:
+	sigsq = 0.000000
+	z0 = 65.259807
+
+ model summary:
+	log-likelihood = -413118.170140
+	AIC = 826240.340279
+	AICc = 826240.356237
+	free parameters = 2
+
+Convergence diagnostics:
+	optimization iterations = 10000
+	failed iterations = 0
+	frequency of best fit = 1.00
+
+ object summary:
+	'lik' -- likelihood function
+	'bnd' -- bounds for likelihood search
+	'res' -- optimization iteration summary
+	'opt' -- maximum likelihood parameter estimates
+
+
+
+
+	*** DIFFUSION: fitting BM *** 
+GEIGER-fitted comparative model of continuous data
+ fitted ‘BM’ model parameters:
+	sigsq = 77.227036
+	z0 = 44.061978
+
+ model summary:
+	log-likelihood = -3022.499443
+	AIC = 6048.998886
+	AICc = 6049.014843
+	free parameters = 2
+
+Convergence diagnostics:
+	optimization iterations = 10000
+	failed iterations = 0
+	frequency of best fit = 1.00
+
+ object summary:
+	'lik' -- likelihood function
+	'bnd' -- bounds for likelihood search
+	'res' -- optimization iteration summary
+	'opt' -- maximum likelihood parameter estimates
+
+
+
+
+	*** ORNSTEIN-UHLENBECK: fitting OU *** 
+GEIGER-fitted comparative model of continuous data
+ fitted ‘OU’ model parameters:
+	alpha = 0.160501
+	sigsq = 104.484366
+	z0 = 56.306591
+
+ model summary:
+	log-likelihood = -2958.195016
+	AIC = 5922.390032
+	AICc = 5922.421990
+	free parameters = 3
+
+Convergence diagnostics:
+	optimization iterations = 10000
+	failed iterations = 0
+	frequency of best fit = 0.00
+
+ object summary:
+	'lik' -- likelihood function
+	'bnd' -- bounds for likelihood search
+	'res' -- optimization iteration summary
+	'opt' -- maximum likelihood parameter estimates
+
+
+
+
+	*** EARLY-BURST: fitting EB *** 
+GEIGER-fitted comparative model of continuous data
+ fitted ‘EB’ model parameters:
+	a = -0.000001
+	sigsq = 77.230506
+	z0 = 44.061900
+
+ model summary:
+	log-likelihood = -3022.499867
+	AIC = 6050.999734
+	AICc = 6051.031691
+	free parameters = 3
+
+Convergence diagnostics:
+	optimization iterations = 10000
+	failed iterations = 0
+	frequency of best fit = 0.00
+
+ object summary:
+	'lik' -- likelihood function
+	'bnd' -- bounds for likelihood search
+	'res' -- optimization iteration summary
+	'opt' -- maximum likelihood parameter estimates
+
+
+
+
+	*** TREND: fitting trend *** 
+GEIGER-fitted comparative model of continuous data
+ fitted ‘trend’ model parameters:
+	slope = 99.999999
+	sigsq = 0.023079
+	z0 = 50.313401
+
+ model summary:
+	log-likelihood = -3009.026477
+	AIC = 6024.052953
+	AICc = 6024.084911
+	free parameters = 3
+
+Convergence diagnostics:
+	optimization iterations = 10000
+	failed iterations = 0
+	frequency of best fit = 0.08
+
+ object summary:
+	'lik' -- likelihood function
+	'bnd' -- bounds for likelihood search
+	'res' -- optimization iteration summary
+	'opt' -- maximum likelihood parameter estimates
+
+
+
+
+	*** LAMBDA: fitting lambda *** 
+GEIGER-fitted comparative model of continuous data
+ fitted ‘lambda’ model parameters:
+	lambda = 0.940344
+	sigsq = 19.478511
+	z0 = 44.272638
+
+ model summary:
+	log-likelihood = -2825.287189
+	AIC = 5656.574377
+	AICc = 5656.606335
+	free parameters = 3
+
+Convergence diagnostics:
+	optimization iterations = 10000
+	failed iterations = 0
+	frequency of best fit = 0.00
+
+ object summary:
+	'lik' -- likelihood function
+	'bnd' -- bounds for likelihood search
+	'res' -- optimization iteration summary
+	'opt' -- maximum likelihood parameter estimates
+
+
+
+
+	*** KAPPA: fitting kappa *** 
+GEIGER-fitted comparative model of continuous data
+ fitted ‘kappa’ model parameters:
+	kappa = 0.356732
+	sigsq = 50.375508
+	z0 = 32.592721
+
+ model summary:
+	log-likelihood = -2874.914620
+	AIC = 5755.829241
+	AICc = 5755.861198
+	free parameters = 3
+
+Convergence diagnostics:
+	optimization iterations = 10000
+	failed iterations = 0
+	frequency of best fit = 0.01
+
+ object summary:
+	'lik' -- likelihood function
+	'bnd' -- bounds for likelihood search
+	'res' -- optimization iteration summary
+	'opt' -- maximum likelihood parameter estimates
+
+
+
+
+	*** DELTA: fitting delta *** 
+GEIGER-fitted comparative model of continuous data
+ fitted ‘delta’ model parameters:
+	delta = 0.000000
+	sigsq = 2190237143458600.750000
+	z0 = 33.206196
+
+ model summary:
+	log-likelihood = -2930.588959
+	AIC = 5867.177919
+	AICc = 5867.209876
+	free parameters = 3
+
+Convergence diagnostics:
+	optimization iterations = 10000
+	failed iterations = 0
+	frequency of best fit = 0.00
+
+ object summary:
+	'lik' -- likelihood function
+	'bnd' -- bounds for likelihood search
+	'res' -- optimization iteration summary
+	'opt' -- maximum likelihood parameter estimates
+
+
+
+
+	*** DRIFT: fitting drift *** 
+GEIGER-fitted comparative model of continuous data
+ fitted ‘drift’ model parameters:
+	sigsq = 77.227037
+	drift = 43.962555
+	z0 = -1458.366325
+
+ model summary:
+	log-likelihood = -3022.499443
+	AIC = 6050.998886
+	AICc = 6051.030843
+	free parameters = 3
+
+Convergence diagnostics:
+	optimization iterations = 10000
+	failed iterations = 0
+	frequency of best fit = 0.76
+
+ object summary:
+	'lik' -- likelihood function
+	'bnd' -- bounds for likelihood search
+	'res' -- optimization iteration summary
+	'opt' -- maximum likelihood parameter estimates
+
+
+
+
+	*** WHITE-NOISE: fitting white *** 
+GEIGER-fitted comparative model of continuous data
+ fitted ‘white’ model parameters:
+	sigsq = 295.066842
+	z0 = 59.835381
+
+ model summary:
+	log-likelihood = -3218.217299
+	AIC = 6440.434597
+	AICc = 6440.450555
+	free parameters = 2
+
+Convergence diagnostics:
+	optimization iterations = 10000
+	failed iterations = 0
+	frequency of best fit = 1.00
+
+ object summary:
+	'lik' -- likelihood function
+	'bnd' -- bounds for likelihood search
+	'res' -- optimization iteration summary
+	'opt' -- maximum likelihood parameter estimates
