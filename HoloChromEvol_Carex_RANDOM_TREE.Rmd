@@ -79,7 +79,7 @@ load(file="myEnvironment_random.RData")
 library(geiger)
 
 #---- STORE RESULTS
-brownFit <-  fitContinuous(phy, states, SE=sd, control=list(niter=100), ncores=2)
+brownFit <-  fitContinuous(phy, states, SE=sd, control=list(niter=10000), ncores=2)
 
 #---- PRINT RESULTS
 print(names(brownFit))
